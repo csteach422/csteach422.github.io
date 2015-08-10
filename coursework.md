@@ -22,7 +22,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * DEV week demo
     * brief group presentation or demo
   * final demo
-    * presentation, online demo, video overview...it's your choice
+    * presentation, live demo, video overview...it's your choice
   * final report
     * clearly detail design and development process
     * outline testing, prototypes etc
