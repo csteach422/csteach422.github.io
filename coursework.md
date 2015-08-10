@@ -28,6 +28,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * outline testing, prototypes etc
     * explain what does and does not work in your final app
     * detail concepts and ideas for further development of this mobile application
+    * ...
   * work may be conducted individually or in groups (max. 5 persons per group)
     * **hint**: working as a group will be a lot easier
     * group report must clearly define each student's work and contributions, where applicable
