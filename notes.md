@@ -21,4 +21,6 @@ This material will be updated on a weekly basis.
 ***
 
 ##### Week 1 - 28th August 2015
+<!--
   * [course](/assets/docs/Comp422-week1.pdf)
+  -->

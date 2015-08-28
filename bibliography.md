@@ -22,8 +22,9 @@ There is no specific textbook for this course.
 
 ###### Week 1 - 28th August 2015
  
+ <!--
   * Nielsen, J. & Molich, R. *Heuristic evaluation of user interfaces.* Proc ACM CHI'90 Conference,
 Seattle. 1990. PP.249-256. 
   * 
-
+-->
 

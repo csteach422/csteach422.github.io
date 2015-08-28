@@ -13,6 +13,7 @@ summary: weekly assignment for COMP 422
 ---
 
 #### Week 1 - 28th August 2015
-
+<!--
 * Review this week's [notes and material](/notes), which includes the class notes
 * 
+-->
