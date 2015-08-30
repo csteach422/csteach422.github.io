@@ -12,7 +12,7 @@ published: true
 summary: coursework for COMP 422
 ---
 
-Course assessment will continue throughout the semester. 
+Course assessment will continue throughout the semester.
 
 If you have any questions on the following assessments, please [contact](/contact) me.
 
@@ -50,10 +50,10 @@ If you have any questions on the following assessments, please [contact](/contac
 <a id="assessment2"></a>
 ###### 2. DEV week assessment (30%)
 
-* begin development of a mobile application
+* begin development of a mobile application using Apache Cordova
   * **not** a responsive website viewed on a mobile device
-* can be platform agnostic or specific targeted OS
-    * eg: Android, iOS...
+* can be platform agnostic (cross-platform) or specific targeted OS
+    * eg: Android, iOS, Windows Phone using Cordova APIs
     * consider choice, and explain why?
 * outline concept, research conducted to date
 * consider applicable design patterns
@@ -62,7 +62,7 @@ If you have any questions on the following assessments, please [contact](/contac
 * prototyping
   * demo current prototypes
   * any working tests or models etc
-    
+
 **NB:** DEV week assessment will include the following:
 
 * brief presentation or demonstration of current project work
@@ -78,12 +78,16 @@ If you have any questions on the following assessments, please [contact](/contac
 <a id="assessment3"></a>
 ###### 3. final assessment (40%)
 
-* continue to develop your app concept and prototypes
-* working app (as close as possible...)
+* continue to develop your app concept and prototypes using Apache Cordova
+* implement a custom Cordova plugin for either of the following native Mobile OSs
+  * Android
+  * iOS
+  * Windows Phone
+* working app
 * explain design decisions
   * outline what you chose and why?
   * what else did you consider, and then omit? (again, why?)
-* which platform/OS did you choose, and why?
+* which platform/s did you choose, and why?
 * which concepts could you abstract for easy porting to other platform/OS?
 * describe patterns used in design of UI and interaction
 
@@ -98,8 +102,8 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Grading
 
-Grades will be issued for appropriate weekly or section tasks, where applicable, and for each of the core assessments listed above. 
-A composite grade will then be available at the end of the semester for the overall class. 
+Grades will be issued for appropriate weekly or section tasks, where applicable, and for each of the core assessments listed above.
+A composite grade will then be available at the end of the semester for the overall class.
 
 Grades will use the following scale,
 
@@ -111,5 +115,3 @@ Grades will use the following scale,
   * 50% to 41%  = C
   * 40% to 31%  = F
   * 30% to 0%   = ?
-  
-  

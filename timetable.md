@@ -21,6 +21,8 @@ This class will meet at the following time and place,
 
 #### Important Dates
 
+* Labor Day weekend: 4th to 7th September 2015
+  * No formal class: 4th September 2015
 * DEV week: 5th to 9th October 2015
 	* No formal class: 9th October 2015
 * Thanksgiving break: 25th to 28th November 2015
@@ -28,7 +30,7 @@ This class will meet at the following time and place,
 * Final class: 4th December 2015
 * Exam week: 7th December to 12th December 2015
 	* Final assessment due on 11th December 2015 by 5.15pm
-	
+
 #### Coursework Schedule
 
 * Friday 16th October 2015

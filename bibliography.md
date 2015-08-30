@@ -21,10 +21,7 @@ References will be cited at the end of each week's notes.
 There is no specific textbook for this course.
 
 ###### Week 1 - 28th August 2015
- 
- <!--
-  * Nielsen, J. & Molich, R. *Heuristic evaluation of user interfaces.* Proc ACM CHI'90 Conference,
-Seattle. 1990. PP.249-256. 
-  * 
--->
 
+* Carmody, Tim., *Fighting Words: Defining "Mobile" and "Computer"* Wired. 11.08.2010. [http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/](http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/)
+* Smith, Aaron., *U.S. Smartphone Use in 2015* PewResearchCenter. 04.01.2015.[http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/)
+* Various., *Digital, Social & Mobile in 2015* We Are Social Singapore. 01.20.2015. [http://www.slideshare.net/wearesocialsg/digital-social-mobile-in-2015](http://www.slideshare.net/wearesocialsg/digital-social-mobile-in-2015)

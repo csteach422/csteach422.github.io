@@ -12,7 +12,7 @@ published: true
 summary: suggested links and resources for COMP 422
 ---
 
-This list contains a variety of information, suggestions, and generally interesting material. 
+This list contains a variety of information, suggestions, and generally interesting material.
 
 This section will be updated on a weekly basis during the Fall semester.
 
@@ -27,11 +27,17 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * -->
 
-#### Frameworks & Libraries - HTML5, CSS, JS... (a few examples)
+#### Frameworks, Libraries, APIs...
 
+* [Apache Cordova](https://cordova.apache.org/)
+  * [Apache Cordova API](http://docs.cordova.io)
+  * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&query=cordova)
+* [Apache Cordova Wiki](http://wiki.apache.org/cordova/)
+* [Adobe PhoneGap](http://phonegap.com/)
+* [Ionic](http://ionic.io/)
   * JQuery
     * [JQuery Mobile](http://jquerymobile.com/)
-  
+
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
 #### Mockup and Prototype Tools - a few examples
@@ -46,19 +52,19 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
-<!--
+
 #### Videos
 
-* -->
+* Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
+* iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
+*
 
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-* Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-
