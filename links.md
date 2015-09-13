@@ -27,37 +27,52 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * -->
 
+#### Documentation
+
+* [Android Platform Guide](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide)
+* [Android - Installing the Stand-alone SDK Tools](http://developer.android.com/sdk/installing/index.html?pkg=tools)
+* [Apache Cordova](https://cordova.apache.org/)
+* [Apache Cordova Documentation](https://cordova.apache.org/docs/en/4.0.0/guide_support_index.md.html)
+* [Cordova Platform Guides](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_index.md.html#Platform%20Guides)
+
 #### Frameworks, Libraries, APIs...
 
-* [Apache Cordova](https://cordova.apache.org/)
+* Apache Cordova
   * [Apache Cordova API](http://docs.cordova.io)
   * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&query=cordova)
 * [Apache Cordova Wiki](http://wiki.apache.org/cordova/)
 * [Adobe PhoneGap](http://phonegap.com/)
 * [Ionic](http://ionic.io/)
-  * JQuery
-    * [JQuery Mobile](http://jquerymobile.com/)
+* JQuery
+  * [JQuery Mobile](http://jquerymobile.com/)
 
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
 #### Mockup and Prototype Tools - a few examples
 
-  * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
-  * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
-  * [Bootstrap](http://getbootstrap.com/)
-  * [Flinto](https://www.flinto.com/)
-  * [Framer](http://framerjs.com/)
-  * [Google Drawings](http://goo.gl/qPRCfG)
-  * [Mirror.js](http://jimulabs.com/mirrorjs-preview/) (useful for Android)
-  * [Proto.io](https://proto.io/)
-  * [Sketch3](http://bohemiancoding.com/sketch/)
-  * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+* [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
+* [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
+* [Bootstrap](http://getbootstrap.com/)
+* [Flinto](https://www.flinto.com/)
+* [Framer](http://framerjs.com/)
+* [Google Drawings](http://goo.gl/qPRCfG)
+* [Mirror.js](http://jimulabs.com/mirrorjs-preview/) (useful for Android)
+* [Proto.io](https://proto.io/)
+* [Sketch3](http://bohemiancoding.com/sketch/)
+* [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+
+#### Tools and Other Software
+
+* [Android - SDK Tools Only](http://developer.android.com/sdk/index.html#Other)
+* [Android Studio](http://developer.android.com/sdk/installing/index.html?pkg=studio)
+* [Git](http://git-scm.com/)
+* [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+* [Node.js](https://nodejs.org/en/)
 
 #### Videos
 
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
-*
 
 #### Websites
 

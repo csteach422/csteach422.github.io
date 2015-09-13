@@ -12,6 +12,14 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 3 - 11th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Ensure you have a working Apache Cordova development environment installed on your local machine
+  * follow instructions in this week's course [notes](/notes) for further details
+* Create a basic project template for Apache Cordova and test with a local emulator (AVD)
+  * details and instructions are included at the end of this week's course [notes](/notes) from page 35 onwards
+
 #### Week 1 - 28th August 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
