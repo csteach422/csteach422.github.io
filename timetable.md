@@ -22,7 +22,6 @@ This class will meet at the following time and place,
 #### Important Dates
 
 * Labor Day weekend: 4th to 7th September 2015
-  * No formal class: 4th September 2015
 * DEV week: 5th to 9th October 2015
 	* No formal class: 9th October 2015
 * Thanksgiving break: 25th to 28th November 2015
