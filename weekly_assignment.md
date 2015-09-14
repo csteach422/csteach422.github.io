@@ -19,6 +19,8 @@ summary: weekly assignment for COMP 422
   * follow instructions in this week's course [notes](/notes) for further details
 * Create a basic project template for Apache Cordova and test with a local emulator (AVD)
   * details and instructions are included at the end of this week's course [notes](/notes) from page 35 onwards
+* Please add a list for your group to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
+  * [Week 3 - Mobile Design](https://trello.com/b/y3Fufy3O/week-3-mobile-design)
 
 #### Week 1 - 28th August 2015
 
