@@ -12,6 +12,25 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 4 - 18th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please start to outline the design and structure of your project's application
+  * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
+  * views can include content pages/screens, dialogs, overlays, admin/account screens...
+  * consider the views from the **AirBNB** app we briefly discussed at the end of this week's class
+    * use these types of views as design examples, inspiration for the designs you might need within your own application
+  * consider the app's content and navigation structure, user interaction requirements, feedback, colour schemes...
+    * for each conceptual view, briefly outline how and where you expect to receive user interaction and feedback
+    * how will this interaction and feedback affect the application's state
+      * ie: will a user touching a button require an update in rendered content, views, options, read or write data...
+  * Please add this information, and associated mockup images or drawings, to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
+    * [Week 4 - Project Mockups](https://trello.com/b/YqvaYWFn/week-4-project-mockups)
+
+**NB:** further information on mockups can be found in the following document
+
+  * [Mockups](/assets/docs/comp422-mockups.pdf)
+
 #### Week 3 - 11th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

@@ -34,6 +34,9 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova Documentation](https://cordova.apache.org/docs/en/4.0.0/guide_support_index.md.html)
 * [Cordova Platform Guides](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_index.md.html#Platform%20Guides)
+* [jQuery Mobile API](http://api.jquerymobile.com/)
+  * [jQuery Mobile 1.4 Browser Support](https://jQuerymobile.com/browser-support/1.4/)
+  * [jQuery Mobile ThemeRoller](http://themeroller.jquerymobile.com/)
 
 #### Frameworks, Libraries, APIs...
 
@@ -83,3 +86,4 @@ If you have any suggestions for additions to this section of the site, please fe
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+* [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)

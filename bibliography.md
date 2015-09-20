@@ -20,6 +20,11 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 4 - 18th September 2015
+
+* [jQuery Mobile API](http://api.jquerymobile.com/)
+* [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
+
 ###### Week 3 - 11th September 2015
 
 * [Android Platform Guide](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide)
