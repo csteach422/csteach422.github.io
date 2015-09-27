@@ -12,6 +12,38 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 5 - 25th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Outline the following components of your group project's application,
+  * clearly detail navigation options per view in your app
+    * detail URL, hash, info, and path options for each link per view
+    * detail chosen transition per link from view to view
+    * detail how you are informing the user that the link is actionable
+  * clearly detail consistency considerations for each view and the overall app
+    * chosen colour schemes, and why, per view
+    * icons or graphics chosen per view
+    * also detail how each of the above fits into the app's overall design scheme
+  * Please add this information, and any associated mockups or sketches, to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
+    * [Week 5 - Navigation & Consistency](https://trello.com/b/THFHfggM/week-5-navigation-consistency)
+* Ensure you are able to run the current version of the class demo Cordova app
+  * app can be downloaded from the course' GitHub repository
+    * [Source](https://github.com/csteach422/source/tree/master/week5/cordova/tripnotes0.0.1)
+  * then, add the following modifications to this app
+    * update the app's design so the footer bar is always rendered at the foot of the screen
+    * add a new page container, and link to it from the home screen (**page1**) with a **pop** transition
+    * add a new list item to the list on the home screen (**page1**) for this new link
+    * send this updated code to the course' TA, Tyler Bobella, by the start of the next class
+      * either a link to the code on GitHub or Bitbucket
+      * or shared via a storage service such as Drive, Dropbox, Box, or OneDrive
+      * or a zipped file attached to an email
+* Prepare for a quiz, which is scheduled for the end of next week's class
+  * quiz will include material from the course and class notes for weeks 1, 3, 4 and 5 inclusive
+  * quiz will be approximately 30 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * you'll need a Google account (Gmail address) to be able login for the online quiz form
+
 #### Week 4 - 18th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

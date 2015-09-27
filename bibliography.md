@@ -20,6 +20,10 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 5 - 25th September 2015
+
+* Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.
+
 ###### Week 4 - 18th September 2015
 
 * [jQuery Mobile API](http://api.jquerymobile.com/)

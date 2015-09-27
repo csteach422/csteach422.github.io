@@ -45,9 +45,14 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&query=cordova)
 * [Apache Cordova Wiki](http://wiki.apache.org/cordova/)
 * [Adobe PhoneGap](http://phonegap.com/)
+
+##### UI Frameworks and Libraries
+* [Bootstrap](http://getbootstrap.com)
 * [Ionic](http://ionic.io/)
 * JQuery
   * [JQuery Mobile](http://jquerymobile.com/)
+* [Sencha Touch](https://www.sencha.com/products/touch/#overview)
+
 
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
