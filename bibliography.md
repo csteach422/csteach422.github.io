@@ -20,6 +20,14 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 6 - 2nd October 2015
+
+* [Cordova API Documentation](https://cordova.apache.org/docs/en/4.0.0/index.html)
+  * [config.xml file](https://cordova.apache.org/docs/en/4.0.0/config_ref_index.md.html#The%20config.xml%20File)
+  * [Icons and Splash screens](https://cordova.apache.org/docs/en/4.0.0/config_ref_images.md.html#Icons%20and%20Splash%20Screens)
+  * [Plugin APIs](https://cordova.apache.org/docs/en/4.0.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs)
+* Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
+
 ###### Week 5 - 25th September 2015
 
 * Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.

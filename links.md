@@ -42,6 +42,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * Apache Cordova
   * [Apache Cordova API](http://docs.cordova.io)
+    * [config.xml file](https://cordova.apache.org/docs/en/4.0.0/config_ref_index.md.html#The%20config.xml%20File)
+    * [Icons and Splash screens](https://cordova.apache.org/docs/en/4.0.0/config_ref_images.md.html#Icons%20and%20Splash%20Screens)
+    * [Plugin APIs](https://cordova.apache.org/docs/en/4.0.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs)
   * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&query=cordova)
 * [Apache Cordova Wiki](http://wiki.apache.org/cordova/)
 * [Adobe PhoneGap](http://phonegap.com/)

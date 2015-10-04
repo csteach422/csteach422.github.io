@@ -12,6 +12,21 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 6 - 2nd October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's additional notes on concepts for [designing our app](/assets/docs/design-our-app.pdf)
+* Review this week's code samples for Cordova available on the course' GitHub repository
+  * [GitHub - Week 6 Cordova code examples](https://github.com/csteach422/source/tree/master/week6/cordova)
+* Prepare your DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp422-week6.pdf)
+  * details are also available in the [Coursework](/coursework) section of this site
+* Please add weekly updates on your group's project development to the course' Trello organisation,
+  * [Week 6 updates](https://trello.com/b/tXVTmxul/week-6-dev-week-update-1)
+  * [Week 7 updates](https://trello.com/b/V1rajLZE/week-7-dev-week-update-2)
+
+[Any questions, please let me know.](mailto:nhayward@luc.edu?subject=COMP 422 - DEV Week assignment)
+
 #### Week 5 - 25th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

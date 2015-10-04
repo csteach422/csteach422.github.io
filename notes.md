@@ -20,6 +20,11 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 6 - 2nd October 2015
+
+  * [course](/assets/docs/Comp422-week6.pdf)
+  * [designing our app](/assets/docs/design-our-app.pdf)
+
 ##### Week 5 - 25th September 2015
 
   * [course](/assets/docs/Comp422-week5.pdf)
@@ -27,6 +32,7 @@ This material will be updated on a weekly basis.
 ##### Week 4 - 18th September 2015
 
   * [course](/assets/docs/Comp422-week4.pdf)
+  * [mockups](/assets/docs/comp422-mockups.pdf)
 
 ##### Week 3 - 11th September 2015
 
