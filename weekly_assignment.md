@@ -12,6 +12,32 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 8 - 16th October 2015
+
+* Complete the following peer review forms for the DEV Week projects and presentations
+  * [Group 1 - Team GRAB YOUR PACK](https://goo.gl/Ox8wy0)
+  * [Group 2 - Team ROOTS4ALL](https://goo.gl/Ak17W3)
+  * [Group 3 - Team FOODIES](https://goo.gl/3XijGE)
+  * [Group 4 - Team PINNACLE (CHICAGO WRITER'S BLOCK)](https://goo.gl/an8eK1)
+  * [Group 5 - Team BOWLFUL](https://goo.gl/pKjVY2)
+  * [Group 6 - Team iMENU](https://goo.gl/4a2Mz3)
+  * [Group 7 - Team DIGITAL MAGAZINE](https://goo.gl/ryp413)
+  * [Group 8 - Team REAL RE](https://goo.gl/Viwdv4)
+  * [Group 9 - Team REAL ESTATE SEARCHER APPLICATION](https://goo.gl/lI4O1w)
+* Complete these peer review forms by the end of **Thursday 22nd October**
+* You may use the new Slack channel, **week8-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week.
+* Please send your completed DEV Week presentation to myself and the course TA, Tyler Bobella
+  * share as an attachment or link on Slack
+* Please share your completed DEV Week code, and any associated files or data, with myself and the course TA
+  * code etc should be pushed to a repository on GitHub or Bitbucket
+  * any problems with setting up or using either service, please [contact the course TA](mailto:tjbobella@gmail.com?subject=COMP422 Dev Week)
+* Ensure that your project group has updated all of the current Trello boards on the course' Trello organisation
+  * this is up to and including the 'Week 7 - DEV week update 2' board
+  * must be completed by end of Monday 19th October 2015
+* Complete the following Trello board,
+  * [Week 8 - DEV Week Project Contributions](https://trello.com/b/8t87J5ZP/week-8-dev-week-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+
 #### Week 6 - 2nd October 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 8 - 16th October 2015
+
+  * N/A
+
 ##### Week 6 - 2nd October 2015
 
   * [course](/assets/docs/Comp422-week6.pdf)

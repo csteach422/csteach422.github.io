@@ -20,6 +20,10 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 8 - 16th October 2015
+
+* N/A
+
 ###### Week 6 - 2nd October 2015
 
 * [Cordova API Documentation](https://cordova.apache.org/docs/en/4.0.0/index.html)
