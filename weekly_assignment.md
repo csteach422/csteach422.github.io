@@ -12,6 +12,12 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 9 - 23rd October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's code samples for Cordova available on the course' GitHub repository
+  * [GitHub - Week 9 Cordova code examples](https://github.com/csteach422/source/tree/master/week9/cordova)
+
 #### Week 8 - 16th October 2015
 
 * Complete the following peer review forms for the DEV Week projects and presentations

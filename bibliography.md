@@ -20,6 +20,14 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 9 - 23rd October 2015
+
+* Cordova
+  * [Cordova API - camera plugin](https://www.npmjs.com/package/cordova-plugin-camera)
+  * [Cordova API - geolocation](https://www.npmjs.com/package/cordova-plugin-geolocation)
+* W3C
+  * [Geolocation API Specification](http://dev.w3.org/geo/api/spec-source.html)
+
 ###### Week 8 - 16th October 2015
 
 * N/A
