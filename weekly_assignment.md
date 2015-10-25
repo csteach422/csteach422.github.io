@@ -14,6 +14,14 @@ summary: weekly assignment for COMP 422
 
 #### Week 9 - 23rd October 2015
 
+* Complete the following peer review forms for the DEV Week projects and presentations
+  * [Group 10 - TDT](https://docs.google.com/forms/d/1e1tEJZlyanHZ7PZrdzxcXAWc2IVNVpJhVHF1oAPjqqc/viewform)
+  * [Group 11 - Sales Market](https://docs.google.com/forms/d/15vEfZ4_QOhyPMvRNVMncTQROLAoVbhc9veE3-CLjpkU/viewform)
+* Complete these peer review forms by **Thursday 28th October**
+* Please continue to use the Slack channel, week8-review, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* **Team members for Groups 10 & 11**
+  * please send your completed DEV Week presentation and code to myself @ [ancientlives@gmail.com](mailto:ancientlives@gmail.com?subject=Comp 422 - Week 9 Dev week)
+  * please ensure all Trello boards are up to date for this DEV Week work and presentations
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's code samples for Cordova available on the course' GitHub repository
   * [GitHub - Week 9 Cordova code examples](https://github.com/csteach422/source/tree/master/week9/cordova)
