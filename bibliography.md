@@ -20,6 +20,19 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 10 - 30th October 2015
+
+* Cordova
+  * [Cordova API - filesystem plugin](https://www.npmjs.com/package/cordova-plugin-file)
+  * [Cordova API - file transfer plugin](https://www.npmjs.com/package/cordova-plugin-file-transfer)
+  * [Cordova Storage](http://cordova.apache.org/docs/en/5.1.1/cordova/storage/storage.html)
+* GitHub
+  * [cordova-plugin-file](https://github.com/apache/cordova-plugin-file/)
+* HTML5
+  * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+* MDN
+  * [Web APIs - FileError](https://developer.mozilla.org/en-US/docs/Web/API/FileError)
+
 ###### Week 9 - 23rd October 2015
 
 * Cordova

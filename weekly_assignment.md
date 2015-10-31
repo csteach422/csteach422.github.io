@@ -12,6 +12,23 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 10 - 30th October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's code samples for Cordova available on the course' GitHub repository
+  * [GitHub - Week 10 Cordova code examples](https://github.com/csteach422/source/tree/master/week10/cordova/)
+* Please create a list on the [Week 10 - Deferred & Data](https://trello.com/b/a8JrTvYU/week10-deferred-data) Trello board for your group, and add the following details,
+  * examples of data requests within your site that would benefit from using jQuery's Deferred object
+  * what are the benefits of using a Deferred object for these requests?
+* Prepare for a quiz, which is scheduled for the end of next week's class
+  * quiz will include material from the course and class notes for weeks 6, 9, and 10 inclusive
+  * quiz will be approximately 30 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * you'll need a Google account (Gmail address) to be able login for the online quiz form
+
+Any questions, please let me know.
+
 #### Week 9 - 23rd October 2015
 
 * Complete the following peer review forms for the DEV Week projects and presentations
@@ -24,7 +41,7 @@ summary: weekly assignment for COMP 422
   * please ensure all Trello boards are up to date for this DEV Week work and presentations
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's code samples for Cordova available on the course' GitHub repository
-  * [GitHub - Week 9 Cordova code examples](https://github.com/csteach422/source/tree/master/week9/cordova)
+  * [GitHub - Week 9 Cordova code examples](https://github.com/csteach422/source/tree/master/week9/cordova/)
 
 #### Week 8 - 16th October 2015
 
