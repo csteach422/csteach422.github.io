@@ -38,6 +38,8 @@ If you have any suggestions for additions to this section of the site, please fe
 * [jQuery Mobile API](http://api.jquerymobile.com/)
   * [jQuery Mobile 1.4 Browser Support](https://jQuerymobile.com/browser-support/1.4/)
   * [jQuery Mobile ThemeRoller](http://themeroller.jquerymobile.com/)
+* [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 #### Frameworks, Libraries, APIs...
 

@@ -12,6 +12,13 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 11 - 6th November 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's code samples for Cordova available on the course' GitHub repository
+  * [GitHub - Week 11 Cordova code examples](https://github.com/csteach422/source/tree/master/week11/cordova/)
+* Please continue your team's project development in preparation for the final presentation on 4th December 2015
+
 #### Week 10 - 30th October 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

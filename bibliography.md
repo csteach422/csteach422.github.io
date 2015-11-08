@@ -20,6 +20,19 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 11 - 6th November 2015
+
+* Cordova
+  * [Cordova Storage](http://cordova.apache.org/docs/en/5.1.1/cordova/storage/storage.html)
+* GitHub
+  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+* HTML5
+  * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+* MDN
+  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* W3
+  * [Web storage specification](http://www.w3.org/TR/webstorage/)
+
 ###### Week 10 - 30th October 2015
 
 * Cordova
