@@ -16,7 +16,7 @@ Course notes and material will be added to this page during the Fall semester.
 
 This material will be updated on a weekly basis.
 
-#### Notes
+#### Notes & Material
 
 ***
 
