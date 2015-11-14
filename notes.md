@@ -20,11 +20,11 @@ This material will be updated on a weekly basis.
 
 ***
 
-##### Week 12 - 13th October 2015
+##### Week 12 - 13th November 2015
 
   * [course](/assets/docs/Comp422-week12.pdf)
 
-##### Week 11 - 6th October 2015
+##### Week 11 - 6th November 2015
 
   * [course](/assets/docs/Comp422-week11.pdf)
 
