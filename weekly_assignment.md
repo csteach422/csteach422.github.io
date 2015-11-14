@@ -12,6 +12,18 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 12 - 13th November 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's code samples for Cordova available on the course' GitHub repository
+  * [GitHub - Week 12 Cordova code examples](https://github.com/csteach422/source/tree/master/week12/cordova/)
+* Please create a list on the [Week 12 - Final Plan](https://trello.com/b/LjviJUgz/week-12-final-plan) Trello board for your group, and add the following details,
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
+
 #### Week 11 - 6th November 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

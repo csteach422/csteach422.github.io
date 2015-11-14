@@ -20,6 +20,16 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 12 - 13th November 2015
+
+* Cordova
+  * [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
+* GitHub
+  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+  * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
+* MDN
+  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+
 ###### Week 11 - 6th November 2015
 
 * Cordova
