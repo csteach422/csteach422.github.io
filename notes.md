@@ -16,9 +16,13 @@ Course notes and material will be added to this page during the Fall semester.
 
 This material will be updated on a weekly basis.
 
-#### Notes & Material
+#### Notes
 
 ***
+
+##### Week 13 - 20th November 2015
+
+  * [course](/assets/docs/Comp422-week13.pdf)
 
 ##### Week 12 - 13th November 2015
 

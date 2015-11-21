@@ -20,6 +20,15 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 13 - 20th November 2015
+
+* Cordova
+  * [Plugin Development Guide](https://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
+  * [Plugman](https://cordova.apache.org/docs/en/latest/plugin_ref/plugman.html)
+* Ionic
+  * [Home](http://ionicframework.com/)
+  * [Docs](http://ionicframework.com/docs/)
+
 ###### Week 12 - 13th November 2015
 
 * Cordova
