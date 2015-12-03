@@ -12,6 +12,16 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Week 15 - 4th December 2015
+
+* Please complete your group's final project report
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/COMP388422-FinalReportOutline-2015.pdf)
+* Report must be submitted by 5.15pm on Friday 11th December 2015
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Final Report) and Cc [ancientlives@gmail.com](mailto:ancientlives@gmail.com?subject=COMP422 - Final Report)
+
+Any questions, please let me know.
+
 #### Week 13 - 20th November 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
