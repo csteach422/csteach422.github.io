@@ -19,7 +19,8 @@ This course is offered by the [Department of Computer Science](http://www.luc.ed
 
 #### Recent Updates
 {% for post in site.posts limit: 5 %}
-* {{ post.date | date_to_string }} | [{{ post.title }}]({{ post.url }})
 
-  {{ post.summary }}
+<!--{{ post.date | date_to_string }} | [{{ post.title }}]({{ post.url }})-->
+* {{ post.date | date_to_string }} - [{{ post.title }}]({{ post.url }})
+  * {{ post.summary }}
 {% endfor %}

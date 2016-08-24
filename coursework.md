@@ -36,7 +36,8 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Assessed coursework will include the following primary categories:
 
 <a id="assessment1"></a>
-###### 1. quizzes or group exercises at the end of each course section (30%)
+
+##### 1. quizzes or group exercises at the end of each course section (30%)
 
 * at least one week notice before quiz
   * average time ~30 minutes (can be extended if necessary...)
@@ -47,7 +48,8 @@ If you have any questions on the following assessments, please [contact](/contac
   * get feedback on project work
 
 <a id="assessment2"></a>
-###### 2. DEV week assessment (30%)
+
+##### 2. DEV week assessment (30%)
 
 * begin development of a mobile application using Apache Cordova
   * **not** a responsive website viewed on a mobile device
@@ -76,7 +78,8 @@ If you have any questions on the following assessments, please [contact](/contac
     * ...
 
 <a id="assessment3"></a>
-###### 3. final assessment (40%)
+
+##### 3. final assessment (40%)
 
 * continue to develop your app concept and prototypes
   * develop application using either Apache Cordova or native Android SDK
