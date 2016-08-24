@@ -27,6 +27,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * -->
 
+<!--
 #### Documentation
 
 * [Android Platform Guide](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide)
@@ -102,3 +103,4 @@ If you have any suggestions for additions to this section of the site, please fe
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
+-->

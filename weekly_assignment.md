@@ -12,7 +12,7 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
-#### Week 15 - 4th December 2015
+<!--#### Week 15 - 4th December 2015
 
 * Please complete your group's final project report
 * Further details can be found in the following outline
@@ -182,8 +182,9 @@ Any questions, please let me know.
   * details and instructions are included at the end of this week's course [notes](/notes) from page 35 onwards
 * Please add a list for your group to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
   * [Week 3 - Mobile Design](https://trello.com/b/y3Fufy3O/week-3-mobile-design)
+-->
 
-#### Week 1 - 28th August 2015
+#### Week 1 - 2nd September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Begin to review the following resources and material
@@ -207,7 +208,7 @@ Any questions, please let me know.
 
 The course Trello board is available at the following URL,
 
-* [COMP388/424 @ LUC](https://trello.com/comp388422luc)
+* [COMP388/422 @ LUC](https://trello.com/comp388422luc)
 
 **NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP422 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
 

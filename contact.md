@@ -10,7 +10,7 @@ categories:
 
 tags: general site social
 published: true
-summary: contact details for COMP 422, Fall 2015
+summary: contact details for COMP 422
 ---
 
 For course enquiries, please use one of the following contact options
@@ -23,6 +23,3 @@ For course enquiries, please use one of the following contact options
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
 Office hours for this semester are Friday afternoon [by appointment](mailto:nhayward@luc.edu?subject=Comp 422 Appointment) at the above office address.
-
-
-

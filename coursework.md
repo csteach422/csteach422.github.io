@@ -29,8 +29,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * explain what does and does not work in your final app
     * detail concepts and ideas for further development of this mobile application
     * ...
-  * work may be conducted individually or in groups (max. 5 persons per group)
-    * **hint**: working as a group will be a lot easier
+  * work may be conducted individually or in groups (max. 3 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
@@ -54,6 +53,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * **not** a responsive website viewed on a mobile device
 * can be platform agnostic (cross-platform) or specific targeted OS
     * eg: Android, iOS, Windows Phone using Cordova APIs
+      * **HINT**: Android will probably be the easiest for most groups...
     * consider choice, and explain why?
 * outline concept, research conducted to date
 * consider applicable design patterns
@@ -66,7 +66,7 @@ If you have any questions on the following assessments, please [contact](/contac
 **NB:** DEV week assessment will include the following:
 
 * brief presentation or demonstration of current project work
-  * ~ 5 to 10 minutes per group
+  * ~ 10 minutes per group
   * analysis of work conducted so far
     * eg: during semester & DEV week
   * presentation, demonstration, or video overview...
@@ -78,12 +78,16 @@ If you have any questions on the following assessments, please [contact](/contac
 <a id="assessment3"></a>
 ###### 3. final assessment (40%)
 
-* continue to develop your app concept and prototypes using Apache Cordova
-* implement a custom Cordova plugin for either of the following native Mobile OSs
-  * Android
-  * iOS
-  * Windows Phone
-* working app
+* continue to develop your app concept and prototypes
+  * develop application using either Apache Cordova or native Android SDK
+* if the app uses Apache Cordova
+  * implement a custom Cordova plugin for either of the following native Mobile OSs
+    * Android
+    * iOS
+    * Windows Phone
+* produce a working app
+  * as far as possible try to create a fully working app
+  * explain any parts of the app not working...
 * explain design decisions
   * outline what you chose and why?
   * what else did you consider, and then omit? (again, why?)
@@ -94,11 +98,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due 16th October 2015 @ 2.45pm
-* final team demo
-  * due 4th December 2015 @ 2.45pm
+  * due Friday 14th October 2016 @ 2.45pm
+* final project demo
+  * due Friday 9th December 2016 @ 2.45pm
 * final team report
-  * due 11th December 2015 @ 5.15pm
+  * due Friday 16th December 2016 @ 2.45pm
 
 #### Grading
 

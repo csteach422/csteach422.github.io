@@ -7,11 +7,11 @@ categories:
 - blog
 
 tags: general news
-year: 2015
-month: 08
-day: 28
+year: 2016
+month: 09
+day: 01
 published: true
-summary: welcome to the new Fall semester, 2015
+summary: welcome to the new Fall semester, 2016
 menu: new-semester
 ---
 

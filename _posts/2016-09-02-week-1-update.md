@@ -1,5 +1,5 @@
 ---
-title: Week 9 update and assignment
+title: Week 1 update and assignment
 author: ancientlives
 layout: post-vertical
 
@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: general news
-year: 2015
-month: 10
-day: 23
+year: 2016
+month: 09
+day: 02
 published: true
-summary: site updated and week 9 assignment
+summary: site updated and week 1 assignment
 menu: week1-update
 ---
 
-The course website has now been updated for this week's class, week 9.
+The course website has now been updated for this week's class, week 1.
 
 Updates include the following,
 

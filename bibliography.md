@@ -20,7 +20,7 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
-###### Week 13 - 20th November 2015
+<!--###### Week 13 - 20th November 2015
 
 * Cordova
   * [Plugin Development Guide](https://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
@@ -99,8 +99,8 @@ There is no specific textbook for this course.
 * [Android Platform Guide](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide)
 * [Apache Cordova Documentation](https://cordova.apache.org/docs/en/4.0.0/guide_support_index.md.html)
 * [Apache Cordova Platform Guides](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_index.md.html#Platform%20Guides)
-
-###### Week 1 - 28th August 2015
+-->
+###### Week 1 - 2nd September 2016
 
 * Carmody, Tim., *Fighting Words: Defining "Mobile" and "Computer"* Wired. 11.08.2010. [http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/](http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/)
 * Smith, Aaron., *U.S. Smartphone Use in 2015* PewResearchCenter. 04.01.2015.[http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/)
