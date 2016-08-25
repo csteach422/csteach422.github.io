@@ -196,7 +196,7 @@ Any questions, please let me know.
   * [HTML](http://www.w3schools.com/html/default.asp)
   * [CSS](http://www.w3schools.com/css/default.asp)
   * [JS](http://www.w3schools.com/js/default.asp)
-  * [JQuery Mobile](http://www.w3schools.com/jquerymobile/default.asp)
+  * [jQuery Mobile](http://www.w3schools.com/jquerymobile/default.asp)
 * Add your initial Project details to the course [Trello board](https://trello.com/comp388422luc), **Week 1 - Project Details**
   * project name
   * team members
