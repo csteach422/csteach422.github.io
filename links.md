@@ -37,10 +37,11 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova Documentation](https://cordova.apache.org/docs/en/4.0.0/guide_support_index.md.html)
 * [Cordova Platform Guides](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_index.md.html#Platform%20Guides)
-* [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+<!-- * [HTML5 File API](http://www.w3.org/TR/FileAPI/) -->
 * [jQuery Mobile API](http://api.jquerymobile.com/)
   * [jQuery Mobile 1.4 Browser Support](https://jQuerymobile.com/browser-support/1.4/)
   * [jQuery Mobile ThemeRoller](http://themeroller.jquerymobile.com/)
+
 <!--
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
@@ -68,8 +69,10 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Bootstrap](http://getbootstrap.com)
 * [Ionic](http://ionic.io/)
 -->
-* JQuery
-  * [JQuery Mobile](http://jquerymobile.com/)
+
+* jQuery
+  * [jQuery Mobile](http://jquerymobile.com/)
+
 <!--
 * [Sencha Touch](https://www.sencha.com/products/touch/#overview)
 -->
