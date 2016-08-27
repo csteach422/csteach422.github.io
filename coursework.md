@@ -20,7 +20,7 @@ If you have any questions on the following assessments, please [contact](/contac
 
 * assessment will include a combination of semester's quizzes or group exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
   * DEV week demo
-    * brief group presentation or demo
+    * brief group presentation and demo
   * final demo
     * presentation, live demo, video overview...it's your choice
   * final report
@@ -32,6 +32,8 @@ If you have any questions on the following assessments, please [contact](/contac
   * work may be conducted individually or in groups (max. 3 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
+
+**n.b.** please read the [Final Report Outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf) for further details.
 
 #### Assessed coursework will include the following primary categories:
 
@@ -84,10 +86,9 @@ If you have any questions on the following assessments, please [contact](/contac
 * continue to develop your app concept and prototypes
   * develop application using either Apache Cordova or native Android SDK
 * if the app uses Apache Cordova
-  * implement a custom Cordova plugin for either of the following native Mobile OSs
+  * implement a custom Cordova plugin for either of the following native mobile OSs
     * Android
     * iOS
-    * Windows Phone
 * produce a working app
   * as far as possible try to create a fully working app
   * explain any parts of the app not working...
