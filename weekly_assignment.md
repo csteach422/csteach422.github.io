@@ -197,7 +197,7 @@ Any questions, please let me know.
   * [CSS](http://www.w3schools.com/css/default.asp)
   * [JS](http://www.w3schools.com/js/default.asp)
   * [jQuery Mobile](http://www.w3schools.com/jquerymobile/default.asp)
-* Add your initial Project details to the course [Trello board](https://trello.com/comp388422luc), **Week 1 - Project Details**
+* Add your initial Project details to the course's Trello group on the board [Week 1 - Project Detais](https://trello.com/comp388422luc)
   * project name
   * team members
   * any ideas or concepts for your project design. eg:
@@ -206,9 +206,9 @@ Any questions, please let me know.
     * examples of mobile apps, sites etc that are similar or might be considered inspirational
     * list any other general resources consulted
 
-The course Trello board is available at the following URL,
+The course Trello group is available at the following URL,
 
-* [COMP388/422 @ LUC](https://trello.com/comp388422luc)
+* [COMP388/422 @ LUC](https://trello.com/comp422fall2016luc)
 
 **NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP422 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
 
