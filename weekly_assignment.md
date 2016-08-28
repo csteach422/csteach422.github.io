@@ -200,7 +200,7 @@ Any questions, please let me know.
 * Add your initial Project details to the course's Trello group on the board [Week 1 - Project Detais](https://trello.com/comp388422luc)
   * project name
   * team members
-  * any ideas or concepts for your project design. eg:
+  * any ideas or concepts for your project design. e.g.
     * possible project ideas
     * possible datasets
     * examples of mobile apps, sites etc that are similar or might be considered inspirational
