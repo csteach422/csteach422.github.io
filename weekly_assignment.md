@@ -12,6 +12,10 @@ published: true
 summary: weekly assignment for COMP 422
 ---
 
+#### Assignment submission
+* Weekly assignments are due by the start of the next week's class, unless a specific date is given to the contrary.
+* Submissions should normally be posted to the applicable week's Trello board, unless otherwise stated.
+
 <!--#### Week 15 - 4th December 2015
 
 * Please complete your group's final project report
