@@ -206,7 +206,7 @@ Any questions, please let me know.
     * examples of mobile apps, sites etc that are similar or might be considered inspirational
     * list any other general resources consulted
 
-The course Trello group is available at the following URL,
+The course's Trello group is available at the following URL,
 
 * [COMP388/422 @ LUC](https://trello.com/comp422fall2016luc)
 
