@@ -18,8 +18,8 @@ For course enquiries, please use one of the following contact options
 #### Lecturer
 
 * Name: Dr Nick Hayward
-* Office: [316 Loyola Hall (LSC)](http://www.luc.edu/media/lucedu/lsc.pdf)
+* Office: [531 Lewis Towers (WTC)](http://www.luc.edu/media/lucedu/wtc.pdf)
 * Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 422 Enquiry)
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
-Office hours for this semester are Friday afternoon [by appointment](mailto:nhayward@luc.edu?subject=Comp 422 Appointment) at the above office address.
+Office hours for this semester are Friday afternoon [by appointment](mailto:nhayward@luc.edu?subject=Comp 422 Appointment). 
