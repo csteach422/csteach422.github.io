@@ -105,7 +105,7 @@ If you have any questions on the following assessments, please [contact](/contac
 * final project demo
   * due Friday 9th December 2016 @ 2.45pm
 * final team report
-  * due Friday 16th December 2016 @ 2.45pm
+  * due Friday 16th December 2016 @ 5.15pm
 
 #### Grading
 
