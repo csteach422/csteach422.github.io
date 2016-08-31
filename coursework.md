@@ -86,9 +86,8 @@ If you have any questions on the following assessments, please [contact](/contac
 * continue to develop your app concept and prototypes
   * develop application using either Apache Cordova or native Android SDK
 * if the app uses Apache Cordova
-  * implement a custom Cordova plugin for either of the following native mobile OSs
+  * implement a custom Cordova plugin for a native mobile OS
     * Android
-    * iOS
 * produce a working app
   * as far as possible try to create a fully working app
   * explain any parts of the app not working...
