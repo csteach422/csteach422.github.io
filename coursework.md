@@ -54,7 +54,7 @@ If you have any questions on the following assessments, please [contact](/contac
 ##### 2. DEV week assessment (30%)
 
 * begin development of a mobile application using Apache Cordova
-  * **not** a responsive website viewed on a mobile device
+  * **NOT** a responsive website viewed on a mobile device
 * can be platform agnostic (cross-platform) or specific targeted OS
     * eg: Android, iOS, Windows Phone using Cordova APIs
       * **HINT**: Android will probably be the easiest for most groups...
