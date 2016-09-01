@@ -94,7 +94,7 @@ If you have any questions on the following assessments, please [contact](/contac
 * explain design decisions
   * outline what you chose and why?
   * what else did you consider, and then omit? (again, why?)
-* which platform/s did you choose, and why?
+<!--* which platform/s did you choose, and why?-->
 * which concepts could you abstract for easy porting to other platform/OS?
 * describe patterns used in design of UI and interaction
 
