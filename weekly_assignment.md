@@ -190,7 +190,7 @@ Any questions, please let me know.
   * details and instructions are included in this week's course [notes](/assets/docs/2016/comp422-week2.pdf)
 * Please add a list for your group to this week's board on the course's Trello group, which is available at the following URL
   * [Week 2 - Mobile Design](https://trello.com/b/0f2apCWJ/week-2-mobile-design)
-  * I've added initial instructions to this board
+  * I've added initial instructions to this board.
 
 Any questions, please let me know.
 
