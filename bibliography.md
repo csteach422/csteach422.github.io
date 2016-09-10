@@ -94,12 +94,18 @@ There is no specific textbook for this course.
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 * [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
 
-###### Week 3 - 11th September 2015
-
-* [Android Platform Guide](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide)
-* [Apache Cordova Documentation](https://cordova.apache.org/docs/en/4.0.0/guide_support_index.md.html)
-* [Apache Cordova Platform Guides](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_index.md.html#Platform%20Guides)
 -->
+
+###### Week 2 - 9th September 2016
+
+* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
+* [Android - Stand-alone SDK Tools (see foot of page)](https://developer.android.com/studio/index.html)
+* [Android Studio 2.1](https://developer.android.com/studio/index.html)
+* [Apache Cordova](https://cordova.apache.org/)
+* [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
+* [Git](http://git-scm.com/)
+* [Java - JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Node.js](https://nodejs.org/en/)
 
 ##### Week 1 - 2nd September 2016
 

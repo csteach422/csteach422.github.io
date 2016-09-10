@@ -176,17 +176,23 @@ Any questions, please let me know.
 **NB:** further information on mockups can be found in the following document
 
   * [Mockups](/assets/docs/comp422-mockups.pdf)
+-->
 
-#### Week 3 - 11th September 2015
+#### Week 2 - 9th September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Ensure you have a working Apache Cordova development environment installed on your local machine
-  * follow instructions in this week's course [notes](/notes) for further details
-* Create a basic project template for Apache Cordova and test with a local emulator (AVD)
-  * details and instructions are included at the end of this week's course [notes](/notes) from page 35 onwards
-* Please add a list for your group to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
-  * [Week 3 - Mobile Design](https://trello.com/b/y3Fufy3O/week-3-mobile-design)
--->
+  * follow instructions in this week's course [notes](/assets/docs/2016/comp422-week2.pdf) for further details or consult the extra documents,
+    * [Cordova Install and Setup](https://github.com/csteach422/notes/blob/master/2016/extras/cordova-install-setup.pdf)
+    * [Android Platform Guide](https://github.com/csteach422/notes/blob/master/2016/extras/android-platform-guide.pdf)
+    * [iOS Platform Guide](https://github.com/csteach422/notes/blob/master/2016/extras/ios-platform-guide.pdf)
+* Create a basic project template for Apache Cordova and test with a local emulator (e.g. AVD or ios-sim)
+  * details and instructions are included in this week's course [notes](/assets/docs/2016/comp422-week2.pdf)
+* Please add a list for your group to this week's board on the course's Trello group, which is available at the following URL
+  * [Week 2 - Mobile Design](https://trello.com/b/0f2apCWJ/week-2-mobile-design)
+  * I've added initial instructions to this board
+
+Any questions, please let me know.
 
 #### Week 1 - 2nd September 2016
 

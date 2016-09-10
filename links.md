@@ -28,54 +28,28 @@ If you have any suggestions for additions to this section of the site, please fe
 * -->
 
 
-#### Documentation
+#### Documentation, Guides...
 
-<!--
-* [Android Platform Guide](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide)
-* [Android - Installing the Stand-alone SDK Tools](http://developer.android.com/sdk/installing/index.html?pkg=tools)
--->
+* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova](https://cordova.apache.org/)
-* [Apache Cordova Documentation](https://cordova.apache.org/docs/en/4.0.0/guide_support_index.md.html)
-* [Cordova Platform Guides](http://cordova.apache.org/docs/en/5.0.0/guide_platforms_index.md.html#Platform%20Guides)
+* [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
+* [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
 <!-- * [HTML5 File API](http://www.w3.org/TR/FileAPI/) -->
+* [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
-  * [jQuery Mobile 1.4 Browser Support](https://jQuerymobile.com/browser-support/1.4/)
-  * [jQuery Mobile ThemeRoller](http://themeroller.jquerymobile.com/)
 
 <!--
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 -->
 
-<!--
-#### Frameworks, Libraries, APIs...
-
-* Apache Cordova
-  * [Apache Cordova API](http://docs.cordova.io)
-    * [config.xml file](https://cordova.apache.org/docs/en/4.0.0/config_ref_index.md.html#The%20config.xml%20File)
-    * [Icons and Splash screens](https://cordova.apache.org/docs/en/4.0.0/config_ref_images.md.html#Icons%20and%20Splash%20Screens)
-    * [Plugin APIs](https://cordova.apache.org/docs/en/4.0.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs)
-    * [Plugman](https://cordova.apache.org/docs/en/latest/plugin_ref/plugman.html)
-  * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&query=cordova)
-* [Apache Cordova Wiki](http://wiki.apache.org/cordova/)
-* [Adobe PhoneGap](http://phonegap.com/)
-* Ionic
-  * [Home](http://ionicframework.com/)
-  * [Docs](http://ionicframework.com/docs/)
--->
-
 ##### UI Frameworks and Libraries
-<!--
+
 * [Bootstrap](http://getbootstrap.com)
-* [Ionic](http://ionic.io/)
--->
-
-* jQuery
-  * [jQuery Mobile](http://jquerymobile.com/)
-
-<!--
+* [Ionic](http://ionicframework.com/)
+* [jQuery Mobile](http://jquerymobile.com/)
+* [Ratchet](http://goratchet.com/)
 * [Sencha Touch](https://www.sencha.com/products/touch/#overview)
--->
 
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
@@ -94,22 +68,22 @@ If you have any suggestions for additions to this section of the site, please fe
 * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 -->
 
-<!--
 #### Tools and Other Software
 
-* [Android - SDK Tools Only](http://developer.android.com/sdk/index.html#Other)
-* [Android Studio](http://developer.android.com/sdk/installing/index.html?pkg=studio)
+* [Android - Stand-alone SDK Tools (see foot of page)](https://developer.android.com/studio/index.html)
+* [Android Studio 2.1](https://developer.android.com/studio/index.html)
+* [Apache Cordova](https://cordova.apache.org/)
+* [Apache Cordova and iOS in the Cloud](https://taco.visualstudio.com/en-us/docs/build_ios_cloud/)
+* [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
 * [Git](http://git-scm.com/)
-* [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+* [Java - JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Node.js](https://nodejs.org/en/)
--->
+* [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
-<!--
 #### Videos
 
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
--->
 
 <!--
 #### Websites
