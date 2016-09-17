@@ -160,16 +160,19 @@ Any questions, please let me know.
 
 #### Week 4 - 18th September 2015
 
+* Please start to outline the design and structure of your project's application
+    * consider the app's content and navigation structure, user interaction requirements, feedback, colour schemes...
+      * for each conceptual view, briefly outline how and where you expect to receive user interaction and feedback
+      * how will this interaction and feedback affect the application's state
+        * ie: will a user touching a button require an update in rendered content, views, options, read or write data...
+    * Please add this information, and associated mockup images or drawings, to this week's card on the course' Trello.......................
+
 * Review this week's [notes and material](/notes), which includes the class notes
 * Please start to outline the design and structure of your project's application
   * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
   * views can include content pages/screens, dialogs, overlays, admin/account screens...
   * consider the views from the **AirBNB** app we briefly discussed at the end of this week's class
     * use these types of views as design examples, inspiration for the designs you might need within your own application
-  * consider the app's content and navigation structure, user interaction requirements, feedback, colour schemes...
-    * for each conceptual view, briefly outline how and where you expect to receive user interaction and feedback
-    * how will this interaction and feedback affect the application's state
-      * ie: will a user touching a button require an update in rendered content, views, options, read or write data...
   * Please add this information, and associated mockup images or drawings, to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
     * [Week 4 - Project Mockups](https://trello.com/b/8L102jNU/week-4-project-mockups)
 
@@ -177,6 +180,26 @@ Any questions, please let me know.
 
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
+
+#### Week 3 - 16th September 2016
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [jQuery Mobile - overview](/assets/docs/2016/extras/jquery-mobile-overview.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach422/source/tree/master/2016/week3)
+* Please test the Cordova examples,
+  * [Source - Week 3 - Cordova](https://github.com/csteach422/source/tree/master/2016/week3/cordova)
+* For the example Cordova app,
+  * [Source - Week 3 - Cordova - plugintest1](https://github.com/csteach422/source/tree/master/2016/week3/cordova/plugintest1)
+  * consider how you might add the following additional functionality to the app
+    * a **stop** button and associated logic to stop the audio currently playing
+    * a **pause** button and associated logic to pause the audio currently playing
+  * as a bonus, consider how you might
+    * add the current playback position of the audio file to the app's page
+
+**n.b.** you may choose your own preferred music file, format &c. for this test...
+
+Any questions, please let me know.
 
 #### Week 2 - 9th September 2016
 
