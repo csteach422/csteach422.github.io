@@ -181,6 +181,25 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 4 - 23rd September 2016
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [Design and Interface](/assets/docs/2016/extras/design-interface.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 4](https://github.com/csteach422/source/tree/master/2016/week4)
+* Please test the Cordova examples,
+  * [Source - Week 4 - Cordova](https://github.com/csteach422/source/tree/master/2016/week4/cordova)
+* Please start to outline the design and structure of your project's application
+  * consider the app's content and navigation structure, user interaction requirements, feedback, colour schemes...
+    * for each conceptual view, briefly outline how and where you expect to receive user interaction and feedback
+    * how will this interaction and feedback affect the application's state
+      * ie: will a user touching a button require an update in rendered content, views, options, read or write data...
+  * Please add this information, and associated mockup images or drawings, to this week's board on the course' Trello group,
+    * [Week 4 - Design and Structure](https://trello.com/b/dv3Fmdhx/week-4-design-and-structure)
+    * I've added initial instructions to this board
+
+Any questions, please let me know.
+
 #### Week 3 - 16th September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document

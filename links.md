@@ -75,6 +75,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova and iOS in the Cloud](https://taco.visualstudio.com/en-us/docs/build_ios_cloud/)
 * [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
+* [Genymotion](https://www.genymotion.com/)
 * [Git](http://git-scm.com/)
 * [Java - JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Node.js](https://nodejs.org/en/)
@@ -87,7 +88,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 
 #### Websites
-<!--
+
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
@@ -95,5 +96,4 @@ If you have any suggestions for additions to this section of the site, please fe
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
--->
 * [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)

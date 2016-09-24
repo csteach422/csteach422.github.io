@@ -84,11 +84,16 @@ There is no specific textbook for this course.
   * [Icons and Splash screens](https://cordova.apache.org/docs/en/4.0.0/config_ref_images.md.html#Icons%20and%20Splash%20Screens)
   * [Plugin APIs](https://cordova.apache.org/docs/en/4.0.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs)
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
+-->
 
-###### Week 5 - 25th September 2015
+###### Week 4 - 23rd September 2016
 
 * Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.
--->
+* Cordova API
+  * [plugin - camera](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/index.html)
+  * [plugin -  Splashscreen](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-splashscreen/)
+* Cordova Guide
+  * [app templates](https://cordova.apache.org/docs/en/latest/guide/cli/template.html)
 
 ##### Week 3 - 16th September 2016
 
