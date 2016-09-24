@@ -86,7 +86,7 @@ There is no specific textbook for this course.
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 -->
 
-###### Week 4 - 23rd September 2016
+##### Week 4 - 23rd September 2016
 
 * Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.
 * Cordova API
