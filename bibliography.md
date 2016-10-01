@@ -76,15 +76,24 @@ There is no specific textbook for this course.
 ###### Week 8 - 16th October 2015
 
 * N/A
-
-###### Week 6 - 2nd October 2015
-
-* [Cordova API Documentation](https://cordova.apache.org/docs/en/4.0.0/index.html)
-  * [config.xml file](https://cordova.apache.org/docs/en/4.0.0/config_ref_index.md.html#The%20config.xml%20File)
-  * [Icons and Splash screens](https://cordova.apache.org/docs/en/4.0.0/config_ref_images.md.html#Icons%20and%20Splash%20Screens)
-  * [Plugin APIs](https://cordova.apache.org/docs/en/4.0.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs)
-* Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 -->
+
+###### Week 5 - 30th September 2016
+
+* Cordova API
+  * [plugin - filesystem plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
+  * [plugin - file transfer plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file-transfer/index.html)
+  * [plugin - geolocation](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-geolocation/index.html)
+  * [Storage](http://cordova.apache.org/docs/en/latest/cordova/storage/storage.html)
+* GitHub
+  * [cordova-plugin-file](https://github.com/apache/cordova-plugin-file/)
+* HTML5
+  * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+* MDN
+  * [Web APIs - FileError](https://developer.mozilla.org/en-US/docs/Web/API/FileError)
+* W3C
+  * [Geolocation API Specification](http://dev.w3.org/geo/api/spec-source.html)
+* Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
 ##### Week 4 - 23rd September 2016
 

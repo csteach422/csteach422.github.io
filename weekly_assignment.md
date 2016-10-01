@@ -181,6 +181,35 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 5 - 30th September 2016
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * [Design and Mockups](/assets/docs/2016/extras/design-mockups.pdf)
+  * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 5](https://github.com/csteach422/source/tree/master/2016/week5)
+* Please test the Cordova examples,
+  * [Source - Week 5 - Cordova](https://github.com/csteach422/source/tree/master/2016/week5/cordova)
+* Please review and complete the following parts 1 and 2 as part of your DEV week assignment
+
+##### Part 1 - Mockups
+
+* Please start to outline the design and structure of your project's application
+  * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
+  * views can include content pages/screens, dialogs, overlays, admin/account screens...
+  * Please add this information, and associated mockup images or drawings, to this week's card on the course' Trello group. I've added initial instructions to this card, which is available at the following URL,
+    * [Week 5 - Project Mockups](https://trello.com/b/IRbBdxkU/week-5-project-mockups)
+
+##### Part 2 - DEV Week Preparation
+
+* Prepare your DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp422-week6.pdf)
+  * details are also available in the [Coursework](/coursework) section of this site
+* Please add your DEV week updates on your group's project development to the course' Trello organisation,
+  * [Week 6 - DEV Week updates](https://trello.com/b/jsF56bPV/week-6-dev-week-updates)
+
+Any questions, please let me know.
+
 #### Week 4 - 23rd September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
