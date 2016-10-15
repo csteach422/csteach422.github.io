@@ -49,6 +49,10 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
+##### Week 7 - 14th October 2016
+
+  * N/A
+
 ##### Week 5 - 30th September 2016
 
   * [course](/assets/docs/2016/comp422-week5.pdf)

@@ -78,6 +78,10 @@ There is no specific textbook for this course.
 * N/A
 -->
 
+###### Week 7 - 14th October 2016
+
+* N/A
+
 ###### Week 5 - 30th September 2016
 
 * Cordova API

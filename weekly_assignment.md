@@ -181,6 +181,40 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 7 - 14th October 2016
+
+* Please complete the following peer review forms for the DEV Week projects and presentations
+  * [Group 1 - Team Crunchtime](https://goo.gl/forms/hc9A8cw4OCNUFNuo1)
+  * [Group 2 - Team Loyola Group Fitness](https://goo.gl/forms/zgpVm10fXEI7tNoi1)
+  * [Group 3 - Team Fitness App](https://goo.gl/forms/Cam5Ed2qc0cdWFPs2)
+  * [Group 4 - Team HallPass](https://goo.gl/forms/DuhVjsrop2BIHxkB3)
+  * [Group 5 - Team Alert](https://goo.gl/forms/Un7D9aCxOTk9QQBV2)
+  * [Group 6 - Team Project Horatio](https://goo.gl/forms/CwZFQmzIYn4ZRs212)
+  * [Group 7 - Team Walking Through Naboo](https://goo.gl/forms/meckFfFkhWCgAGgB2)
+  * [Group 8 - Team Loyola Classifieds](https://goo.gl/forms/LWSttnmx02ykGXlz1)
+  * [Group 9 - Team Study Buddies](https://goo.gl/forms/357h7oPBRlVBRz8L2)
+  * [Group 10 - Team Service Request](https://goo.gl/forms/LQo48LsrQ8qLkOeu2)
+* Complete these peer review forms by start of class on **Friday 21st October 2016**
+* You may use the new Slack channel, **#devweek-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week.
+* Please send your completed DEV Week presentation to myself
+  * share as an attachment or link on Slack via a private message to user `@ancientlives`
+* Please share your completed DEV Week code, and any associated files or data, with myself
+  * code etc can be either
+    * pushed to a repository on GitHub
+    * shared as a zip file
+* Complete the following Trello board,
+  * [Week 7 - DEV Week Contributions](https://trello.com/b/dGTEd8B7/week-7-dev-week-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+* Prepare for a quiz, which is scheduled for the end of next week's class
+  * quiz will include material from the course, class, and extra notes for weeks 1, 2, 3, 4 and 5 inclusive
+  * quiz will be approximately 45 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * you'll need a Google account (Gmail address) to be able login for the online quiz form
+* Ensure that your project group has updated all of the current Trello boards on the course's Trello group
+
+Any questions, please let me know.
+
 #### Week 5 - 30th September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
