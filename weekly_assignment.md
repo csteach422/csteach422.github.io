@@ -213,6 +213,12 @@ Any questions, please let me know.
   * you'll need a Google account (Gmail address) to be able login for the online quiz form
 * Ensure that your project group has updated all of the current Trello boards on the course's Trello group
 
+##### Discussion - part 1
+
+* please contribute to this week's class discussion on Slack channel `#discussion-part1`
+* further details can be found in the following PDF
+  * [Design - Part 1](/assets/docs/2016/discussion/422-design-part1.pdf)
+
 Any questions, please let me know.
 
 #### Week 5 - 30th September 2016

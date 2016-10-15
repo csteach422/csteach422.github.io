@@ -51,7 +51,8 @@ This material will be updated on a weekly basis.
 
 ##### Week 7 - 14th October 2016
 
-  * N/A
+  * discussion
+    * [Design - Part 1](/assets/docs/2016/discussion/422-design-part1.pdf)
 
 ##### Week 5 - 30th September 2016
 
