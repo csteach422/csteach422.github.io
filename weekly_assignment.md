@@ -183,7 +183,7 @@ Any questions, please let me know.
 
 #### Week 7 - 14th October 2016
 
-* Please complete the following peer review forms for the DEV Week projects and presentations
+* Please complete the following peer review forms individually, not as groups, for the DEV Week projects and presentations
   * [Group 1 - Team Crunchtime](https://goo.gl/forms/hc9A8cw4OCNUFNuo1)
   * [Group 2 - Team Loyola Group Fitness](https://goo.gl/forms/zgpVm10fXEI7tNoi1)
   * [Group 3 - Team Fitness App](https://goo.gl/forms/Cam5Ed2qc0cdWFPs2)
