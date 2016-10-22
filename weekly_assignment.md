@@ -181,6 +181,24 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 8 - 21st October 2016
+* Review this week's [notes and material](/notes)
+* Please complete any outstanding peer review forms for DEV Week by **Monday 24th October 2016** at the latest
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 8](https://github.com/csteach422/source/tree/master/2016/week8)
+* Please test the Cordova examples,
+  * [Source - Week 8 - Cordova](https://github.com/csteach422/source/tree/master/2016/week8/cordova)
+* Ensure that your project group has updated all of the current Trello boards on the course' Trello organisation
+  * this is up to and including the board, [Week 7 - DEV Week Contributions](https://trello.com/b/dGTEd8B7/week-7-dev-week-contributions)
+
+##### Discussion - part 2
+
+* please contribute to this week's class discussion on Slack channel `#discussion-part2`
+* further details can be found in the following PDF
+  * [Design - Part 2](/assets/docs/2016/discussion/422-design-part2.pdf)
+
+Any questions, please let me know.
+
 #### Week 7 - 14th October 2016
 
 * Please complete the following peer review forms individually, not as groups, for the DEV Week projects and presentations

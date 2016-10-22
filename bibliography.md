@@ -65,24 +65,23 @@ There is no specific textbook for this course.
 * MDN
   * [Web APIs - FileError](https://developer.mozilla.org/en-US/docs/Web/API/FileError)
 
-###### Week 9 - 23rd October 2015
-
-* Cordova
-  * [Cordova API - camera plugin](https://www.npmjs.com/package/cordova-plugin-camera)
-  * [Cordova API - geolocation](https://www.npmjs.com/package/cordova-plugin-geolocation)
-* W3C
-  * [Geolocation API Specification](http://dev.w3.org/geo/api/spec-source.html)
-
-###### Week 8 - 16th October 2015
-
-* N/A
 -->
 
-###### Week 7 - 14th October 2016
+##### Week 8 - 21st October 2016
+
+* GitHub
+  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+  * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
+* MDN
+  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* W3
+  * [Web storage specification](http://www.w3.org/TR/webstorage/)
+
+##### Week 7 - 14th October 2016
 
 * N/A
 
-###### Week 5 - 30th September 2016
+##### Week 5 - 30th September 2016
 
 * Cordova API
   * [plugin - filesystem plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)

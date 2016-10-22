@@ -49,6 +49,12 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
+##### Week 8 - 21st October 2016
+
+  * [course](/assets/docs/2016/comp422-week8.pdf)
+  * discussion
+    * [Design - Part 2](/assets/docs/2016/discussion/422-design-part2.pdf)
+
 ##### Week 7 - 14th October 2016
 
   * discussion
