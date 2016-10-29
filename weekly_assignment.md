@@ -181,6 +181,24 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 9 - 28th October 2016
+* Review this week's [notes and material](/notes)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 9](https://github.com/csteach422/source/tree/master/2016/week9)
+* Please test the Cordova examples,
+  * [Source - Week 9 - Cordova](https://github.com/csteach422/source/tree/master/2016/week9/cordova)
+* Please create a list on the [Week 9 - Deferred & Data](https://trello.com/b/hqd8xjPH/week-9-deferred-data) Trello board for your group, and add the following details,
+  * examples of data requests within your mobile app that would benefit from using *Deferred* objects
+  * what are the benefits of using a Deferred object for these requests?
+
+##### Discussion - part 3
+
+* please contribute to this week's class discussion on Slack channel `#discussion-part3`
+* further details can be found in the following PDF
+  * [Design - Part 3](/assets/docs/2016/discussion/422-design-part3.pdf)
+
+Any questions, please let me know.
+
 #### Week 8 - 21st October 2016
 * Review this week's [notes and material](/notes)
 * Please complete any outstanding peer review forms for DEV Week by **Monday 24th October 2016** at the latest

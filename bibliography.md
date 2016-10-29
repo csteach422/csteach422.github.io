@@ -67,6 +67,16 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 9 - 28th October 2016
+
+* Cordova API
+	* [Storage](http://cordova.apache.org/docs/en/latest/cordova/storage/storage.html)
+  * [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
+* GitHub
+  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+* MDN
+  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+
 ##### Week 8 - 21st October 2016
 
 * GitHub
