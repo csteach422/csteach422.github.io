@@ -181,6 +181,21 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 10 - 4th November 2016
+* Review this week's [notes and material](/notes)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 10](https://github.com/csteach422/source/tree/master/2016/week10)
+* Please test the Cordova examples,
+  * [Source - Week 10 - Cordova](https://github.com/csteach422/source/tree/master/2016/week10/cordova)
+* Prepare for a quiz, which is scheduled for the end of next week's class
+  * quiz will include material from the course, class, and extra notes for weeks 8, 9, and 10 inclusive
+  * quiz will be approximately 40 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * you'll need a Google account (Gmail address) to be able login for the online quiz form
+
+Any questions, please let me know.
+
 #### Week 9 - 28th October 2016
 * Review this week's [notes and material](/notes)
 * Review the code examples posted to the **source** repository on the course's GitHub account,

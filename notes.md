@@ -49,6 +49,12 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
+##### Week 10 - 4th November 2016
+
+  * [course](/assets/docs/2016/comp422-week10.pdf)
+  * extras
+    * [Design and Information Architecture](/assets/docs/2016/extras/design-information-architecture.pdf)
+
 ##### Week 9 - 28th October 2016
 
   * [course](/assets/docs/2016/comp422-week9.pdf)

@@ -67,6 +67,15 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 10 - 4th November 2016
+
+* Cordova API
+	* [Statusbar plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-statusbar/index.html)
+* OnsenUI
+  * [OnsenUI v2](https://onsen.io/)
+  * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
+  * [Theme Roller](http://components.onsen.io/)
+
 ##### Week 9 - 28th October 2016
 
 * Cordova API
