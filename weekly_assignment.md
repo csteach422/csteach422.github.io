@@ -182,7 +182,8 @@ Any questions, please let me know.
 -->
 
 #### Week 10 - 4th November 2016
-* Review this week's [notes and material](/notes)
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [Design and Information Architecture](/assets/docs/2016/extras/design-information-architecture.pdf)
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 10](https://github.com/csteach422/source/tree/master/2016/week10)
 * Please test the Cordova examples,
