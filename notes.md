@@ -49,6 +49,12 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
+##### Week 11 - 11th November 2016
+
+  * [course](/assets/docs/2016/comp422-week11.pdf)
+  * extras
+    * [Design - User Experience and Interaction](/assets/docs/2016/extras/design-experience-interaction.pdf)
+
 ##### Week 10 - 4th November 2016
 
   * [course](/assets/docs/2016/comp422-week10.pdf)

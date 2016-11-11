@@ -181,6 +181,22 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 11 - 11th November 2016
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [Design and Information Architecture](/assets/docs/2016/extras/design-experience-interaction.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 11](https://github.com/csteach422/source/tree/master/2016/week11)
+* Please test the Cordova examples,
+  * [Source - Week 11 - Cordova](https://github.com/csteach422/source/tree/master/2016/week11/cordova)
+* Please create a list on the [Week 11 - Final Plan](https://trello.com/b/VONYN2IR/week-11-final-plan) Trello board for your group, and add the following details,
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
+
+Any questions, please let me know.
+
 #### Week 10 - 4th November 2016
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
   * [Design and Information Architecture](/assets/docs/2016/extras/design-information-architecture.pdf)

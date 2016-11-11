@@ -67,6 +67,13 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 11 - 11th November 2016
+
+* Cordova API
+	* [Plugin Development Guide](http://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
+	* [Plugin.xml](http://cordova.apache.org/docs/en/latest/plugin_ref/spec.html)
+* [Cordova Plugins](http://cordova.apache.org/plugins/)
+
 ##### Week 10 - 4th November 2016
 
 * Cordova API
