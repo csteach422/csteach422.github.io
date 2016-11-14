@@ -192,6 +192,9 @@ Any questions, please let me know.
   * please add a brief plan and outline for your group's remaining work
   * this should include any work that is planned towards your group's final project presentation
     * this may include development, research, design, testing, and so on
+  * a brief outline of your project's chosen data store
+    * why did you choose this data store?
+    * its usage within your application
   * please also include an outline of planned contribution from each group member
 * Please continue project design and development for the end of semester final presentation and report
 
