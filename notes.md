@@ -49,6 +49,12 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
+##### Week 12 - 18th November 2016
+
+  * [course](/assets/docs/2016/comp422-week12.pdf)
+  * extras
+    * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
+
 ##### Week 11 - 11th November 2016
 
   * [course](/assets/docs/2016/comp422-week11.pdf)

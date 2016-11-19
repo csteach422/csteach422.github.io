@@ -67,6 +67,17 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 12 - 18th November 2016
+
+* OnsenUI
+	* [JavaScript Reference](https://onsen.io/v2/docs/js.html)
+* MDN - IndexedDB
+	* [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* MDN - JavaScript reference
+	* [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+	* [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+
+
 ##### Week 11 - 11th November 2016
 
 * Cordova API

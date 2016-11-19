@@ -181,6 +181,27 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 12 - 18th November 2016
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 12](https://github.com/csteach422/source/tree/master/2016/week12)
+* Please test the Cordova examples,
+  * [Source - Week 12 - Cordova](https://github.com/csteach422/source/tree/master/2016/week12/cordova)
+* Please continue your team's project development in preparation for the final presentation on 9th December 2016
+* Please create a list on the [Week 12 - Development Update](https://trello.com/b/Rglldsvt/week-12-development-update) Trello board, and add the following details,
+  * work completed on your project's app up to **final demo and presentation**
+  * detail member contributions for each update to the app
+  * work you wanted to complete but could not finish in time
+  * project features that work
+  * project features that do not work
+
+Please complete this list as you develop your project over the next two weeks up to 2nd December 2016.
+
+Any questions, please let me know.
+
+Enjoy your Thanksgiving holiday!
+
 #### Week 11 - 11th November 2016
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
   * [Design and Information Architecture](/assets/docs/2016/extras/design-experience-interaction.pdf)
