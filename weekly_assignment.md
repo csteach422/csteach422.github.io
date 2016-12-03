@@ -181,6 +181,20 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 14 - 2nd December 2016
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 14](https://github.com/csteach422/source/tree/master/2016/week14)
+* Please test the Cordova examples,
+  * [Source - Week 14 - Cordova](https://github.com/csteach422/source/tree/master/2016/week14/cordova)
+* Please prepare your group's project presentation for Friday 9th December
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+
+Any questions, please let me know.
+
 #### Week 12 - 18th November 2016
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
   * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)

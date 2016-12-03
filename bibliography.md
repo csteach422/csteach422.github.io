@@ -67,6 +67,18 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 14 - 2nd December 2016
+
+* Cordova API docs
+	* [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
+	* [Globalization](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-globalization/index.html)
+	* [Hooks](https://cordova.apache.org/docs/en/latest/guide/appdev/hooks/index.html)
+	* [Merges](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html#merges)
+	* [Network Information](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-network-information/index.html)
+	* [Whitelisting](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)
+* OnsenUI
+	* [JavaScript Reference](https://onsen.io/v2/docs/js.html)
+
 ##### Week 12 - 18th November 2016
 
 * OnsenUI
