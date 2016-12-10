@@ -49,6 +49,10 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
+##### Week 15 - 9th December 2016
+
+  * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
+
 ##### Week 14 - 2nd December 2016
 
   * [course](/assets/docs/2016/comp422-week14.pdf)

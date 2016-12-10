@@ -181,6 +181,22 @@ Any questions, please let me know.
   * [Mockups](/assets/docs/comp422-mockups.pdf)
 -->
 
+#### Week 15 - 9th December 2016
+
+* Please complete your group's final project report
+  * suggested report length between 5 and 10 pages
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
+* Report must be submitted by 2.45pm on Friday 16th December 2016
+  * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Final Report)
+* Please share with me a copy of your group’s final code. This may include the following options,
+  * GitHub or Bitbucket
+  * zip file containing project code
+
+**NB:** Don’t forget to add details of each member’s contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Individual Final Report)
+
+Any questions, please let me know.
+
 #### Week 14 - 2nd December 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
