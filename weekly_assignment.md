@@ -16,6 +16,8 @@ summary: weekly assignment for COMP 422
 * Weekly assignments are due by the start of the next week's class, unless a specific date is given to the contrary.
 * Submissions should normally be posted to the applicable week's Trello board, unless otherwise stated.
 
+***
+
 <!--#### Week 15 - 4th December 2015
 
 * Please complete your group's final project report
@@ -179,7 +181,6 @@ Any questions, please let me know.
 **NB:** further information on mockups can be found in the following document
 
   * [Mockups](/assets/docs/comp422-mockups.pdf)
--->
 
 #### Week 15 - 9th December 2016
 
@@ -456,3 +457,7 @@ The course's Trello group is available at the following URL,
 **NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP422 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
+
+-->
+
+##### Week 1 - 1st September 2017

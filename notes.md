@@ -16,38 +16,9 @@ Course notes and material will be added to this page during the Fall semester.
 
 This material will be updated on a weekly basis.
 
-#### Notes
-
 ***
 
-<!--##### Week 15 - 4th December 2015
-
-  * [final report outline](/assets/docs/COMP388422-FinalReportOutline-2015.pdf)
-
-##### Week 13 - 20th November 2015
-
-  * [course](/assets/docs/Comp422-week13.pdf)
-
-##### Week 12 - 13th November 2015
-
-  * [course](/assets/docs/Comp422-week12.pdf)
-
-##### Week 11 - 6th November 2015
-
-  * [course](/assets/docs/Comp422-week11.pdf)
-
-##### Week 10 - 30th October 2015
-
-  * [course](/assets/docs/Comp422-week10.pdf)
-
-##### Week 9 - 23rd October 2015
-
-  * [course](/assets/docs/Comp422-week9.pdf)
-
-##### Week 8 - 16th October 2015
-
-  * N/A
--->
+<!--
 
 ##### Week 15 - 9th December 2016
 
@@ -124,3 +95,5 @@ This material will be updated on a weekly basis.
 ##### Week 1 - 2nd September 2016
 
   * [course](/assets/docs/2016/comp422-week1.pdf)
+
+-->

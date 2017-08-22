@@ -16,24 +16,25 @@ Course assessment will continue throughout the semester.
 
 If you have any questions on the following assessments, please [contact](/contact) me.
 
+<!--
 #### Overview
 
 * assessment will include a combination of semester's quizzes or group exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
   * DEV week demo
     * brief group presentation and demo
   * final demo
-    * presentation, live demo, video overview...it's your choice
+    * presentation and live demo
   * final report
     * clearly detail design and development process
     * outline testing, prototypes etc
     * explain what does and does not work in your final app
     * detail concepts and ideas for further development of this mobile application
     * ...
-  * work may be conducted individually or in groups (max. 3 persons per group)
+  * work may be conducted individually or in groups (max. 4 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-**n.b.** please read the [Final Report Outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf) for further details.
+**n.b.** please read the [Final Report Outline](/assets/docs/2017/extras/Comp422-FinalReportOutline-2017.pdf) for further details.
 
 #### Assessed coursework will include the following primary categories:
 
@@ -42,7 +43,7 @@ If you have any questions on the following assessments, please [contact](/contac
 ##### 1. quizzes or group exercises at the end of each course section (30%)
 
 * at least one week notice before quiz
-  * average time ~30 minutes (can be extended if necessary...)
+  * average time ~30 minutes
   * taken towards the end of class
 * group exercises
   * help develop course project
@@ -53,11 +54,14 @@ If you have any questions on the following assessments, please [contact](/contac
 
 ##### 2. DEV week assessment (30%)
 
-* begin development of a mobile application using Apache Cordova
+* begin development of a mobile application
   * **NOT** a responsive website viewed on a mobile device
-* can be platform agnostic (cross-platform) or specific targeted OS
-    * eg: Android, iOS, Windows Phone using Cordova APIs
-      * **HINT**: Android will probably be the easiest for most groups...
+  * must apply technologies taught up to and including DEV week, e.g.
+    * Apache Cordova, React Native, &c.
+    * combine technologies taught to fit your mobile app...
+* can be platform agnostic (cross-platform) or specific targeted OS, e.g.
+    * cross-platform app that builds for Android and iOS
+    * targeted build for Android or iOS
     * consider choice, and explain why?
 * outline concept, research conducted to date
 * consider applicable design patterns
@@ -66,17 +70,18 @@ If you have any questions on the following assessments, please [contact](/contac
 * prototyping
   * demo current prototypes
   * any working tests or models etc
+* anything else to help explain your mobile app...
 
 **NB:** DEV week assessment will include the following:
 
 * brief presentation or demonstration of current project work
   * ~ 10 minutes per group
   * analysis of work conducted so far
-    * eg: during semester & DEV week
-  * presentation, demonstration, or video overview...
+    * e.g. during semester & DEV week
+  * presentation and demonstration...
     * outline mobile app
     * show prototypes and designs
-    * explain what works & does not work
+    * explain what does & does not work
     * ...
 
 <a id="assessment3"></a>
@@ -84,28 +89,30 @@ If you have any questions on the following assessments, please [contact](/contac
 ##### 3. final assessment (40%)
 
 * continue to develop your app concept and prototypes
-  * develop application using either Apache Cordova or native Android SDK
+  * develop application using any of the technologies taught during the course
+  * again, combine technologies to best fit your mobile app
 * if the app uses Apache Cordova
   * implement a custom Cordova plugin for a native mobile OS
-    * Android
+    * e.g. Android or iOS
 * produce a working app
   * as far as possible try to create a fully working app
   * explain any parts of the app not working...
+* explain choice of technologies for mobile app development
+  * e.g. data stores, APIs, modules, &c.
 * explain design decisions
   * outline what you chose and why?
   * what else did you consider, and then omit? (again, why?)
-<!--* which platform/s did you choose, and why?-->
 * which concepts could you abstract for easy porting to other platform/OS?
 * describe patterns used in design of UI and interaction
 
 #### Important assessment dates
 
 * DEV week demo
-  * due Friday 14th October 2016 @ 2.45pm
+  * due Friday 20th October 2017 @ 2.45pm
 * final project demo
-  * due Friday 9th December 2016 @ 2.45pm
+  * due Friday 8th December 2016 @ 2.45pm
 * final team report
-  * due Friday 16th December 2016 @ 2.45pm
+  * due Friday 15th December 2017 @ 2.45pm
 
 #### Grading
 
@@ -122,3 +129,4 @@ Grades will use the following scale,
   * 50% to 41%  = C
   * 40% to 31%  = F
   * 30% to 0%   = ?
+-->

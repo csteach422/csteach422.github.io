@@ -16,11 +16,12 @@ The course bibliography will be updated on a weekly basis with suggested reading
 
 References will be cited at the end of each week's notes.
 
-#### Bibliography
-
 There is no specific textbook for this course.
 
-<!--###### Week 13 - 20th November 2015
+***
+
+<!--
+##### Week 13 - 20th November 2015
 
 * Cordova
   * [Plugin Development Guide](https://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
@@ -29,7 +30,7 @@ There is no specific textbook for this course.
   * [Home](http://ionicframework.com/)
   * [Docs](http://ionicframework.com/docs/)
 
-###### Week 12 - 13th November 2015
+##### Week 12 - 13th November 2015
 
 * Cordova
   * [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
@@ -39,7 +40,7 @@ There is no specific textbook for this course.
 * MDN
   * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
-###### Week 11 - 6th November 2015
+##### Week 11 - 6th November 2015
 
 * Cordova
   * [Cordova Storage](http://cordova.apache.org/docs/en/5.1.1/cordova/storage/storage.html)
@@ -52,7 +53,7 @@ There is no specific textbook for this course.
 * W3
   * [Web storage specification](http://www.w3.org/TR/webstorage/)
 
-###### Week 10 - 30th October 2015
+##### Week 10 - 30th October 2015
 
 * Cordova
   * [Cordova API - filesystem plugin](https://www.npmjs.com/package/cordova-plugin-file)
@@ -64,8 +65,6 @@ There is no specific textbook for this course.
   * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * MDN
   * [Web APIs - FileError](https://developer.mozilla.org/en-US/docs/Web/API/FileError)
-
--->
 
 ##### Week 14 - 2nd December 2016
 
@@ -180,3 +179,7 @@ There is no specific textbook for this course.
 * Carmody, Tim., *Fighting Words: Defining "Mobile" and "Computer"* Wired. 11.08.2010. [http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/](http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/)
 * Smith, Aaron., *U.S. Smartphone Use in 2015* PewResearchCenter. 04.01.2015.[http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/)
 * Various., *Digital, Social & Mobile in 2015* We Are Social Singapore. 01.20.2015. [http://www.slideshare.net/wearesocialsg/digital-social-mobile-in-2015](http://www.slideshare.net/wearesocialsg/digital-social-mobile-in-2015)
+
+-->
+
+##### Week 1 - 1st September 2017

@@ -27,7 +27,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * -->
 
-
+<!--
 #### Documentation, Guides...
 
 * [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
@@ -96,3 +96,5 @@ If you have any suggestions for additions to this section of the site, please fe
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
+
+-->
