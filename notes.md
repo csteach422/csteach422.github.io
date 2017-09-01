@@ -84,20 +84,12 @@ This material will be updated on a weekly basis.
   * extras
     * [jQuery Mobile - overview](/assets/docs/2016/extras/jquery-mobile-overview.pdf)
 
-##### Week 2 - 9th September 2016
-
-  * [course](/assets/docs/2016/comp422-week2.pdf)
-  * extras
-    * [Cordova Install and Setup](/assets/docs/2016/extras/cordova-install-setup.pdf)
-    * [Android Platform Guide](/assets/docs/2016/extras/android-platform-guide.pdf)
-    * [iOS Platform Guide](/assets/docs/2016/extras/ios-platform-guide.pdf)
-
-##### Week 1 - 2nd September 2016
-
-  * [course](/assets/docs/2016/comp422-week1.pdf)
-
 -->
 
 ##### Week 1 - 1st September 2017
 
-  * 
+  * [course](/assets/docs/2017/comp422-week1.pdf)
+  * extras
+    * [Cordova Install and Setup](/assets/docs/2017/extras/cordova-install-setup.pdf)
+    * [Android Platform Guide](/assets/docs/2017/extras/android-platform-guide.pdf)
+    * [iOS Platform Guide](/assets/docs/2017/extras/ios-platform-guide.pdf)
