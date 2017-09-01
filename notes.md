@@ -88,7 +88,7 @@ This material will be updated on a weekly basis.
 
 ##### Week 1 - 1st September 2017
 
-  * [course](/assets/docs/2017/comp422-week1.pdf)
+  * [course](/assets/docs/2017/Comp422-week1.pdf)
   * extras
     * [Cordova Install and Setup](/assets/docs/2017/extras/cordova-install-setup.pdf)
     * [Android Platform Guide](/assets/docs/2017/extras/android-platform-guide.pdf)
