@@ -27,18 +27,20 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * -->
 
-<!--
 #### Documentation, Guides...
 
-* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
+* [jQuery Mobile API](http://api.jquerymobile.com/)
+
+<!--
+* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
-* [jQuery Mobile API](http://api.jquerymobile.com/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
+-->
 
 ##### UI Frameworks and Libraries
 
@@ -54,6 +56,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
+<!--
 #### Mockup and Prototype Tools - a few examples
 
 * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -66,17 +69,18 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Proto.io](https://proto.io/)
 * [Sketch3](http://bohemiancoding.com/sketch/)
 * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+-->
 
 #### Tools and Other Software
 
 * [Android - Stand-alone SDK Tools (see foot of page)](https://developer.android.com/studio/index.html)
-* [Android Studio 2.1](https://developer.android.com/studio/index.html)
+* [Android Studio](https://developer.android.com/studio/index.html)
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova and iOS in the Cloud](https://taco.visualstudio.com/en-us/docs/build_ios_cloud/)
 * [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
 * [Genymotion](https://www.genymotion.com/)
 * [Git](http://git-scm.com/)
-* [Java - JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Node.js](https://nodejs.org/en/)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
@@ -85,7 +89,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
 
-
+<!--
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)

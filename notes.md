@@ -97,3 +97,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2016/comp422-week1.pdf)
 
 -->
+
+##### Week 1 - 1st September 2017
+
+  * 

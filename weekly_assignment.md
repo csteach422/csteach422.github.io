@@ -428,36 +428,33 @@ Any questions, please let me know.
 
 Any questions, please let me know.
 
-#### Week 1 - 2nd September 2016
+-->
+
+##### Week 1 - 1st September 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Begin to review the following resources and material
   * [Apache Cordova](https://cordova.apache.org/)
     * [Apache Cordova API](http://docs.cordova.io)
-    * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&query=cordova)
-  * [Ionic](http://ionic.io/)
+    * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&q=cordova&type=&language=)
 * Relative to your experience with HTML, CSS, and JavaScript, please review the following tutorials
   * [HTML](http://www.w3schools.com/html/default.asp)
   * [CSS](http://www.w3schools.com/css/default.asp)
   * [JS](http://www.w3schools.com/js/default.asp)
-  * [jQuery Mobile](http://www.w3schools.com/jquerymobile/default.asp)
-* Add your initial Project details to the course's Trello group on the board [Week 1 - Project Detais](https://trello.com/b/lg9nr9B9/week-1-project-details)
-  * project name
-  * team members
-  * any ideas or concepts for your project design. e.g.
-    * possible project ideas
-    * possible datasets
-    * examples of mobile apps, sites etc that are similar or might be considered inspirational
-    * list any other general resources consulted
+* Add your initial Project details to the course's Trello group on the board [Week 1 - Project Detais](https://trello.com/b/4kZtaG4z/week-1-project-details)
+    * project name
+    * the full name of each team member
+    * any ideas or concepts for your project design, e.g.
+      * possible project idea
+      * possible dataset
+      * examples of mobile apps or sites that are similar or might be considered inspirational
+      * list any other general resources consulted
 
 The course's Trello group is available at the following URL,
 
-* [COMP388/422 @ LUC](https://trello.com/comp422fall2016luc)
+* [COMP 422 - Fall 2017 @ LUC](https://trello.com/csteach422)
+  * https://trello.com/csteach422
 
-**NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP422 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
+**n.b.** I'll send an invite for this Trello group to your registered LUC email address. If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
-
--->
-
-##### Week 1 - 1st September 2017

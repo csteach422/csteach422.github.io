@@ -16,7 +16,6 @@ Course assessment will continue throughout the semester.
 
 If you have any questions on the following assessments, please [contact](/contact) me.
 
-<!--
 #### Overview
 
 * assessment will include a combination of semester's quizzes or group exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
@@ -54,7 +53,7 @@ If you have any questions on the following assessments, please [contact](/contac
 
 ##### 2. DEV week assessment (30%)
 
-* begin development of a mobile application
+* begin development of a mobile application from scratch
   * **NOT** a responsive website viewed on a mobile device
   * must apply technologies taught up to and including DEV week, e.g.
     * Apache Cordova, React Native, &c.
@@ -129,4 +128,3 @@ Grades will use the following scale,
   * 50% to 41%  = C
   * 40% to 31%  = F
   * 30% to 0%   = ?
--->
