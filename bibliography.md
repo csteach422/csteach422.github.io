@@ -162,19 +162,18 @@ There is no specific textbook for this course.
   * [Plugin APIs](https://cordova.apache.org/docs/en/latest/#plugin-apis)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 * [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
+-->
 
-##### Week 2 - 9th September 2016
+##### Week 2 - 8th September 2017
 
-* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
+* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
 * [Android - Stand-alone SDK Tools (see foot of page)](https://developer.android.com/studio/index.html)
-* [Android Studio 2.1](https://developer.android.com/studio/index.html)
+* [Android Studio 2.x](https://developer.android.com/studio/index.html)
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Git](http://git-scm.com/)
 * [Java - JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Node.js](https://nodejs.org/en/)
-
--->
 
 ##### Week 1 - 1st September 2017
 

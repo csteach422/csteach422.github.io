@@ -412,23 +412,34 @@ Any questions, please let me know.
 
 Any questions, please let me know.
 
-#### Week 2 - 9th September 2016
+-->
 
-* Review this week's [notes and material](/notes), which includes the class notes
-* Ensure you have a working Apache Cordova development environment installed on your local machine
-  * follow instructions in this week's course [notes](/assets/docs/2016/comp422-week2.pdf) for further details or consult the extra documents,
-    * [Cordova Install and Setup](https://github.com/csteach422/notes/blob/master/2016/extras/cordova-install-setup.pdf)
-    * [Android Platform Guide](https://github.com/csteach422/notes/blob/master/2016/extras/android-platform-guide.pdf)
-    * [iOS Platform Guide](https://github.com/csteach422/notes/blob/master/2016/extras/ios-platform-guide.pdf)
+#### Week 2 - 8th September 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - Cordova related
+    * [Cordova CLI Useful Commands](/assets/docs/2017/extras/cordova-cli-useful-commands.pdf)
+    * [jQuery Mobile Overview](/assets/docs/2017/extras/jquery-mobile-overview.pdf)
+  * extras - www related
+    * [css - intro](/assets/docs/2017/extras/css-intro.pdf)
+    * [css - basics](/assets/docs/2017/extras/css-basics.pdf)
+    * [html - intro](/assets/docs/2017/extras/html-intro.pdf)
+    * [html - basics](/assets/docs/2017/extras/html-basics.pdf)
+    * [js - intro](/assets/docs/2017/extras/js-intro.pdf)
+* Please ensure you have a working Apache Cordova development environment installed on your local machine
+  * follow instructions in this week's [course notes](/assets/docs/2017/Comp422-week2.pdf) for further details or consult the following extra documents,
+    * [Cordova Install and Setup](/assets/docs/2017/extras/cordova-install-setup.pdf)
+    * [Android Platform Guide](/assets/docs/2017/extras/android-platform-guide.pdf)
+    * [iOS Platform Guide](/assets/docs/2017/extras/ios-platform-guide.pdf)
 * Create a basic project template for Apache Cordova and test with a local emulator (e.g. AVD or ios-sim)
-  * details and instructions are included in this week's course [notes](/assets/docs/2016/comp422-week2.pdf)
+  * details and instructions are included in this week's course [notes](/assets/docs/2017/Comp422-week2.pdf)
 * Please add a list for your group to this week's board on the course's Trello group, which is available at the following URL
-  * [Week 2 - Mobile Design](https://trello.com/b/0f2apCWJ/week-2-mobile-design)
+  * [Week 2 - Mobile Design](https://trello.com/b/PVnuMUGl/week-2-mobile-design)
   * I've added initial instructions to this board
 
 Any questions, please let me know.
 
--->
+Enjoy your week.
 
 ##### Week 1 - 1st September 2017
 

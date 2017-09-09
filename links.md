@@ -29,13 +29,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation, Guides...
 
+* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 
 <!--
-* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)

@@ -86,6 +86,19 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 2 - 8th September 2017
+
+  * [course](/assets/docs/2017/Comp422-week2.pdf)
+  * extras - Cordova related
+    * [Cordova CLI Useful Commands](/assets/docs/2017/extras/cordova-cli-useful-commands.pdf)
+    * [jQuery Mobile Overview](/assets/docs/2017/extras/jquery-mobile-overview.pdf)
+  * extras - www related
+    * [css - intro](/assets/docs/2017/extras/css-intro.pdf)
+    * [css - basics](/assets/docs/2017/extras/css-basics.pdf)
+    * [html - intro](/assets/docs/2017/extras/html-intro.pdf)
+    * [html - basics](/assets/docs/2017/extras/html-basics.pdf)
+    * [js - intro](/assets/docs/2017/extras/js-intro.pdf)
+
 ##### Week 1 - 1st September 2017
 
   * [course](/assets/docs/2017/Comp422-week1.pdf)
