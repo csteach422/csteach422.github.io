@@ -86,6 +86,14 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 3 - 15th September 2017
+
+  * [course](/assets/docs/2017/Comp422-week3.pdf)
+  * extras - www related
+    * [css - box model](/assets/docs/2017/extras/css-box-model.pdf)
+    * [html - DOM intro](/assets/docs/2017/extras/html-dom-intro.pdf)
+    * [js - core](/assets/docs/2017/extras/js-core.pdf)
+
 ##### Week 2 - 8th September 2017
 
   * [course](/assets/docs/2017/Comp422-week2.pdf)

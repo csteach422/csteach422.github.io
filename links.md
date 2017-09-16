@@ -84,6 +84,12 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Node.js](https://nodejs.org/en/)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
+##### Text Editors (examples)
+
+* [Atom Editor](https://atom.io/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
 #### Videos
 
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)

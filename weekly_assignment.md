@@ -414,7 +414,27 @@ Any questions, please let me know.
 
 -->
 
-#### Week 2 - 8th September 2017
+##### Week 3 - 15th September 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - www related
+    * [css - box model](/assets/docs/2017/extras/css-box-model.pdf)
+    * [html - DOM intro](/assets/docs/2017/extras/html-dom-intro.pdf)
+    * [js - core](/assets/docs/2017/extras/js-core.pdf)
+* Please create a GitHub account for your project group
+  * create a new repository for `source` code & any other project material or notes
+  * add the GitHub details for your project to the appropriate group list on Trello,
+    * [Project Groups](https://trello.com/b/TQ3hs0IV/project-groups)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach422/source/tree/master/week3)
+* Please test the Cordova examples,
+  * [Source - Week 3 - Cordova](https://github.com/csteach422/source/tree/master/week3/cordova)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+##### Week 2 - 8th September 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - Cordova related

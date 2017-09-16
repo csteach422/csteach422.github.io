@@ -164,6 +164,22 @@ There is no specific textbook for this course.
 * [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
 -->
 
+##### Week 3 - 15th September 2017
+
+* Cordova API
+  * [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
+  * [plugins](http://cordova.apache.org/plugins/)
+  * [plugin - device](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-device/index.html)
+  * [plugin - file](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
+  * [plugin - media](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media/)
+  * [plugin -  Splashscreen](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-splashscreen/)
+* HTML5
+  * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+* jQuery Mobile
+  * [API documentation](http://api.jquerymobile.com/)
+  * [Browser Support](https://jQuerymobile.com/browser-support/1.4/)
+  * [Pagecontainer widget](http://api.jquerymobile.com/pagecontainer/#method-load)
+
 ##### Week 2 - 8th September 2017
 
 * [Android Platform Guide](http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
