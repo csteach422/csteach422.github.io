@@ -33,13 +33,13 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
+* [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
+* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 <!--
-* [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 -->
 
 ##### UI Frameworks and Libraries
@@ -56,7 +56,6 @@ If you have any suggestions for additions to this section of the site, please fe
 
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
-<!--
 #### Mockup and Prototype Tools - a few examples
 
 * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -69,7 +68,6 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Proto.io](https://proto.io/)
 * [Sketch3](http://bohemiancoding.com/sketch/)
 * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
--->
 
 #### Tools and Other Software
 

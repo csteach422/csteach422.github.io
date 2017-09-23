@@ -71,20 +71,18 @@ This material will be updated on a weekly basis.
   * extras
     * [Design and Mockups](/assets/docs/2016/extras/design-mockups.pdf)
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
-
-##### Week 4 - 23rd September 2016
-
-  * [course](/assets/docs/2016/comp422-week4.pdf)
-  * extras
-    * [Design and Interface](/assets/docs/2016/extras/design-interface.pdf)
-
-##### Week 3 - 16th September 2016
-
-  * [course](/assets/docs/2016/comp422-week3.pdf)
-  * extras
-    * [jQuery Mobile - overview](/assets/docs/2016/extras/jquery-mobile-overview.pdf)
-
 -->
+
+##### Week 4 - 22rd September 2017
+
+  * [course](/assets/docs/2017/Comp422-week4.pdf)
+  * extras - design
+    * [Design and Interface - Intro](/assets/docs/2017/extras/design-interface-intro.pdf)
+  * extras - www related
+    * [css - html5](/assets/docs/2017/extras/css-html5.pdf)
+    * [html5 - intro](/assets/docs/2017/extras/html5-intro.pdf)
+    * [js - logic](/assets/docs/2017/extras/js-logic.pdf)
+
 
 ##### Week 3 - 15th September 2017
 

@@ -146,23 +146,17 @@ There is no specific textbook for this course.
   * [Geolocation API Specification](http://dev.w3.org/geo/api/spec-source.html)
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
-##### Week 4 - 23rd September 2016
+-->
+
+##### Week 4 - 22rd September 2017
 
 * Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.
 * Cordova API
   * [plugin - camera](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/index.html)
-  * [plugin -  Splashscreen](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-splashscreen/)
+  * [plugin - file](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
+  * [plugin - geolocation](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-geolocation/index.html)
 * Cordova Guide
   * [app templates](https://cordova.apache.org/docs/en/latest/guide/cli/template.html)
-
-##### Week 3 - 16th September 2016
-
-* [Cordova API Documentation](https://cordova.apache.org/docs/en/latest/)
-  * [config.xml file](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
-  * [Plugin APIs](https://cordova.apache.org/docs/en/latest/#plugin-apis)
-* [jQuery Mobile API](http://api.jquerymobile.com/)
-* [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
--->
 
 ##### Week 3 - 15th September 2017
 
