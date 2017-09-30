@@ -148,6 +148,16 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 5 - 29th September 2017
+
+* GitHub
+  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+  * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
+* MDN
+  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* W3
+  * [Web storage specification](http://www.w3.org/TR/webstorage/)
+
 ##### Week 4 - 22rd September 2017
 
 * Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.

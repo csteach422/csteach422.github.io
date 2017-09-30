@@ -35,11 +35,11 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
+* [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 <!--
 * [Ionic Docs](http://ionicframework.com/docs/)
-* [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 -->
 
 ##### UI Frameworks and Libraries
