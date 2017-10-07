@@ -129,24 +129,20 @@ There is no specific textbook for this course.
 
 * N/A
 
-##### Week 5 - 30th September 2016
+-->
+
+##### Week 6 - 6th October 2017
 
 * Cordova API
-  * [plugin - filesystem plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
-  * [plugin - file transfer plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file-transfer/index.html)
-  * [plugin - geolocation](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-geolocation/index.html)
-  * [Storage](http://cordova.apache.org/docs/en/latest/cordova/storage/storage.html)
-* GitHub
-  * [cordova-plugin-file](https://github.com/apache/cordova-plugin-file/)
-* HTML5
-  * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
-* MDN
-  * [Web APIs - FileError](https://developer.mozilla.org/en-US/docs/Web/API/FileError)
-* W3C
-  * [Geolocation API Specification](http://dev.w3.org/geo/api/spec-source.html)
+	* [Plugin Development Guide](http://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
+	* [Plugin.xml](http://cordova.apache.org/docs/en/latest/plugin_ref/spec.html)
+* [Cordova Plugins](http://cordova.apache.org/plugins/)
+	* [Statusbar plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-statusbar/index.html)
+* OnsenUI
+  * [OnsenUI v2](https://onsen.io/)
+  * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
+  * [Theme Roller](http://components.onsen.io/)
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
-
--->
 
 ##### Week 5 - 29th September 2017
 

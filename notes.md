@@ -73,6 +73,14 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
 -->
 
+##### Week 6 - 6th October 2017
+
+  * [course](/assets/docs/2017/Comp422-week6.pdf)
+  * discussion
+    * [Design - Part 1](/assets/docs/2017/extras/discussion/422-design-part1.pdf)
+  * extras - patterns
+    * [pub/sub](/assets/docs/2017/extras/pubsub-pattern.pdf)
+
 ##### Week 5 - 29th September 2017
 
   * [course](/assets/docs/2017/Comp422-week5.pdf)

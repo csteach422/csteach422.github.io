@@ -34,13 +34,10 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+* [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
-
-<!--
-* [Ionic Docs](http://ionicframework.com/docs/)
--->
 
 ##### UI Frameworks and Libraries
 
@@ -93,12 +90,13 @@ If you have any suggestions for additions to this section of the site, please fe
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
 
-<!--
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+
+<!--
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
@@ -106,3 +104,5 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Responsive Web Design](http://demos.jquerymobile.com/1.4.5/rwd/)
 
 -->
+
+**n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
