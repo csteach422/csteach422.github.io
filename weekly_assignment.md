@@ -414,6 +414,43 @@ Any questions, please let me know.
 
 -->
 
+#### Week 8 - 20th October 2017
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [1 - Group A](https://goo.gl/forms/l6uRyEjHJZnnHmpm2)
+  * [2 - Group B](https://goo.gl/forms/Pjyfn2FWYCnoCDqV2)
+  * [3 - Group C](https://goo.gl/forms/lJHMtm8KzlSyw9xZ2)
+  * [4 - Group D](https://goo.gl/forms/fuzF4mWEhaySE0hA2)
+  * [5 - Group E](https://goo.gl/forms/TjTeYPNX2HDmRR9d2)
+  * [6 - Group F](https://goo.gl/forms/O4Ouxvm7keQnxdb72)
+  * [7 - Group G](https://goo.gl/forms/akzty1ev5IzZAyUD2)
+  * [8 - Group H](https://goo.gl/forms/YmhokDFC5BVn3fJZ2)
+* Complete these peer review forms by **Friday 27th October 2017** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* Please add your DEV week presentation files, notes, &c. to the following board on Trello,
+  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/daHy0Ug5/week-8-dev-week-presentation-files)
+  * Please add these files as soon as possible, and by **Friday 27th October 2017** at the latest
+  * instructions are included as a list on the above board
+* Please share your completed DEV Week code, and any associated files or data, with myself
+  * code &c. should be pushed to your group's repository on GitHub
+  * please share these files by **Friday 27th October 2017** at the latest
+* Complete the following Trello board,
+  * [Week 8 - DEV Week Contributions](https://trello.com/b/pHkPn6IO/week-8-dev-week-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+  * please complete this requirement by **Friday 27th October 2017** at the latest
+* Prepare for a quiz, which is scheduled for the end of next week's class
+  * quiz will include material from the course, class, and extra notes for weeks 1 to 8 inclusive
+  * quiz will be approximately 45 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * this quiz uses an online Google Form
+    * **NB:** you'll need a Google account to register for the quiz
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 6 - 6th October 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
