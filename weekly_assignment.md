@@ -414,6 +414,24 @@ Any questions, please let me know.
 
 -->
 
+#### Week 9 - 27th October 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * discussion
+    * [Design - Part 2](/assets/docs/2017/extras/discussion/422-design-part2.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 9](https://github.com/csteach422/source/tree/master/week9)
+
+##### Discussion - part 2
+
+* please contribute to this week's class discussion on Slack channel `#discussion-part1`
+* further details can be found in the following PDF
+  * [Design - Part 2](/assets/docs/2017/extras/discussion/422-design-part2.pdf)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 8 - 20th October 2017
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations

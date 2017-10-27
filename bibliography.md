@@ -131,6 +131,21 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 9 - 27th October 2017
+
+* Cordova API
+	* [Statusbar plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-statusbar/index.html)
+	* [Storage](http://cordova.apache.org/docs/en/latest/cordova/storage/storage.html)
+	* [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
+* GitHub
+  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+* MDN
+  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* OnsenUI
+  * [OnsenUI v2](https://onsen.io/)
+  * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
+  * [Theme Roller](http://components.onsen.io/)
+
 ##### Week 8 - 20th October 2017
 
 * N/A
