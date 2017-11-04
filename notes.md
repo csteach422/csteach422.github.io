@@ -73,6 +73,15 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
 -->
 
+##### Week 10 - 3rd November 2017
+
+  * [course](/assets/docs/2017/Comp422-week10.pdf)
+  * discussion
+    * [Design - Part 3](/assets/docs/2017/extras/discussion/422-design-part3.pdf)
+  * extras - React Native
+    * [Install for OS X](/assets/docs/2017/extras/react-native-install-osx.pdf)
+    * [Install for Windows 10](/assets/docs/2017/extras/react-native-install-windows.pdf)
+
 ##### Week 9 - 27th October 2017
 
   * [course](/assets/docs/2017/Comp422-week9.pdf)

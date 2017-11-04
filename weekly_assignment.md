@@ -414,6 +414,28 @@ Any questions, please let me know.
 
 -->
 
+#### Week 10 - 3rd November 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * discussion
+    * [Design - Part 3](/assets/docs/2017/extras/discussion/422-design-part3.pdf)
+  * React Native
+    * [Install for OS X](/assets/docs/2017/extras/react-native-install-osx.pdf)
+    * [Install for Windows 10](/assets/docs/2017/extras/react-native-install-windows.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 10](https://github.com/csteach422/source/tree/master/week10)
+* Please ensure you have a working React Native setup for your given platform. You may consult the extra documents above for install and setup details for OS X and Windows 10.
+
+##### Discussion - part 3
+
+* please contribute to this week's class discussion on Slack channel `#discussion-part3`
+* further details can be found in the following PDF
+  * [Design - Part 3](/assets/docs/2017/extras/discussion/422-design-part3.pdf)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 9 - 27th October 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
@@ -424,7 +446,7 @@ Any questions, please let me know.
 
 ##### Discussion - part 2
 
-* please contribute to this week's class discussion on Slack channel `#discussion-part1`
+* please contribute to this week's class discussion on Slack channel `#discussion-part2`
 * further details can be found in the following PDF
   * [Design - Part 2](/assets/docs/2017/extras/discussion/422-design-part2.pdf)
 
