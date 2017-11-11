@@ -414,6 +414,25 @@ Any questions, please let me know.
 
 -->
 
+#### Week 11 - 10th November 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * React Native
+    * [Basics - Intro](/assets/docs/2017/extras/react-native-basics-intro.pdf)
+    * [Basics - Style](/assets/docs/2017/extras/react-native-basics-style.pdf)
+    * [Basics - Flex](/assets/docs/2017/extras/react-native-basics-flex.pdf)
+    * [Basics - Props](/assets/docs/2017/extras/react-native-basics-props.pdf)
+    * [Basics - State](/assets/docs/2017/extras/react-native-basics-state.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 11](https://github.com/csteach422/source/tree/master/week11)
+* Please create a list on the [Week 11 - Deferred & Data](https://trello.com/b/prTuu3YL/week-11-deferred-data) Trello board for your group, and add the following details,
+  * examples of data requests within your mobile app that would benefit from using *Deferred* objects
+  * what are the benefits of using a Deferred object for these requests?
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 10 - 3rd November 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

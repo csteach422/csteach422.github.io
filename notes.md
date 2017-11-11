@@ -73,6 +73,16 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
 -->
 
+##### Week 11 - 10th November 2017
+
+  * [course](/assets/docs/2017/Comp422-week11.pdf)
+  * extras - React Native
+    * [Basics - Intro](/assets/docs/2017/extras/react-native-basics-intro.pdf)
+    * [Basics - Style](/assets/docs/2017/extras/react-native-basics-style.pdf)
+    * [Basics - Flex](/assets/docs/2017/extras/react-native-basics-flex.pdf)
+    * [Basics - Props](/assets/docs/2017/extras/react-native-basics-props.pdf)
+    * [Basics - State](/assets/docs/2017/extras/react-native-basics-state.pdf)
+
 ##### Week 10 - 3rd November 2017
 
   * [course](/assets/docs/2017/Comp422-week10.pdf)

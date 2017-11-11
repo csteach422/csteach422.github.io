@@ -131,6 +131,15 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 11 - 10th November 2017
+
+* React Native
+	* [MDN - super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+	* [React](https://reactjs.org/)
+	* [React Native](https://facebook.github.io/react-native/)
+	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+	* [React Native - Layout Props](https://facebook.github.io/react-native/docs/layout-props.html)
+
 ##### Week 10 - 3rd November 2017
 
 * Cordova API docs

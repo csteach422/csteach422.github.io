@@ -30,13 +30,14 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Documentation, Guides...
 
 * [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
-* [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* [React](https://reactjs.org/)
+* [React Native](https://facebook.github.io/react-native/)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 ##### UI Frameworks and Libraries
@@ -77,6 +78,9 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Git](http://git-scm.com/)
 * [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Node.js](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [React Native](https://facebook.github.io/react-native/)
+* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
 ##### Text Editors (examples)
