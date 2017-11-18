@@ -414,6 +414,30 @@ Any questions, please let me know.
 
 -->
 
+#### Week 12 - 17th November 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * React Native
+    * [Basics - Lists](/assets/docs/2017/extras/react-native-basics-lists.pdf)
+    * [Basics - Scroll](/assets/docs/2017/extras/react-native-basics-scroll.pdf)
+    * [Basics - Text Input](/assets/docs/2017/extras/react-native-basics-text-input.pdf)
+    * [Basics - Touch](/assets/docs/2017/extras/react-native-basics-touch.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 12](https://github.com/csteach422/source/tree/master/week12)
+* Please continue your team's project development in preparation for the final presentation on 9th December 2016
+* Please create a list on the [Week 12 - Final Plan](https://trello.com/b/spQW7fK4/week-12-final-plan) Trello board, and add the following details,
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * a brief outline of your project's chosen data store
+    * why did you choose this data store?
+    * its usage within your application
+  * please also include an outline of planned contribution from each group member
+
+Any questions, please let me know.
+
+Enjoy your Thanksgiving holiday!
+
 #### Week 11 - 10th November 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

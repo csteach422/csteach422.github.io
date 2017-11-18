@@ -73,6 +73,17 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
 -->
 
+##### Week 12 - 17th November 2017
+
+  * [course](/assets/docs/2017/Comp422-week12.pdf)
+  * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
+  * extras - React Native
+    * [Basics - Lists](/assets/docs/2017/extras/react-native-basics-lists.pdf)
+    * [Basics - Scroll](/assets/docs/2017/extras/react-native-basics-scroll.pdf)
+    * [Basics - Text Input](/assets/docs/2017/extras/react-native-basics-text-input.pdf)
+    * [Basics - Touch](/assets/docs/2017/extras/react-native-basics-touch.pdf)
+
+
 ##### Week 11 - 10th November 2017
 
   * [course](/assets/docs/2017/Comp422-week11.pdf)
