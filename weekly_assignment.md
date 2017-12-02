@@ -414,6 +414,32 @@ Any questions, please let me know.
 
 -->
 
+#### Week 14 - 1st December 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2017/extras/data-stores-apis.pdf)
+  * [Google APIs - overview](/assets/docs/2017/extras/google-apis-overview.pdf)
+  * [Google OAuth 2.0 & APIs](/assets/docs/2017/extras/oauth-google-api.pdf)
+  * [Heroku & Git](/assets/docs/2017/extras/git-heroku-setup.pdf)
+  * [Heroku & MongoDB](/assets/docs/2017/extras/heroku-mongodb-setup.pdf)
+  * [Heroku and Postman](/assets/docs/2017/node-apis/api-heroku-mongo.pdf)
+  * [Node.js API](/assets/docs/2017/extras/node-todos-api.pdf)
+  * [Node.js API Testing](/assets/docs/2017/extras/testing-todos-api.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 14](https://github.com/csteach422/source/tree/master/week14)
+* Please review the [Final Report Outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
+* Please prepare your group's project presentation and demo for Friday 8th December
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+#### Week 13 - 24th November 2017
+
+* N/A
+
 #### Week 12 - 17th November 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

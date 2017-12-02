@@ -73,6 +73,27 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
 -->
 
+##### Week 14 - 1st December 2017
+
+  * [course](/assets/docs/2017/Comp422-week14.pdf)
+  * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & Git](/assets/docs/2017/extras/git-heroku-setup.pdf)
+    * [Heroku & MongoDB](/assets/docs/2017/extras/heroku-mongodb-setup.pdf)
+  * extras - MongoDB & Native Driver
+    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2017/extras/data-stores-apis.pdf)
+  * extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
+    * [Heroku and Postman](/assets/docs/2017/node-apis/api-heroku-mongo.pdf)
+    * [Node.js API](/assets/docs/2017/extras/node-todos-api.pdf)
+    * [Node.js API Testing](/assets/docs/2017/extras/testing-todos-api.pdf)
+  * extras - various
+    * [Google APIs - overview](/assets/docs/2017/extras/google-apis-overview.pdf)
+    * [Google OAuth 2.0 & APIs](/assets/docs/2017/extras/oauth-google-api.pdf)
+
+##### Week 13 - 24th November 2017
+
+  * N/A
+
 ##### Week 12 - 17th November 2017
 
   * [course](/assets/docs/2017/Comp422-week12.pdf)
