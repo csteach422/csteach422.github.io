@@ -73,6 +73,10 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
 -->
 
+##### Week 15 - 8th December 2017
+
+  * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
+
 ##### Week 14 - 1st December 2017
 
   * [course](/assets/docs/2017/Comp422-week14.pdf)
