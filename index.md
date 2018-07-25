@@ -8,7 +8,7 @@ categories:
 
 tags: general site home
 published: true
-summary: Software Development for Wireless and Mobile Devices, Fall 2017
+summary: Software Development for Wireless and Mobile Devices, Fall 2018
 ---
 
 Welcome to the course website for COMP 422, *Software Development for Wireless and Mobile Devices*.

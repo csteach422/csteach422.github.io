@@ -413,6 +413,7 @@ Any questions, please let me know.
 Any questions, please let me know.
 
 -->
+<!--
 
 #### Week 15 - 8th December 2017
 
@@ -727,3 +728,8 @@ The course's Trello group is available at the following URL,
 **n.b.** I'll send an invite for this Trello group to your registered LUC email address. If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
+-->
+
+##### Week 1 - 30th August 2018
+
+* 

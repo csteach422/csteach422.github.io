@@ -73,6 +73,8 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
 -->
 
+<!--
+
 ##### Week 15 - 8th December 2017
 
   * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
@@ -197,3 +199,9 @@ This material will be updated on a weekly basis.
     * [Cordova Install and Setup](/assets/docs/2017/extras/cordova-install-setup.pdf)
     * [Android Platform Guide](/assets/docs/2017/extras/android-platform-guide.pdf)
     * [iOS Platform Guide](/assets/docs/2017/extras/ios-platform-guide.pdf)
+
+-->
+
+##### Week 1 - 30th August 2018
+
+* 

@@ -7,9 +7,9 @@ categories:
 - blog
 
 tags: general news
-year: 2017
-month: 09
-day: 01
+year: 2018
+month: 08
+day: 28
 published: true
 summary: site updated and week 1 assignment
 menu: week1-update

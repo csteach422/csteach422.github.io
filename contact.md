@@ -22,4 +22,4 @@ For course enquiries, please use one of the following contact options
 * Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 422 Enquiry)
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
-Office hours for this semester are Friday afternoon at LSC [by appointment](mailto:nhayward@luc.edu?subject=Comp 422 Appointment).
+Office hours for this semester are Tuesday/Thursday [by appointment](mailto:nhayward@luc.edu?subject=Comp 422 Appointment).
