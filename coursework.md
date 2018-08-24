@@ -18,7 +18,9 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Overview
 
-* assessment will include a combination of semester's quizzes or group exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
+* assessment will include a combination of semester's exercises and discussions ([1](#assessment1)), project outline and mockup ([2](#assessment2)), DEV week ([3](#assessment3)), and final demo and report ([4](#assessment4))
+  * project outline & mockup
+    * brief group presentation of initial concept and mockup
   * DEV week demo
     * brief group presentation and demo
   * final demo
@@ -39,19 +41,43 @@ If you have any questions on the following assessments, please [contact](/contac
 
 <a id="assessment1"></a>
 
-##### 1. quizzes or group exercises at the end of each course section (30%)
+##### 1. weekly exercises & discussions (20%)
 
-* at least one week notice before quiz
-  * average time ~30 minutes
-  * taken towards the end of class
-* group exercises
+* exercises
   * help develop course project
   * test course knowledge at each stage
   * get feedback on project work
+* discussions
+  * sample mobile applications, games, services...
+  * design topics, UI and UX concepts
+* extras
+  * code and application reviews
+  * various other assessments
 
 <a id="assessment2"></a>
 
-##### 2. DEV week assessment (30%)
+##### 2. project outline & mockup (15%)
+
+* begin outline and design of a mobile application
+  * built from scratch
+    * **NOT** a responsive website viewed on a mobile device
+  * builds upon examples, technology outlined during first part of semester
+  * purpose, scope &c. is group's choice
+  * chosen topic requires approval
+  * presentation should include mockup designs and concepts
+
+**n.b.** project outline assessment will include the following:
+
+* brief presentation or demonstration of current project work
+  * ~ 5 to 10 minutes per group
+  * analysis of work conducted so far
+  * presentation and demonstration
+    * outline current state of mobile app concept and design
+    * show prototypes and designs
+
+<a id="assessment3"></a>
+
+##### 3. DEV week assessment (25%)
 
 * begin development of a mobile application from scratch
   * **NOT** a responsive website viewed on a mobile device
@@ -90,9 +116,6 @@ If you have any questions on the following assessments, please [contact](/contac
 * continue to develop your app concept and prototypes
   * develop application using any of the technologies taught during the course
   * again, combine technologies to best fit your mobile app
-* if the app uses Apache Cordova
-  * implement a custom Cordova plugin for a native mobile OS
-    * e.g. Android or iOS
 * produce a working app
   * as far as possible try to create a fully working app
   * explain any parts of the app not working...
@@ -106,9 +129,12 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Important assessment dates
 
+* project outline and mockup
+  * due Tuesday 25th September 2018 @ 2.30pm
+  * due Thursday 27th September 2018 @ 2.30pm
 * DEV week demo
-  * due Tuesday 16th October 2018 @ 2.30pm
-  * due Thursday 18th October 2018 @ 2.30pm
+  * due Tuesday 30th October 2018 @ 2.30pm
+  * due Thursday 1st November 2018 @ 2.30pm
 * final team demo
   * due Tuesday 4th December 2018 @ 2.30pm
   * due Thursday 6th December 2018 @ 2.30pm
