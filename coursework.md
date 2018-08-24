@@ -109,9 +109,9 @@ If you have any questions on the following assessments, please [contact](/contac
     * explain what does & does not work
     * ...
 
-<a id="assessment3"></a>
+<a id="assessment4"></a>
 
-##### 3. final assessment (40%)
+##### 4. final assessment (40%)
 
 * continue to develop your app concept and prototypes
   * develop application using any of the technologies taught during the course
