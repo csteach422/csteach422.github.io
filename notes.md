@@ -192,16 +192,12 @@ This material will be updated on a weekly basis.
     * [html - basics](/assets/docs/2017/extras/html-basics.pdf)
     * [js - intro](/assets/docs/2017/extras/js-intro.pdf)
 
-##### Week 1 - 1st September 2017
-
-  * [course](/assets/docs/2017/Comp422-week1.pdf)
-  * extras
-    * [Cordova Install and Setup](/assets/docs/2017/extras/cordova-install-setup.pdf)
-    * [Android Platform Guide](/assets/docs/2017/extras/android-platform-guide.pdf)
-    * [iOS Platform Guide](/assets/docs/2017/extras/ios-platform-guide.pdf)
-
 -->
 
 ##### Week 1 - 30th August 2018
 
-* 
+  * [course](/assets/docs/2018/comp422-week1.pdf)
+  * extras
+    * [Cordova Install and Setup](/assets/docs/2018/extras/cordova-install-setup.pdf)
+    * [Android Platform Guide](/assets/docs/2018/extras/android-platform-guide.pdf)
+    * [iOS Platform Guide](/assets/docs/2018/extras/ios-platform-guide.pdf)

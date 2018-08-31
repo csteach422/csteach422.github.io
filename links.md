@@ -22,18 +22,22 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-Links will be added during the course...
-
 <!--
 #### Articles / Papers
 
 *
+-->
 
 #### Documentation, Guides...
 
-* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/)
+* [Android API](https://github.com/apache/cordova-android)
+* [Android Platform Guide](https://cordova.apache.org/docs/en/8.x/guide/platforms/android/index.html)
+* [Android SDK Manager](https://developer.android.com/studio/command-line/sdkmanager)
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
+* [Apache Cordova Documentation - Platform Support](https://cordova.apache.org/docs/en/latest/guide/support/index.html)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
+
+<!--
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
@@ -41,7 +45,9 @@ Links will be added during the course...
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
+-->
 
+<!--
 ##### UI Frameworks and Libraries
 
 * [Bootstrap](http://getbootstrap.com)
@@ -55,6 +61,7 @@ Links will be added during the course...
 * [Sencha Touch](https://www.sencha.com/products/touch/#overview)
 
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
+-->
 
 #### Mockup and Prototype Tools - a few examples
 
@@ -75,21 +82,24 @@ Links will be added during the course...
 * [Android Studio](https://developer.android.com/studio/index.html)
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova and iOS in the Cloud](https://taco.visualstudio.com/en-us/docs/build_ios_cloud/)
+* [Git](http://git-scm.com/)
+* [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Node.js](https://nodejs.org/en/)
+
+<!--
 * [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
 * [Axios JS library](https://www.npmjs.com/package/axios)
 * [Firebase](https://firebase.google.com/)
 * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 * [Genymotion](https://www.genymotion.com/)
-* [Git](http://git-scm.com/)
 * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-* [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* [Node.js](https://nodejs.org/en/)
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)
 * [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 * [React Navigation](https://www.npmjs.com/package/react-navigation)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 * [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
+-->
 
 ##### Text Editors (examples)
 
@@ -102,6 +112,7 @@ Links will be added during the course...
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
 
+<!--
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
