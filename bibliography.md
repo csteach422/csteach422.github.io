@@ -252,18 +252,15 @@ There is no specific textbook for this course.
   * [Browser Support](https://jQuerymobile.com/browser-support/1.4/)
   * [Pagecontainer widget](http://api.jquerymobile.com/pagecontainer/#method-load)
 
-##### Week 2 - 8th September 2017
-
-* [Android Platform Guide](http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
-* [Android - Stand-alone SDK Tools (see foot of page)](https://developer.android.com/studio/index.html)
-* [Android Studio 2.x](https://developer.android.com/studio/index.html)
-* [Apache Cordova](https://cordova.apache.org/)
-* [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
-* [Git](http://git-scm.com/)
-* [Java - JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* [Node.js](https://nodejs.org/en/)
-
 -->
+
+##### Week 2 - 6th September 2018
+
+* Cordova Doc
+  * [deviceready](https://cordova.apache.org/docs/en/latest/cordova/events/events.html#deviceready)
+  * [Events](https://cordova.apache.org/docs/en/latest/cordova/events/events.html)
+  * [File plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
+  * [Media plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media/)
 
 ##### Week 1 - 30th August 2018
 

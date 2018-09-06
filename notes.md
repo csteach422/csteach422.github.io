@@ -176,23 +176,21 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/Comp422-week3.pdf)
   * extras - www related
     * [css - box model](/assets/docs/2017/extras/css-box-model.pdf)
-    * [html - DOM intro](/assets/docs/2017/extras/html-dom-intro.pdf)
     * [js - core](/assets/docs/2017/extras/js-core.pdf)
-
-##### Week 2 - 8th September 2017
-
-  * [course](/assets/docs/2017/Comp422-week2.pdf)
-  * extras - Cordova related
-    * [Cordova CLI Useful Commands](/assets/docs/2017/extras/cordova-cli-useful-commands.pdf)
-    * [jQuery Mobile Overview](/assets/docs/2017/extras/jquery-mobile-overview.pdf)
-  * extras - www related
-    * [css - intro](/assets/docs/2017/extras/css-intro.pdf)
-    * [css - basics](/assets/docs/2017/extras/css-basics.pdf)
-    * [html - intro](/assets/docs/2017/extras/html-intro.pdf)
-    * [html - basics](/assets/docs/2017/extras/html-basics.pdf)
-    * [js - intro](/assets/docs/2017/extras/js-intro.pdf)
-
 -->
+
+##### Week 2 - 6th September 2018
+
+  * [course](/assets/docs/2018/comp422-week2.pdf)
+  * extras - Cordova related
+    * [Cordova CLI Useful Commands](/assets/docs/2018/extras/cordova-cli-useful-commands.pdf)
+  * extras - www related
+    * [css - intro](/assets/docs/2018/extras/css-intro.pdf)
+    * [css - basics](/assets/docs/2018/extras/css-basics.pdf)
+    * [html - intro](/assets/docs/2018/extras/html-intro.pdf)
+    * [html - basics](/assets/docs/2018/extras/html-basics.pdf)
+    * [html - DOM intro](/assets/docs/2018/extras/html-dom-intro.pdf)
+    * [js - intro](/assets/docs/2018/extras/js-intro.pdf)
 
 ##### Week 1 - 30th August 2018
 
