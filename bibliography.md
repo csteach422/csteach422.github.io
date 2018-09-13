@@ -236,7 +236,9 @@ There is no specific textbook for this course.
 * Cordova Guide
   * [app templates](https://cordova.apache.org/docs/en/latest/guide/cli/template.html)
 
-##### Week 3 - 15th September 2017
+-->
+
+##### Week 3 - 13th September 2018
 
 * Cordova API
   * [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
@@ -250,9 +252,6 @@ There is no specific textbook for this course.
 * jQuery Mobile
   * [API documentation](http://api.jquerymobile.com/)
   * [Browser Support](https://jQuerymobile.com/browser-support/1.4/)
-  * [Pagecontainer widget](http://api.jquerymobile.com/pagecontainer/#method-load)
-
--->
 
 ##### Week 2 - 6th September 2018
 

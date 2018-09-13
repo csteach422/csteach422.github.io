@@ -640,40 +640,42 @@ Enjoy your week.
     * [js - logic](/assets/docs/2017/extras/js-logic.pdf)
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach422/source/tree/master/week4)
-* Please start to outline the design and structure of your project's application
-  * consider the app's content and navigation structure, user interaction requirements, feedback, colour schemes...
-    * for each conceptual view, briefly outline how and where you expect to receive user interaction and feedback
-    * how will this interaction and feedback affect the application's state
-      * ie: will a user touching a button require an update in rendered content, views, options, read or write data...
-  * Please add this information, and associated mockup images or drawings, to this week's board on the course' Trello group,
-    * [Week 4 - Design and Structure](https://trello.com/b/VHkgfaTg/week-4-design-and-structure)
-    * I've added initial instructions to this board
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-##### Week 3 - 15th September 2017
-
-* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
-  * extras - www related
-    * [css - box model](/assets/docs/2017/extras/css-box-model.pdf)
-    * [html - DOM intro](/assets/docs/2017/extras/html-dom-intro.pdf)
-    * [js - core](/assets/docs/2017/extras/js-core.pdf)
-* Please create a GitHub account for your project group
-  * create a new repository for `source` code & any other project material or notes
-  * add the GitHub details for your project to the appropriate group list on Trello,
-    * [Project Groups](https://trello.com/b/TQ3hs0IV/project-groups)
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach422/source/tree/master/week3)
-* Please test the Cordova examples,
-  * [Source - Week 3 - Cordova](https://github.com/csteach422/source/tree/master/week3/cordova)
 
 Any questions, please let me know.
 
 Enjoy your week.
 
 -->
+
+##### Week 3 - 13th September 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - design
+    * [Design and Mockups](/assets/docs/2018/extras/design-mockups.pdf)
+  * extras - www related
+    * [css - box model](/assets/docs/2018/extras/css-box-model.pdf)
+    * [css - html5](/assets/docs/2018/extras/css-html5.pdf)
+    * [html5 - intro](/assets/docs/2018/extras/html5-intro.pdf)
+    * [js - core](/assets/docs/2018/extras/js-core.pdf)
+    * [js - logic](/assets/docs/2018/extras/js-logic.pdf)
+* Please create a GitHub account for your project group
+  * create a new repository for `source` code & any other project material or notes
+  * add the GitHub details for your project to the appropriate group list on Trello,
+    * [Week 1 - Project Details](https://trello.com/b/044XRD8x/week-1-project-details)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach422/source/tree/master/week3)
+* Please start to outline the design and structure of your project's application
+  * consider the app's content and navigation structure, user interaction requirements, feedback, colour schemes...
+    * for an example conceptual view, briefly outline how and where you expect to receive user interaction and feedback
+    * how will this interaction and feedback affect the application's state
+      * ie: will a user touching a button require an update in rendered content, views, options, read or write data...
+  * Please add this information, and associated mockup images or drawings, to this week's board on the course' Trello group,
+    * [Week 3 - Design and Structure](https://trello.com/b/nqwPtpIr/week-3-design-structure)
+    * I've added initial instructions to this board
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 2 - 6th September 2018
 

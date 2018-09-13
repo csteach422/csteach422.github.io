@@ -153,7 +153,6 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/Comp422-week5.pdf)
   * extras - design
     * [Design our App](/assets/docs/2017/extras/design-our-app.pdf)
-    * [Design and Mockups](/assets/docs/2017/extras/design-mockups.pdf)
   * extras - patterns
     * [observer](/assets/docs/2017/extras/observer-pattern.pdf)
   * extras - www related
@@ -165,19 +164,19 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/Comp422-week4.pdf)
   * extras - design
     * [Design and Interface - Intro](/assets/docs/2017/extras/design-interface-intro.pdf)
-  * extras - www related
-    * [css - html5](/assets/docs/2017/extras/css-html5.pdf)
-    * [html5 - intro](/assets/docs/2017/extras/html5-intro.pdf)
-    * [js - logic](/assets/docs/2017/extras/js-logic.pdf)
-
-
-##### Week 3 - 15th September 2017
-
-  * [course](/assets/docs/2017/Comp422-week3.pdf)
-  * extras - www related
-    * [css - box model](/assets/docs/2017/extras/css-box-model.pdf)
-    * [js - core](/assets/docs/2017/extras/js-core.pdf)
 -->
+
+##### Week 3 - 13th September 2018
+
+  * [course](/assets/docs/2018/comp422-week3.pdf)
+  * extras - design
+    * [Design and Mockups](/assets/docs/2018/extras/design-mockups.pdf)
+  * extras - www related
+    * [css - box model](/assets/docs/2018/extras/css-box-model.pdf)
+    * [css - html5](/assets/docs/2018/extras/css-html5.pdf)
+    * [html5 - intro](/assets/docs/2018/extras/html5-intro.pdf)
+    * [js - core](/assets/docs/2018/extras/js-core.pdf)
+    * [js - logic](/assets/docs/2018/extras/js-logic.pdf)
 
 ##### Week 2 - 6th September 2018
 
