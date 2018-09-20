@@ -39,10 +39,10 @@ If you have any suggestions for additions to this section of the site, please fe
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
+* [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 <!--
-* [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)
 -->

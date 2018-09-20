@@ -219,14 +219,13 @@ There is no specific textbook for this course.
 ##### Week 5 - 29th September 2017
 
 * GitHub
-  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
   * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
-* MDN
-  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * W3
   * [Web storage specification](http://www.w3.org/TR/webstorage/)
 
-##### Week 4 - 22rd September 2017
+-->
+
+##### Week 4 - 20th September 2018
 
 * Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.
 * Cordova API
@@ -235,8 +234,10 @@ There is no specific textbook for this course.
   * [plugin - geolocation](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-geolocation/index.html)
 * Cordova Guide
   * [app templates](https://cordova.apache.org/docs/en/latest/guide/cli/template.html)
-
--->
+* GitHub
+  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+* MDN
+  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
 ##### Week 3 - 13th September 2018
 

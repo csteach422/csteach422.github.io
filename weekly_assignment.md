@@ -629,23 +629,25 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 4 - 22rd September 2017
+-->
+
+#### Week 4 - 20th September 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - design
-    * [Design and Interface - Intro](/assets/docs/2017/extras/design-interface-intro.pdf)
+    * [Design and Interface - Intro](/assets/docs/2018/extras/design-interface-intro.pdf)
   * extras - www related
-    * [css - html5](/assets/docs/2017/extras/css-html5.pdf)
-    * [html5 - intro](/assets/docs/2017/extras/html5-intro.pdf)
-    * [js - logic](/assets/docs/2017/extras/js-logic.pdf)
+    * [html5 - extra](/assets/docs/2018/extras/html5-extra.pdf)
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach422/source/tree/master/week4)
+* Please prepare your first presentation and demo for the start of next week's class
+  * further details may be found on the following pages,
+    * [Course Website - Coursework](http://csteach422.github.io/coursework/#assessment2)
+    * [Course Notes - Week 1 - Pages 9 & 10](http://csteach422.github.io/assets/docs/2018/comp422-week1.pdf)
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 3 - 13th September 2018
 

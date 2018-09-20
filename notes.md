@@ -158,13 +158,15 @@ This material will be updated on a weekly basis.
   * extras - www related
     * [html5 - extra](/assets/docs/2017/extras/html5-extra.pdf)
     * [js - json](/assets/docs/2017/extras/js-json.pdf)
-
-##### Week 4 - 22rd September 2017
-
-  * [course](/assets/docs/2017/Comp422-week4.pdf)
-  * extras - design
-    * [Design and Interface - Intro](/assets/docs/2017/extras/design-interface-intro.pdf)
 -->
+
+##### Week 4 - 2oth September 2018
+
+  * [course](/assets/docs/2018/comp422-week4.pdf)
+  * extras - design
+    * [Design and Interface - Intro](/assets/docs/2018/extras/design-interface-intro.pdf)
+  * extras - www related
+    * [html5 - extra](/assets/docs/2018/extras/html5-extra.pdf)
 
 ##### Week 3 - 13th September 2018
 
