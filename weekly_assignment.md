@@ -435,11 +435,8 @@ Enjoy your week.
 #### Week 14 - 1st December 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2017/extras/data-stores-apis.pdf)
   * [Google APIs - overview](/assets/docs/2017/extras/google-apis-overview.pdf)
   * [Google OAuth 2.0 & APIs](/assets/docs/2017/extras/oauth-google-api.pdf)
-  * [Heroku & Git](/assets/docs/2017/extras/git-heroku-setup.pdf)
-  * [Heroku & MongoDB](/assets/docs/2017/extras/heroku-mongodb-setup.pdf)
   * [Heroku and Postman](/assets/docs/2017/node-apis/api-heroku-mongo.pdf)
   * [Node.js API](/assets/docs/2017/extras/node-todos-api.pdf)
   * [Node.js API Testing](/assets/docs/2017/extras/testing-todos-api.pdf)
@@ -610,12 +607,8 @@ Enjoy your DEV Week and mid-semester break.
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - design
     * [Design our App](/assets/docs/2017/extras/design-our-app.pdf)
-    * [Design and Mockups](/assets/docs/2017/extras/design-mockups.pdf)
   * extras - patterns
     * [observer](/assets/docs/2017/extras/observer-pattern.pdf)
-  * extras - www related
-    * [html5 - extra](/assets/docs/2017/extras/html5-extra.pdf)
-    * [js - json](/assets/docs/2017/extras/js-json.pdf)
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 5](https://github.com/csteach422/source/tree/master/week5)
 * Please start to outline the design and structure of your project's application
@@ -630,6 +623,43 @@ Any questions, please let me know.
 Enjoy your week.
 
 -->
+
+#### Week 5 - 27th September 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - data related
+    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
+    * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
+    * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
+  * extras - www related
+    * [js - json](/assets/docs/2018/extras/js-json.pdf)
+* Review and test the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 5](https://github.com/csteach422/source/tree/master/week5)
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Events App](https://goo.gl/forms/56S4kq1mMeBbjn0J3)
+  * [Group 2 - Chirply](https://goo.gl/forms/5AbKKR7zYMpZGsoh1)
+  * [Group 3 - Spark Dating](https://goo.gl/forms/zf9wwdxlwNrojV1Z2)
+  * [Group 4 - Rendezvous](https://goo.gl/forms/a3ybzrienCpRP2Dy1)
+  * [Group 5 - Going Out: Bar Hopper](https://goo.gl/forms/tsZNdhdbz32xZ8bd2)
+  * [Group 6 - Game](https://goo.gl/forms/DnyaxyubxclaF6Os2)
+* Complete these peer review forms by **Thursday 4th October 2018** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/MKLmYoWr/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Thursday 4th October 2018** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/nx73fbwB/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Thursday 4th October 2018** at the latest
+* please contribute to this week's class discussion on Slack channel **#discussion-part1**
+  * further details can be found in the following PDF
+    * [Design - Part 1](/assets/docs/2018/discussion/422-design-part1.pdf)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 4 - 20th September 2018
 

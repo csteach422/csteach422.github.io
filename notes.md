@@ -160,7 +160,17 @@ This material will be updated on a weekly basis.
     * [js - json](/assets/docs/2017/extras/js-json.pdf)
 -->
 
-##### Week 4 - 2oth September 2018
+##### Week 5 - 27th September 2018
+
+  * [course](/assets/docs/2018/comp422-week5.pdf)
+  * extras - data related
+    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
+    * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
+    * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
+  * extras - www related
+    * [js - json](/assets/docs/2018/extras/js-json.pdf)
+
+##### Week 4 - 20th September 2018
 
   * [course](/assets/docs/2018/comp422-week4.pdf)
   * extras - design

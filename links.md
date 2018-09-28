@@ -82,8 +82,11 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova and iOS in the Cloud](https://taco.visualstudio.com/en-us/docs/build_ios_cloud/)
 * [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
 * [Fastlane tools](https://fastlane.tools/)
+* [Firebase](https://firebase.google.com/)
+* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 * [Genymotion](https://www.genymotion.com/)
 * [Git](http://git-scm.com/)
+* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
 * [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Microsoft's AppCenter](https://appcenter.ms/)
 * [Node.js](https://nodejs.org/en/)
@@ -91,9 +94,6 @@ If you have any suggestions for additions to this section of the site, please fe
 
 <!--
 * [Axios JS library](https://www.npmjs.com/package/axios)
-* [Firebase](https://firebase.google.com/)
-* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
-* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)
 * [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
