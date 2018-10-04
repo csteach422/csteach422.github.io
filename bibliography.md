@@ -216,19 +216,23 @@ There is no specific textbook for this course.
   * [Theme Roller](http://components.onsen.io/)
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
-##### Week 5 - 29th September 2017
+-->
 
-* GitHub
-  * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
+##### Week 6 - 4th October 2018
+
+* MDN
+  * [Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+  * [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * W3
   * [Web storage specification](http://www.w3.org/TR/webstorage/)
-
--->
 
 ##### Week 5 - 27th September 2018
 
 * GitHub
   * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
+  * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
 * MDN
   * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 

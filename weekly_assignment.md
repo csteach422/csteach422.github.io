@@ -602,27 +602,29 @@ Any questions, please let me know.
 
 Enjoy your DEV Week and mid-semester break.
 
-#### Week 5 - 29th September 2017
+-->
+
+#### Week 6 - 4th October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - design
-    * [Design our App](/assets/docs/2017/extras/design-our-app.pdf)
+    * [Design our App](/assets/docs/2018/extras/design-our-app.pdf)
   * extras - patterns
-    * [observer](/assets/docs/2017/extras/observer-pattern.pdf)
+    * [observer](/assets/docs/2018/extras/observer-pattern.pdf)
+    * [pub/sub](/assets/docs/2018/extras/pubsub-pattern.pdf)
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 5](https://github.com/csteach422/source/tree/master/week5)
+  * [Source - Week 6](https://github.com/csteach422/source/tree/master/week6)
 * Please start to outline the design and structure of your project's application
   * briefly outline any initial patterns you've considered for the structure of this app
-  * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
-  * views can include content pages/screens, dialogs, overlays, admin/account screens...
-  * Please add this information, and associated mockup images or drawings, to this week's board on the course' Trello group,
-    * [Week 5 - Project Mockups](https://trello.com/b/wqLKHIi1/week-5-project-mockups)
+  * define your app's views
+    * views can include content pages/screens, dialogs, overlays, admin/account screens...
+    * e.g. consider a given user path or flow through the app
+  * Please add this information to this week's board on the course' Trello group,
+    * [Week 6 - Patterns & Structure](https://trello.com/b/wrK2uEMt/week-6-patterns-structure)
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 5 - 27th September 2018
 

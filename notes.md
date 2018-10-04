@@ -140,25 +140,16 @@ This material will be updated on a weekly basis.
 
   * N/A
 
-##### Week 6 - 6th October 2017
-
-  * [course](/assets/docs/2017/Comp422-week6.pdf)
-  * discussion
-    * [Design - Part 1](/assets/docs/2017/extras/discussion/422-design-part1.pdf)
-  * extras - patterns
-    * [pub/sub](/assets/docs/2017/extras/pubsub-pattern.pdf)
-
-##### Week 5 - 29th September 2017
-
-  * [course](/assets/docs/2017/Comp422-week5.pdf)
-  * extras - design
-    * [Design our App](/assets/docs/2017/extras/design-our-app.pdf)
-  * extras - patterns
-    * [observer](/assets/docs/2017/extras/observer-pattern.pdf)
-  * extras - www related
-    * [html5 - extra](/assets/docs/2017/extras/html5-extra.pdf)
-    * [js - json](/assets/docs/2017/extras/js-json.pdf)
 -->
+
+##### Week 6 - 4th October 2018
+
+  * [course](/assets/docs/2018/comp422-week6.pdf)
+  * extras - design
+    * [Design our App](/assets/docs/2018/extras/design-our-app.pdf)
+  * extras - patterns
+    * [observer](/assets/docs/2018/extras/observer-pattern.pdf)
+    * [pub/sub](/assets/docs/2018/extras/pubsub-pattern.pdf)
 
 ##### Week 5 - 27th September 2018
 

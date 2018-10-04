@@ -40,6 +40,8 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* [MDN - Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+* [MDN - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 <!--
@@ -107,16 +109,31 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Sublime Text](https://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
+#### Various
+
+* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+
 #### Videos
 
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
+* Beginning Graphic Design
+  * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+  * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+* Google Prototyping Series
+  * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
+  * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
 
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+* [Colour](https://robots.thoughtbot.com/color)
+* [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+* [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
