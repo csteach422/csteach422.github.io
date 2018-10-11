@@ -575,34 +575,30 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 6 - 6th October 2017
+-->
+
+#### Week 7 - 11th October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * discussion
-    * [Design - Part 1](/assets/docs/2017/extras/discussion/422-design-part1.pdf)
-  * extras - patterns
-    * [pub/sub](/assets/docs/2017/extras/pubsub-pattern.pdf)
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 6](https://github.com/csteach422/source/tree/master/week6)
-* Prepare your DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 2, 3 and 4 of this week's class [notes](/assets/docs/2017/Comp422-week6.pdf)
-  * details are also available in the [Coursework](/coursework) section of this site
-* Please add your DEV week updates on your group's project development to the course' Trello organisation,
-  * [Week 6 - DEV Week updates](https://trello.com/b/sAeoOhlu/week-6-dev-week)
-
-##### Discussion - part 1
-
-* please contribute to this week's class discussion on Slack channel `#discussion-part1`
-* further details can be found in the following PDF
-  * [Design - Part 1](/assets/docs/2017/extras/discussion/422-design-part1.pdf)
+  * extras - Cordova
+    * [custom plugins](/assets/docs/2018/extras/cordova-custom-plugins-notes.pdf)
+  * extras - js
+    * [generators & promises](/assets/docs/2018/extras/js-generators-promises.pdf)
+  * extras - React Native
+    * [Install for OS X](/assets/docs/2018/extras/react-native-install-osx.pdf)
+    * [Install for Windows 10](/assets/docs/2018/extras/react-native-install-windows.pdf)
+    * [Basics - Intro](/assets/docs/2018/extras/react-native-basics-intro.pdf)
+* Review and test the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 7](https://github.com/csteach422/source/tree/master/week7)
+* Please review the above introductory React Native documents
+  * ensure you have a working React Native development environment installed on your local machine
+* please contribute to this week's class discussion on Slack channel `#discussion-part2`
+  * further details can be found in the following PDF
+  * [Design - Part 2](/assets/docs/2018/discussion/422-design-part2.pdf)
 
 Any questions, please let me know.
 
-**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
-
-Enjoy your DEV Week and mid-semester break.
-
--->
+Enjoy your week.
 
 #### Week 6 - 4th October 2018
 

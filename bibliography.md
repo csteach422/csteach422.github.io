@@ -203,20 +203,26 @@ There is no specific textbook for this course.
 
 * N/A
 
-##### Week 6 - 6th October 2017
+-->
+
+##### Week 7 - 11th October 2018
 
 * Cordova API
 	* [Plugin Development Guide](http://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
 	* [Plugin.xml](http://cordova.apache.org/docs/en/latest/plugin_ref/spec.html)
 * [Cordova Plugins](http://cordova.apache.org/plugins/)
 	* [Statusbar plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-statusbar/index.html)
+* Google Dev
+  * [Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
+* MDN
+  * [Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+  * [Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+  * [Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 * OnsenUI
   * [OnsenUI v2](https://onsen.io/)
   * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
   * [Theme Roller](http://components.onsen.io/)
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
-
--->
 
 ##### Week 6 - 4th October 2018
 

@@ -115,7 +115,6 @@ This material will be updated on a weekly basis.
 
   * [course](/assets/docs/2017/Comp422-week11.pdf)
   * extras - React Native
-    * [Basics - Intro](/assets/docs/2017/extras/react-native-basics-intro.pdf)
     * [Basics - Style](/assets/docs/2017/extras/react-native-basics-style.pdf)
     * [Basics - Flex](/assets/docs/2017/extras/react-native-basics-flex.pdf)
     * [Basics - Props](/assets/docs/2017/extras/react-native-basics-props.pdf)
@@ -126,9 +125,6 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/Comp422-week10.pdf)
   * discussion
     * [Design - Part 3](/assets/docs/2017/extras/discussion/422-design-part3.pdf)
-  * extras - React Native
-    * [Install for OS X](/assets/docs/2017/extras/react-native-install-osx.pdf)
-    * [Install for Windows 10](/assets/docs/2017/extras/react-native-install-windows.pdf)
 
 ##### Week 9 - 27th October 2017
 
@@ -141,6 +137,19 @@ This material will be updated on a weekly basis.
   * N/A
 
 -->
+
+##### Week 7 - 11th October 2018
+
+  * [course](/assets/docs/2018/comp422-week6.pdf)
+  * extras - Cordova
+    * [custom plugins](/assets/docs/2018/extras/cordova-custom-plugins-notes.pdf)
+  * extras - js
+    * [generators & promises](/assets/docs/2018/extras/js-generators-promises.pdf)
+  * extras - React Native
+    * [Install for OS X](/assets/docs/2018/extras/react-native-install-osx.pdf)
+    * [Install for Windows 10](/assets/docs/2018/extras/react-native-install-windows.pdf)
+    * [Basics - Intro](/assets/docs/2018/extras/react-native-basics-intro.pdf)
+
 
 ##### Week 6 - 4th October 2018
 
@@ -158,7 +167,7 @@ This material will be updated on a weekly basis.
     * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
     * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
     * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
-  * extras - www related
+  * extras - js
     * [js - json](/assets/docs/2018/extras/js-json.pdf)
 
 ##### Week 4 - 20th September 2018
@@ -166,7 +175,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp422-week4.pdf)
   * extras - design
     * [Design and Interface - Intro](/assets/docs/2018/extras/design-interface-intro.pdf)
-  * extras - www related
+  * extras - html5
     * [html5 - extra](/assets/docs/2018/extras/html5-extra.pdf)
 
 ##### Week 3 - 13th September 2018
