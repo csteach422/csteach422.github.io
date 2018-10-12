@@ -140,7 +140,7 @@ This material will be updated on a weekly basis.
 
 ##### Week 7 - 11th October 2018
 
-  * [course](/assets/docs/2018/comp422-week6.pdf)
+  * [course](/assets/docs/2018/comp422-week7.pdf)
   * extras - Cordova
     * [custom plugins](/assets/docs/2018/extras/cordova-custom-plugins-notes.pdf)
   * extras - js
