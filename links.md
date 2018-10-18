@@ -45,12 +45,9 @@ If you have any suggestions for additions to this section of the site, please fe
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [MDN - Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 * [MDN - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
-
-<!--
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)
--->
+* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 ##### UI Frameworks and Libraries
 
@@ -86,6 +83,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova](https://cordova.apache.org/)
 * [Apache Cordova and iOS in the Cloud](https://taco.visualstudio.com/en-us/docs/build_ios_cloud/)
 * [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
+* [Axios JS library](https://www.npmjs.com/package/axios)
 * [Fastlane tools](https://fastlane.tools/)
 * [Firebase](https://firebase.google.com/)
 * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
@@ -95,13 +93,12 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Microsoft's AppCenter](https://appcenter.ms/)
 * [Node.js](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+* [React Native](https://facebook.github.io/react-native/)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
 <!--
-* [Axios JS library](https://www.npmjs.com/package/axios)
-* [React](https://reactjs.org/)
-* [React Native](https://facebook.github.io/react-native/)
-* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 * [React Navigation](https://www.npmjs.com/package/react-navigation)
 * [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
 -->

@@ -577,6 +577,30 @@ Enjoy your week.
 
 -->
 
+#### Week 8 - 18th October 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - Cordova
+    * [extras & options](/assets/docs/2018/extras/cordova-extras-notes.pdf)
+  * extras - React Native
+    * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
+    * [Basics - Props](/assets/docs/2018/extras/react-native-basics-props.pdf)
+    * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review and test the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 8](https://github.com/csteach422/source/tree/master/week8)
+* Please review the above introductory React Native documents
+  * ensure you have a working React Native test application
+  * test the above initial code examples
+* Please add updates on your group's project development to the course's Trello group,
+  * [Week 8 - DEV Week prep](https://trello.com/b/Uzv4gWga/week-8-dev-week-prep)
+  * I've added instructions on this board.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+
 #### Week 7 - 11th October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
@@ -588,6 +612,7 @@ Enjoy your week.
     * [Install for OS X](/assets/docs/2018/extras/react-native-install-osx.pdf)
     * [Install for Windows 10](/assets/docs/2018/extras/react-native-install-windows.pdf)
     * [Basics - Intro](/assets/docs/2018/extras/react-native-basics-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 7](https://github.com/csteach422/source/tree/master/week7)
 * Please review the above introductory React Native documents
@@ -608,6 +633,7 @@ Enjoy your week.
   * extras - patterns
     * [observer](/assets/docs/2018/extras/observer-pattern.pdf)
     * [pub/sub](/assets/docs/2018/extras/pubsub-pattern.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 6](https://github.com/csteach422/source/tree/master/week6)
 * Please start to outline the design and structure of your project's application
@@ -631,6 +657,7 @@ Enjoy your week.
     * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
   * extras - www related
     * [js - json](/assets/docs/2018/extras/js-json.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 5](https://github.com/csteach422/source/tree/master/week5)
 * Complete the following peer review forms individually for the DEV Week projects and presentations
@@ -666,6 +693,7 @@ Enjoy your week.
     * [Design and Interface - Intro](/assets/docs/2018/extras/design-interface-intro.pdf)
   * extras - www related
     * [html5 - extra](/assets/docs/2018/extras/html5-extra.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach422/source/tree/master/week4)
 * Please prepare your first presentation and demo for the start of next week's class
@@ -688,6 +716,7 @@ Enjoy your week.
     * [html5 - intro](/assets/docs/2018/extras/html5-intro.pdf)
     * [js - core](/assets/docs/2018/extras/js-core.pdf)
     * [js - logic](/assets/docs/2018/extras/js-logic.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Please create a GitHub account for your project group
   * create a new repository for `source` code & any other project material or notes
   * add the GitHub details for your project to the appropriate group list on Trello,
@@ -719,6 +748,7 @@ Enjoy your week.
     * [html - basics](/assets/docs/2018/extras/html-basics.pdf)
     * [html - DOM intro](/assets/docs/2018/extras/html-dom-intro.pdf)
     * [js - intro](/assets/docs/2018/extras/js-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Create a basic project template for Apache Cordova and test with a local emulator or connected mobile device
   * test basic Cordova `events` and usage
   * test basic plugin usage, e.g. media, camera &c.

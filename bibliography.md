@@ -168,9 +168,6 @@ There is no specific textbook for this course.
 ##### Week 11 - 10th November 2017
 
 * React Native
-	* [React](https://reactjs.org/)
-	* [React Native](https://facebook.github.io/react-native/)
-	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 
 ##### Week 10 - 3rd November 2017
 
@@ -180,30 +177,19 @@ There is no specific textbook for this course.
 	* [Hooks](https://cordova.apache.org/docs/en/latest/guide/appdev/hooks/index.html)
 	* [Merges](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html#merges)
 	* [Network Information](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-network-information/index.html)
-	* [Whitelisting](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)
-* OnsenUI
-	* [JavaScript Reference](https://onsen.io/v2/docs/js.html)
-
-##### Week 9 - 27th October 2017
-
-* Cordova API
-	* [Statusbar plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-statusbar/index.html)
-	* [Storage](http://cordova.apache.org/docs/en/latest/cordova/storage/storage.html)
-	* [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
-* GitHub
-  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
-* MDN
-  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-* OnsenUI
-  * [OnsenUI v2](https://onsen.io/)
-  * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
-  * [Theme Roller](http://components.onsen.io/)
-
-##### Week 8 - 20th October 2017
-
-* N/A
 
 -->
+
+##### Week 8 - 18th October 2018
+
+* Cordova
+	* [OnsenUI - JavaScript Reference](https://onsen.io/v2/docs/js.html)
+	* [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
+
+* React Native
+	* [React](https://reactjs.org/)
+	* [React Native](https://facebook.github.io/react-native/)
+	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 
 ##### Week 7 - 11th October 2018
 

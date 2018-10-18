@@ -115,10 +115,6 @@ This material will be updated on a weekly basis.
 
   * [course](/assets/docs/2017/Comp422-week11.pdf)
   * extras - React Native
-    * [Basics - Style](/assets/docs/2017/extras/react-native-basics-style.pdf)
-    * [Basics - Flex](/assets/docs/2017/extras/react-native-basics-flex.pdf)
-    * [Basics - Props](/assets/docs/2017/extras/react-native-basics-props.pdf)
-    * [Basics - State](/assets/docs/2017/extras/react-native-basics-state.pdf)
 
 ##### Week 10 - 3rd November 2017
 
@@ -129,14 +125,20 @@ This material will be updated on a weekly basis.
 ##### Week 9 - 27th October 2017
 
   * [course](/assets/docs/2017/Comp422-week9.pdf)
-  * discussion
-    * [Design - Part 2](/assets/docs/2017/extras/discussion/422-design-part2.pdf)
-
-##### Week 8 - 20th October 2017
-
-  * N/A
+  * extras - React Native
+    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
 
 -->
+
+##### Week 8 - 18th October 2018
+
+  * [course](/assets/docs/2018/comp422-week8.pdf)
+  * extras - Cordova
+    * [extras & options](/assets/docs/2018/extras/cordova-extras-notes.pdf)
+  * extras - React Native
+    * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
+    * [Basics - Props](/assets/docs/2018/extras/react-native-basics-props.pdf)
+    * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
 
 ##### Week 7 - 11th October 2018
 
