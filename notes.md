@@ -130,6 +130,13 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 9 - 25th October 2018
+
+  * [course](/assets/docs/2018/comp422-week9.pdf)
+  * extras - React Native
+    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
+    * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
+
 ##### Week 8 - 18th October 2018
 
   * [course](/assets/docs/2018/comp422-week8.pdf)

@@ -577,6 +577,23 @@ Enjoy your week.
 
 -->
 
+#### Week 9 - 25th October 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - React Native
+    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
+    * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review and test the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 9](https://github.com/csteach422/source/tree/master/week9)
+* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2018/comp424-week9.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment3) section of this site
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 8 - 18th October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

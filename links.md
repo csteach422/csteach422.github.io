@@ -96,10 +96,10 @@ If you have any suggestions for additions to this section of the site, please fe
 * [React](https://reactjs.org/)
 * [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 * [React Native](https://facebook.github.io/react-native/)
+* [React Navigation](https://www.npmjs.com/package/react-navigation)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
 <!--
-* [React Navigation](https://www.npmjs.com/package/react-navigation)
 * [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
 -->
 
