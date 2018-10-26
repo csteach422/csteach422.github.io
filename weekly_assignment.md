@@ -580,6 +580,13 @@ Enjoy your week.
 #### Week 9 - 25th October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - Cordova
+    * [App - Intro](/assets/docs/2018/extras/cordova-app-intro.pdf)
+    * [App - Basic Dev](/assets/docs/2018/extras/cordova-app-basic-dev.pdf)
+    * [App - Architecture](/assets/docs/2018/extras/cordova-app-architecture.pdf)
+    * [App - Blue Print](/assets/docs/2018/extras/cordova-app-blueprint.pdf)
+    * [App - Plugins](/assets/docs/2018/extras/cordova-app-plugins.pdf)
+    * [App - Splashscreen & Icon](/assets/docs/2018/extras/cordova-app-splashscreen-icon.pdf)
   * extras - React Native
     * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
     * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
