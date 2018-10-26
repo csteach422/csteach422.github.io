@@ -140,6 +140,8 @@ This material will be updated on a weekly basis.
     * [App - Blue Print](/assets/docs/2018/extras/cordova-app-blueprint.pdf)
     * [App - Plugins](/assets/docs/2018/extras/cordova-app-plugins.pdf)
     * [App - Splashscreen & Icon](/assets/docs/2018/extras/cordova-app-splashscreen-icon.pdf)
+  * extras - data stores
+    * [Firebase - setup & usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
   * extras - React Native
     * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
     * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
