@@ -590,6 +590,8 @@ Enjoy your week.
   * extras - React Native
     * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
     * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
+  * extras - UI related
+    * [CSS - Flexbox](/assets/docs/2018/extras/css-flexbox-guide.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 9](https://github.com/csteach422/source/tree/master/week9)

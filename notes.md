@@ -145,6 +145,8 @@ This material will be updated on a weekly basis.
   * extras - React Native
     * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
     * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
+  * extras - UI related
+    * [CSS - Flexbox](/assets/docs/2018/extras/css-flexbox-guide.pdf)
 
 ##### Week 8 - 18th October 2018
 
