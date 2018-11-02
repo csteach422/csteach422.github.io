@@ -577,6 +577,41 @@ Enjoy your week.
 
 -->
 
+#### Week 10 - 1st November 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - general
+	  * [JS - Google APIs overview](/assets/docs/2018/extras/google-apis-overview.pdf)
+	  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/2018/extras/oauth-google-api.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review and test the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 10](https://github.com/csteach422/source/tree/master/week10)
+	  * [Cordova](https://github.com/csteach422/source/tree/master/week10/cordova)
+		  * Notetaker app - part 1 for jQuery Mobile & OnsenUI
+	  * [extras - Cordova & Oauth tests](https://github.com/csteach422/source/tree/master/extras)
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+	* [Group 1 - Game](https://goo.gl/forms/AFDe7lgOYeLBxy7n2)
+	* [Group 2 - Going Out: Bar Hopper](https://goo.gl/forms/9w7TQjWg1DAj41bB3)
+	* [Group 3 - Rendezvous](https://goo.gl/forms/Xp6H9psLfXJt8MNY2)
+	* [Group 4 - Chirply](https://goo.gl/forms/lXis41AXEYF0Tp3m2)
+  * [Group 5 - Events App](https://goo.gl/forms/k1qu8AXnZoMWwnxh1)
+  * [Group 6 - Spark Dating](https://goo.gl/forms/xkADfktkLBVNWf993)
+* Complete these peer review forms by **Thursday 8th November 2018** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/tFQjG5QO/week-10-presentation-dev-files)
+  * Please add these files as soon as possible, and by **Thursday 8th November 2018** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/3NMCPg1i/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Thursday 8th November 2018** at the latest
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 9 - 25th October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

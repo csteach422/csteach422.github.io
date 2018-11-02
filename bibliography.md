@@ -161,6 +161,12 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 10 - 1st November 2018
+
+* [React JS - Component Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+* [React JS - `componentDidUpdate`](https://reactjs.org/docs/react-component.html#componentdidupdate)
+* [React JS - `shouldComponentUpdate`](https://reactjs.org/docs/react-component.html#shouldcomponentupdate)
+
 ##### Week 9 - 25th October 2018
 
 * Cordova API docs

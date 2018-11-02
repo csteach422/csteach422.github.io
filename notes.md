@@ -130,6 +130,13 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 10 - 1st November 2018
+
+  * [course](/assets/docs/2018/comp422-week10.pdf)
+  * extras - general
+	  * [JS - Google APIs overview](/assets/docs/2018/extras/google-apis-overview.pdf)
+	  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/2018/extras/oauth-google-api.pdf)
+
 ##### Week 9 - 25th October 2018
 
   * [course](/assets/docs/2018/comp422-week9.pdf)
