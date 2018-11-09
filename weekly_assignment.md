@@ -577,6 +577,29 @@ Enjoy your week.
 
 -->
 
+#### Week 11 - 8th November 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+	* extras - data stores & authentication
+		* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
+	* extras - design
+		* [Design and Information Architecture](/assets/docs/2018/extras/design-information-architecture.pdf)
+	* extras - React Native
+		* [Basics - Lists](/assets/docs/2018/extras/react-native-basics-lists.pdf)
+		* [Basics - Scroll](/assets/docs/2018/extras/react-native-basics-scroll.pdf)
+		* [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
+		* [Basics - Touch](/assets/docs/2018/extras/react-native-basics-touch.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review and test the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 11](https://github.com/csteach422/source/tree/master/week11)
+* please contribute to this week's class discussion on Slack channel `#discussion-part3`
+  * further details can be found in the following PDF
+  * [Design - Part 3](/assets/docs/2018/discussion/422-design-part3.pdf)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 10 - 1st November 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

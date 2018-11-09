@@ -130,6 +130,19 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 11 - 8th November 2018
+
+* [course](/assets/docs/2018/comp422-week11.pdf)
+* extras - data stores & authentication
+	* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
+* extras - design
+	* [Design and Information Architecture](/assets/docs/2018/extras/design-information-architecture.pdf)
+* extras - React Native
+	* [Basics - Lists](/assets/docs/2018/extras/react-native-basics-lists.pdf)
+	* [Basics - Scroll](/assets/docs/2018/extras/react-native-basics-scroll.pdf)
+	* [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
+	* [Basics - Touch](/assets/docs/2018/extras/react-native-basics-touch.pdf)
+
 ##### Week 10 - 1st November 2018
 
   * [course](/assets/docs/2018/comp422-week10.pdf)
@@ -148,10 +161,9 @@ This material will be updated on a weekly basis.
     * [App - Plugins](/assets/docs/2018/extras/cordova-app-plugins.pdf)
     * [App - Splashscreen & Icon](/assets/docs/2018/extras/cordova-app-splashscreen-icon.pdf)
   * extras - data stores
-    * [Firebase - setup & usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
+    * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
   * extras - React Native
     * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
-    * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
   * extras - UI related
     * [CSS - Flexbox](/assets/docs/2018/extras/css-flexbox-guide.pdf)
 

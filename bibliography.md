@@ -143,15 +143,11 @@ There is no specific textbook for this course.
 	* [React](https://reactjs.org/)
 	* [React Native](https://facebook.github.io/react-native/)
 	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
-	* [React Navigation](https://www.npmjs.com/package/react-navigation)
-	* [React Native - Layout Props](https://facebook.github.io/react-native/docs/layout-props.html)
-	* [React Native - StatusBar](https://facebook.github.io/react-native/docs/statusbar.html)
 * Various
 	* [Axios JS library](https://www.npmjs.com/package/axios)
 	* [Firebase](https://firebase.google.com/)
 	* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-	* [MDN - super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 	* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 	* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
 
@@ -160,6 +156,12 @@ There is no specific textbook for this course.
 * N/A
 
 -->
+
+##### Week 11 - 8th November 2018
+
+* [React Navigation](https://www.npmjs.com/package/react-navigation)
+* [React Native - Layout Props](https://facebook.github.io/react-native/docs/layout-props.html)
+* [React Native - StatusBar](https://facebook.github.io/react-native/docs/statusbar.html)
 
 ##### Week 10 - 1st November 2018
 
