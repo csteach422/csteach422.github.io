@@ -83,18 +83,10 @@ This material will be updated on a weekly basis.
 
   * [course](/assets/docs/2017/Comp422-week14.pdf)
   * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-  * extras - Heroku & Git setup
-    * [Heroku & Git](/assets/docs/2017/extras/git-heroku-setup.pdf)
-    * [Heroku & MongoDB](/assets/docs/2017/extras/heroku-mongodb-setup.pdf)
-  * extras - MongoDB & Native Driver
-    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2017/extras/data-stores-apis.pdf)
   * extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
     * [Heroku and Postman](/assets/docs/2017/node-apis/api-heroku-mongo.pdf)
     * [Node.js API](/assets/docs/2017/extras/node-todos-api.pdf)
     * [Node.js API Testing](/assets/docs/2017/extras/testing-todos-api.pdf)
-  * extras - various
-    * [Google APIs - overview](/assets/docs/2017/extras/google-apis-overview.pdf)
-    * [Google OAuth 2.0 & APIs](/assets/docs/2017/extras/oauth-google-api.pdf)
 
 ##### Week 13 - 24th November 2017
 
@@ -104,37 +96,27 @@ This material will be updated on a weekly basis.
 
   * [course](/assets/docs/2017/Comp422-week12.pdf)
   * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-  * extras - React Native
-    * [Basics - Lists](/assets/docs/2017/extras/react-native-basics-lists.pdf)
-    * [Basics - Scroll](/assets/docs/2017/extras/react-native-basics-scroll.pdf)
-    * [Basics - Text Input](/assets/docs/2017/extras/react-native-basics-text-input.pdf)
-    * [Basics - Touch](/assets/docs/2017/extras/react-native-basics-touch.pdf)
-
-
-##### Week 11 - 10th November 2017
-
-  * [course](/assets/docs/2017/Comp422-week11.pdf)
-  * extras - React Native
-
-##### Week 10 - 3rd November 2017
-
-  * [course](/assets/docs/2017/Comp422-week10.pdf)
-  * discussion
-    * [Design - Part 3](/assets/docs/2017/extras/discussion/422-design-part3.pdf)
-
-##### Week 9 - 27th October 2017
-
-  * [course](/assets/docs/2017/Comp422-week9.pdf)
-  * extras - React Native
-    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
 
 -->
+
+##### Week 12 - 15th November 2018
+
+* [course](/assets/docs/2018/comp422-week12.pdf)
+* extras - data stores
+  * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
+* extras - data stores & authentication
+	* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
+* extras - Heroku & Git setup
+  * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
+  * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
+* extras - MongoDB & Native Driver
+  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
+* extras - React Native
+	* [Basics - Working with Maps](/assets/docs/2018/extras/react-native-basics-maps.pdf)
 
 ##### Week 11 - 8th November 2018
 
 * [course](/assets/docs/2018/comp422-week11.pdf)
-* extras - data stores & authentication
-	* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
 * extras - design
 	* [Design and Information Architecture](/assets/docs/2018/extras/design-information-architecture.pdf)
 * extras - React Native
@@ -202,10 +184,6 @@ This material will be updated on a weekly basis.
 ##### Week 5 - 27th September 2018
 
   * [course](/assets/docs/2018/comp422-week5.pdf)
-  * extras - data related
-    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
-    * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
-    * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
   * extras - js
     * [js - json](/assets/docs/2018/extras/js-json.pdf)
 

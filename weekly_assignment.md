@@ -479,103 +479,37 @@ Any questions, please let me know.
 
 Enjoy your Thanksgiving holiday!
 
-#### Week 11 - 10th November 2017
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * React Native
-    * [Basics - Intro](/assets/docs/2017/extras/react-native-basics-intro.pdf)
-    * [Basics - Style](/assets/docs/2017/extras/react-native-basics-style.pdf)
-    * [Basics - Flex](/assets/docs/2017/extras/react-native-basics-flex.pdf)
-    * [Basics - Props](/assets/docs/2017/extras/react-native-basics-props.pdf)
-    * [Basics - State](/assets/docs/2017/extras/react-native-basics-state.pdf)
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 11](https://github.com/csteach422/source/tree/master/week11)
-* Please create a list on the [Week 11 - Deferred & Data](https://trello.com/b/prTuu3YL/week-11-deferred-data) Trello board for your group, and add the following details,
-  * examples of data requests within your mobile app that would benefit from using *Deferred* objects
-  * what are the benefits of using a Deferred object for these requests?
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 10 - 3rd November 2017
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * discussion
-    * [Design - Part 3](/assets/docs/2017/extras/discussion/422-design-part3.pdf)
-  * React Native
-    * [Install for OS X](/assets/docs/2017/extras/react-native-install-osx.pdf)
-    * [Install for Windows 10](/assets/docs/2017/extras/react-native-install-windows.pdf)
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 10](https://github.com/csteach422/source/tree/master/week10)
-* Please ensure you have a working React Native setup for your given platform. You may consult the extra documents above for install and setup details for OS X and Windows 10.
-
-##### Discussion - part 3
-
-* please contribute to this week's class discussion on Slack channel `#discussion-part3`
-* further details can be found in the following PDF
-  * [Design - Part 3](/assets/docs/2017/extras/discussion/422-design-part3.pdf)
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 9 - 27th October 2017
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * discussion
-    * [Design - Part 2](/assets/docs/2017/extras/discussion/422-design-part2.pdf)
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 9](https://github.com/csteach422/source/tree/master/week9)
-
-##### Discussion - part 2
-
-* please contribute to this week's class discussion on Slack channel `#discussion-part2`
-* further details can be found in the following PDF
-  * [Design - Part 2](/assets/docs/2017/extras/discussion/422-design-part2.pdf)
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 8 - 20th October 2017
-
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [1 - Group A](https://goo.gl/forms/l6uRyEjHJZnnHmpm2)
-  * [2 - Group B](https://goo.gl/forms/Pjyfn2FWYCnoCDqV2)
-  * [3 - Group C](https://goo.gl/forms/lJHMtm8KzlSyw9xZ2)
-  * [4 - Group D](https://goo.gl/forms/fuzF4mWEhaySE0hA2)
-  * [5 - Group E](https://goo.gl/forms/TjTeYPNX2HDmRR9d2)
-  * [6 - Group F](https://goo.gl/forms/O4Ouxvm7keQnxdb72)
-  * [7 - Group G](https://goo.gl/forms/akzty1ev5IzZAyUD2)
-  * [8 - Group H](https://goo.gl/forms/YmhokDFC5BVn3fJZ2)
-* Complete these peer review forms by **Friday 27th October 2017** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
-* Please add your DEV week presentation files, notes, &c. to the following board on Trello,
-  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/daHy0Ug5/week-8-dev-week-presentation-files)
-  * Please add these files as soon as possible, and by **Friday 27th October 2017** at the latest
-  * instructions are included as a list on the above board
-* Please share your completed DEV Week code, and any associated files or data, with myself
-  * code &c. should be pushed to your group's repository on GitHub
-  * please share these files by **Friday 27th October 2017** at the latest
-* Complete the following Trello board,
-  * [Week 8 - DEV Week Contributions](https://trello.com/b/pHkPn6IO/week-8-dev-week-contributions)
-  * this board is **important** - it will help to establish member contributions for the DEV week project
-  * please complete this requirement by **Friday 27th October 2017** at the latest
-* Prepare for a quiz, which is scheduled for the end of next week's class
-  * quiz will include material from the course, class, and extra notes for weeks 1 to 8 inclusive
-  * quiz will be approximately 45 minutes in length
-  * questions will be multiple choice
-  * please bring your laptop or other internet connected device to class
-  * this quiz uses an online Google Form
-    * **NB:** you'll need a Google account to register for the quiz
-
-Any questions, please let me know.
-
-Enjoy your week.
-
 -->
+
+#### Week 12 - 15th November 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+	* extras - data stores
+	  * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
+	* extras - data stores & authentication
+		* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
+	* extras - Heroku & Git setup
+	  * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
+	  * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
+	* extras - MongoDB & Native Driver
+	  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
+  * extras - React Native
+	  * [Basics - Working with Maps](/assets/docs/2018/extras/react-native-basics-maps.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review and test the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 12](https://github.com/csteach422/source/tree/master/week12)
+* Please create a list on the [Week 12 - Final Plan](https://trello.com/b/lKEZ4wDY/week-12-final-plan) Trello board, and add the following details,  
+	* a brief plan and outline for your group's remaining work
+	  * this should include any work that is planned towards your group's final project presentation
+	    * this may include development, research, design, testing, and so on
+	  * a brief outline of your project's chosen data store
+	    * why did you choose this data store?
+	    * its usage within your application
+	  * please also include an outline of planned contribution from each group member
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 11 - 8th November 2018
 
@@ -735,10 +669,6 @@ Enjoy your week.
 #### Week 5 - 27th September 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * extras - data related
-    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
-    * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
-    * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
   * extras - www related
     * [js - json](/assets/docs/2018/extras/js-json.pdf)
 * Review this week's [bibliography](/bibliography) links and material

@@ -157,6 +157,19 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 12 - 15th November 2018
+
+* Various
+	* [Axios JS library](https://www.npmjs.com/package/axios)
+	* [Firebase](https://firebase.google.com/)
+	* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
+	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
+	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
+	* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
+	* [MDN - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+	* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+	* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
+
 ##### Week 11 - 8th November 2018
 
 * [React Navigation](https://www.npmjs.com/package/react-navigation)
