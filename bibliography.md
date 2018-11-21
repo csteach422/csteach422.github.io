@@ -142,32 +142,32 @@ There is no specific textbook for this course.
 * React & React Native
 	* [React](https://reactjs.org/)
 	* [React Native](https://facebook.github.io/react-native/)
-	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
-* Various
-	* [Axios JS library](https://www.npmjs.com/package/axios)
-	* [Firebase](https://firebase.google.com/)
-	* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
-	* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-	* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
-	* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
-
-##### Week 13 - 24th November 2017
-
-* N/A
 
 -->
+
+##### Week 13 - 20th November 2018
+
+* Cordova
+	* [Cordova plugin - Firebase Auth](https://www.npmjs.com/package/cordova-plugin-firebase-authentication)
+	* [Cordova, OAuth, & Firebase](https://firebase.google.com/docs/auth/web/cordova)
+* React & React Native
+	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+	* [React Native Firebase](https://rnfirebase.io/)
+	* [React Navigation](https://reactnavigation.org/)
+* Various
+	* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
+	* [MDN - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+	* [NPM - Firebase](https://www.npmjs.com/package/firebase)
+	* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 
 ##### Week 12 - 15th November 2018
 
 * Various
 	* [Axios JS library](https://www.npmjs.com/package/axios)
 	* [Firebase](https://firebase.google.com/)
-	* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
 	* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-	* [MDN - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-	* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 	* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
 
 ##### Week 11 - 8th November 2018

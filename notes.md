@@ -83,10 +83,7 @@ This material will be updated on a weekly basis.
 
   * [course](/assets/docs/2017/Comp422-week14.pdf)
   * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-  * extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
-    * [Heroku and Postman](/assets/docs/2017/node-apis/api-heroku-mongo.pdf)
-    * [Node.js API](/assets/docs/2017/extras/node-todos-api.pdf)
-    * [Node.js API Testing](/assets/docs/2017/extras/testing-todos-api.pdf)
+
 
 ##### Week 13 - 24th November 2017
 
@@ -99,13 +96,21 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 13 - 20th November 2018
+
+* [course](/assets/docs/2018/comp422-week13.pdf)
+* extras - data stores & authentication
+	* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
+* extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
+    * [Heroku and Postman](/assets/docs/2018/extras/api-heroku-mongo.pdf)
+    * [Node.js API](/assets/docs/2018/extras/node-todos-api.pdf)
+    * [Node.js API Testing](/assets/docs/2018/extras/testing-todos-api.pdf)
+
 ##### Week 12 - 15th November 2018
 
 * [course](/assets/docs/2018/comp422-week12.pdf)
 * extras - data stores
   * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
-* extras - data stores & authentication
-	* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
 * extras - Heroku & Git setup
   * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
   * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
