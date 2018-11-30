@@ -137,13 +137,24 @@ There is no specific textbook for this course.
 
 * N/A
 
-##### Week 14 - 1st December 2017
-
-* React & React Native
-	* [React](https://reactjs.org/)
-	* [React Native](https://facebook.github.io/react-native/)
-
 -->
+
+##### Week 14 - 27th November 2018
+
+* Cordova API docs
+	* [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
+	* [Globalization](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-globalization/index.html)
+	* [Hooks](https://cordova.apache.org/docs/en/latest/guide/appdev/hooks/index.html)
+	* [Merges](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html#merges)
+	* [Network Information](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-network-information/index.html)
+	* [Whitelisting](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)
+* OnsenUI
+	* [JavaScript Reference](https://onsen.io/v2/docs/js.html)
+* React & React Native
+	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+	* [React Navigation](https://reactnavigation.org/)
+	* [React Native Navigation](https://wix.github.io/react-native-navigation/#/)
+	* [React Native Navigation - GitHub](https://github.com/wix/react-native-navigation)
 
 ##### Week 13 - 20th November 2018
 
@@ -151,7 +162,6 @@ There is no specific textbook for this course.
 	* [Cordova plugin - Firebase Auth](https://www.npmjs.com/package/cordova-plugin-firebase-authentication)
 	* [Cordova, OAuth, & Firebase](https://firebase.google.com/docs/auth/web/cordova)
 * React & React Native
-	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 	* [React Native Firebase](https://rnfirebase.io/)
 	* [React Navigation](https://reactnavigation.org/)
 * Various

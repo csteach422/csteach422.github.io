@@ -96,6 +96,15 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 14 - 27th November 2018
+
+* [course](/assets/docs/2018/comp422-week13.pdf)
+* extras - Modules
+	* [CommonJS](/assets/docs/2018/extras/notes-commonjs-modules.pdf)
+	* [ES 2015 modules - technical](/assets/docs/2018/extras/notes-es-modules-technical.pdf)
+* extras - various
+	* [Final Report Outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
+
 ##### Week 13 - 20th November 2018
 
 * [course](/assets/docs/2018/comp422-week13.pdf)
