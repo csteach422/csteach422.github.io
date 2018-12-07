@@ -131,13 +131,9 @@ There is no specific textbook for this course.
 
 -->
 
-<!--
-
-##### Week 15 - 8th December 2017
+##### Week 15 - 6th December 2018
 
 * N/A
-
--->
 
 ##### Week 14 - 27th November 2018
 

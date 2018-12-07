@@ -57,6 +57,24 @@ Enjoy your week.
 
 -->
 
+#### Week 15 - 6th December 2018
+
+* Please complete your group's final project report
+  * suggested report length approximately 10 pages
+* Further details can be found in the following outline
+  * [final report outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
+* Report must be submitted by 6.15pm on Satuday 15th December 2018
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Final Report)
+   * OR send as an attachment to a private message on Slack
+* Please share with me a copy of your group's final code. This may include the following options,
+  * GitHub
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Individual Final Report)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 14 - 27th November 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

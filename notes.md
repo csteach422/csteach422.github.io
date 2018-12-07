@@ -96,6 +96,11 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 15 - 6th December 2018
+
+* extras - various
+	* [Final Report Outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
+
 ##### Week 14 - 27th November 2018
 
 * [course](/assets/docs/2018/comp422-week14.pdf)
