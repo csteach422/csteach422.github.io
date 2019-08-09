@@ -9,10 +9,10 @@ categories:
 
 tags: assignments coursework
 published: true
-summary: assignments and coursework for COMP 422
+summary: assignments and coursework for COMP 322/422
 ---
 
-This page will be updated each week during the Fall semester with assignments, coursework, quizzes...
+This page will be updated each week during the Fall semester with assignments, coursework, reading suggestions &c.
 
 #### Coursework Overview
 
@@ -22,7 +22,7 @@ A full breakdown of this semester's coursework requirements is available at the 
   
 #### Weekly Assignment
 
-Tasks, reading, exercises, and quizzes are available at the following page
+Tasks, reading, exercises &c. are available at the following page
 
   * [Weekly Assignment](/weekly_assignment)
   

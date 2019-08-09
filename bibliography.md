@@ -9,10 +9,10 @@ categories:
 
 tags: bibliography
 published: true
-summary: course bibliography and references for COMP 422
+summary: course bibliography and references for COMP 322/422
 ---
 
-The course bibliography will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
+The course *bibliography & references* will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
 
 References will be cited at the end of each week's notes.
 
@@ -21,116 +21,6 @@ There is no specific textbook for this course.
 ***
 
 <!--
-##### Week 13 - 20th November 2015
-
-* Cordova
-  * [Plugin Development Guide](https://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
-  * [Plugman](https://cordova.apache.org/docs/en/latest/plugin_ref/plugman.html)
-* Ionic
-  * [Home](http://ionicframework.com/)
-  * [Docs](http://ionicframework.com/docs/)
-
-##### Week 12 - 13th November 2015
-
-* Cordova
-  * [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
-* GitHub
-  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
-  * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
-* MDN
-  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-
-##### Week 11 - 6th November 2015
-
-* Cordova
-  * [Cordova Storage](http://cordova.apache.org/docs/en/5.1.1/cordova/storage/storage.html)
-* GitHub
-  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
-* HTML5
-  * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
-* MDN
-  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-* W3
-  * [Web storage specification](http://www.w3.org/TR/webstorage/)
-
-##### Week 10 - 30th October 2015
-
-* Cordova
-  * [Cordova API - filesystem plugin](https://www.npmjs.com/package/cordova-plugin-file)
-  * [Cordova API - file transfer plugin](https://www.npmjs.com/package/cordova-plugin-file-transfer)
-  * [Cordova Storage](http://cordova.apache.org/docs/en/5.1.1/cordova/storage/storage.html)
-* GitHub
-  * [cordova-plugin-file](https://github.com/apache/cordova-plugin-file/)
-* HTML5
-  * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
-* MDN
-  * [Web APIs - FileError](https://developer.mozilla.org/en-US/docs/Web/API/FileError)
-
-##### Week 14 - 2nd December 2016
-
-* Cordova API docs
-	* [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
-	* [Globalization](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-globalization/index.html)
-	* [Hooks](https://cordova.apache.org/docs/en/latest/guide/appdev/hooks/index.html)
-	* [Merges](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html#merges)
-	* [Network Information](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-network-information/index.html)
-	* [Whitelisting](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)
-* OnsenUI
-	* [JavaScript Reference](https://onsen.io/v2/docs/js.html)
-
-##### Week 12 - 18th November 2016
-
-* OnsenUI
-	* [JavaScript Reference](https://onsen.io/v2/docs/js.html)
-* MDN - IndexedDB
-	* [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-* MDN - JavaScript reference
-	* [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-	* [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
-
-
-##### Week 11 - 11th November 2016
-
-* Cordova API
-	* [Plugin Development Guide](http://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
-	* [Plugin.xml](http://cordova.apache.org/docs/en/latest/plugin_ref/spec.html)
-* [Cordova Plugins](http://cordova.apache.org/plugins/)
-
-##### Week 10 - 4th November 2016
-
-* Cordova API
-	* [Statusbar plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-statusbar/index.html)
-* OnsenUI
-  * [OnsenUI v2](https://onsen.io/)
-  * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
-  * [Theme Roller](http://components.onsen.io/)
-
-##### Week 9 - 28th October 2016
-
-* Cordova API
-	* [Storage](http://cordova.apache.org/docs/en/latest/cordova/storage/storage.html)
-  * [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
-* GitHub
-  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
-* MDN
-  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-
-##### Week 8 - 21st October 2016
-
-* GitHub
-  * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
-  * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
-* MDN
-  * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-* W3
-  * [Web storage specification](http://www.w3.org/TR/webstorage/)
-
-##### Week 7 - 14th October 2016
-
-* N/A
-
--->
-
 ##### Week 15 - 6th December 2018
 
 * N/A
@@ -298,3 +188,4 @@ There is no specific textbook for this course.
 * [iOS API](https://github.com/apache/cordova-ios)
 * [Node.js](https://nodejs.org/en/)
 * [Git](http://git-scm.com/)
+-->

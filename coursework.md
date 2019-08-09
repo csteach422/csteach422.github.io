@@ -9,7 +9,7 @@ categories:
 
 tags: coursework
 published: true
-summary: coursework for COMP 422
+summary: coursework for COMP 322/422
 ---
 
 Course assessment will continue throughout the semester.
@@ -27,15 +27,15 @@ If you have any questions on the following assessments, please [contact](/contac
     * presentation and live demo
   * final report
     * clearly detail design and development process
-    * outline testing, prototypes etc
+    * outline testing, prototypes &c.
     * explain what does and does not work in your final app
     * detail concepts and ideas for further development of this mobile application
     * ...
-  * work may be conducted individually or in groups (max. 4 persons per group)
+  * work may be conducted individually or in groups (max. 5 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-**n.b.** please read the [Final Report Outline](/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf) for further details.
+**n.b.** please read the [Final Report Outline](/assets/docs/2019/comp422-final-report-outline-2019.pdf) for further details.
 
 #### Assessed coursework will include the following primary categories:
 
@@ -83,7 +83,7 @@ If you have any questions on the following assessments, please [contact](/contac
 * begin development of a mobile application from scratch
   * **NOT** a responsive website viewed on a mobile device
   * must apply technologies taught up to and including DEV week, e.g.
-    * Apache Cordova, React Native, &c.
+    * Apache Cordova or React Native
     * combine technologies taught to fit your mobile app...
 * can be platform agnostic (cross-platform) or specific targeted OS, e.g.
     * cross-platform app that builds for Android and iOS
@@ -91,11 +91,11 @@ If you have any questions on the following assessments, please [contact](/contac
     * consider choice, and explain why?
 * outline concept, research conducted to date
 * consider applicable design patterns
-* are you using any sensors etc?
+* are you using any sensors &c.?
   * how, why?
 * prototyping
   * demo current prototypes
-  * any working tests or models etc
+  * any working tests or models &c.
 * anything else to help explain your mobile app...
 
 **NB:** DEV week assessment will include the following:
@@ -131,16 +131,16 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * project outline and mockup
-  * due Tuesday 25th September 2018 @ 2.30pm
-  * due Thursday 27th September 2018 @ 2.30pm
+  * due Tuesday 24th September 2019 @ 2.30pm
+  * due Thursday 26th September 2019 @ 2.30pm
 * DEV week demo
-  * due Tuesday 30th October 2018 @ 2.30pm
-  * due Thursday 1st November 2018 @ 2.30pm
+  * due Tuesday 29th October 2019 @ 2.30pm
+  * due Thursday 31st October 2019 @ 2.30pm
 * final team demo
-  * due Tuesday 4th December 2018 @ 2.30pm
-  * due Thursday 6th December 2018 @ 2.30pm
+  * due Tuesday 3rd December 2019 @ 2.30pm
+  * due Thursday 5th December 2019 @ 2.30pm
 * final team report
-  * due Thursday 13th December 2018 @ 2.30pm
+  * due Thursday 12th December 2019
 
 #### Grading
 

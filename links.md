@@ -9,7 +9,7 @@ categories:
 
 tags: links resources
 published: true
-summary: suggested links and resources for COMP 422
+summary: suggested links and resources for COMP 322/422
 ---
 
 This list contains a variety of information, suggestions, and generally interesting material.
@@ -18,7 +18,7 @@ This section will be updated on a weekly basis during the Fall semester.
 
 We are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
 
-If you have any suggestions for additions to this section of the site, please feel free to [contact me](mailto:nhayward@luc.edu?subject=COMP422-Links).
+If you have any suggestions for additions to this section of the site, please feel free to [contact me](mailto:nhayward@luc.edu?subject=COMP 322/422 Links).
 
 ***
 
@@ -26,7 +26,6 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Articles / Papers
 
 *
--->
 
 #### Documentation, Guides...
 
@@ -137,3 +136,4 @@ If you have any suggestions for additions to this section of the site, please fe
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
+-->

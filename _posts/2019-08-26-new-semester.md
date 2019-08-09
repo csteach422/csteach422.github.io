@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: general news
-year: 2018
+year: 2019
 month: 08
-day: 27
+day: 26
 published: true
-summary: welcome to the new Fall semester, 2018
+summary: welcome to the new Fall semester, 2019
 menu: new-semester
 ---
 
-Welcome to the new Fall semester, and the COMP 422 course in *Software Development for Wireless and Mobile Devices*.
+Welcome to the new Fall semester, and the COMP 322/422 course in *Software Development for Wireless and Mobile Devices*.
 
 Please ensure that you check this website each week for new posts, notes, and material.
 

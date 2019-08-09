@@ -1,5 +1,5 @@
 ---
-title: COMP 422
+title: COMP 322/422
 layout: default-vertical
 
 categories:
@@ -8,10 +8,10 @@ categories:
 
 tags: general site home
 published: true
-summary: Software Development for Wireless and Mobile Devices, Fall 2018
+summary: Software Development for Wireless and Mobile Devices, Fall 2019
 ---
 
-Welcome to the course website for COMP 422, *Software Development for Wireless and Mobile Devices*.
+Welcome to the course website for COMP 322/422, *Software Development for Wireless and Mobile Devices*.
 
 This course is offered by the [Department of Computer Science](http://www.luc.edu/cs/) at [Loyola University Chicago](http://www.luc.edu).
 

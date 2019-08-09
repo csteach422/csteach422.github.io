@@ -10,7 +10,7 @@ categories:
 
 tags: general site social
 published: true
-summary: contact details for COMP 422
+summary: contact details for COMP 322/422
 ---
 
 For course enquiries, please use one of the following contact options
@@ -19,7 +19,7 @@ For course enquiries, please use one of the following contact options
 
 * Name: Dr Nick Hayward
 * Office: [Doyle 307 (LSC)](http://www.luc.edu/media/lucedu/lsc.pdf)
-* Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 422 Enquiry)
+* Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 322/422 Enquiry)
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
-Office hours for this semester are Tuesday/Thursday [by appointment](mailto:nhayward@luc.edu?subject=Comp 422 Appointment).
+Office hours for this semester are Tuesday/Thursday [by appointment](mailto:nhayward@luc.edu?subject=Comp 322/422 Appointment).

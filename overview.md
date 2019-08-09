@@ -9,7 +9,7 @@ categories:
 
 tags: overview general_information
 published: true
-summary: course overview and further information for COMP 422
+summary: course overview and further information for COMP 322/422
 ---
 
 #### Overview

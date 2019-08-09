@@ -9,7 +9,7 @@ categories:
 
 tags: coursework weekly
 published: true
-summary: weekly assignment for COMP 422
+summary: weekly assignment for COMP 322/422
 ---
 
 #### Assignment submission
@@ -19,44 +19,6 @@ summary: weekly assignment for COMP 422
 ***
 
 <!--
-
-#### Week 15 - 8th December 2017
-
-* Please complete your group's final project report
-  * suggested report length approximately 10 pages
-* Further details can be found in the following outline
-  * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-* Report must be submitted by 2.45pm on Friday 15th December 2017
-   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Final Report)
-* Please share with me a copy of your group's final code. This may include the following options,
-  * GitHub
-
-**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Individual Final Report)
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 14 - 1st December 2017
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-
-  * [Heroku and Postman](/assets/docs/2017/node-apis/api-heroku-mongo.pdf)
-  * [Node.js API](/assets/docs/2017/extras/node-todos-api.pdf)
-  * [Node.js API Testing](/assets/docs/2017/extras/testing-todos-api.pdf)
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 14](https://github.com/csteach422/source/tree/master/week14)
-* Please review the [Final Report Outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-* Please prepare your group's project presentation and demo for Friday 8th December
-  * as detailed in previous classes, this presentation should be an outline of your final group project
-  * please consult the [coursework](/coursework) page for further details
-
-Any questions, please let me know.
-
-Enjoy your week.
-
--->
-
 #### Week 15 - 6th December 2018
 
 * Please complete your group's final project report
@@ -444,3 +406,4 @@ If you have not already joined the course's Slack group, please use the followin
 Any questions, please let me know.
 
 Enjoy your weekend.
+-->

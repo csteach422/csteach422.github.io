@@ -9,7 +9,7 @@ categories:
 
 tags: notes material
 published: true
-summary: course notes and material for COMP 422
+summary: course notes and material for COMP 322/422
 ---
 
 Course notes and material will be added to this page during the Fall semester.
@@ -19,83 +19,6 @@ This material will be updated on a weekly basis.
 ***
 
 <!--
-
-##### Week 15 - 9th December 2016
-
-  * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
-
-##### Week 14 - 2nd December 2016
-
-  * [course](/assets/docs/2016/comp422-week14.pdf)
-  * extras
-    * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
-
-##### Week 12 - 18th November 2016
-
-  * [course](/assets/docs/2016/comp422-week12.pdf)
-  * extras
-    * [final report outline](/assets/docs/2016/extras/Comp422-FinalReportOutline-2016.pdf)
-
-##### Week 11 - 11th November 2016
-
-  * [course](/assets/docs/2016/comp422-week11.pdf)
-  * extras
-    * [Design - User Experience and Interaction](/assets/docs/2016/extras/design-experience-interaction.pdf)
-
-##### Week 10 - 4th November 2016
-
-  * [course](/assets/docs/2016/comp422-week10.pdf)
-  * extras
-    * [Design and Information Architecture](/assets/docs/2016/extras/design-information-architecture.pdf)
-
-##### Week 9 - 28th October 2016
-
-  * [course](/assets/docs/2016/comp422-week9.pdf)
-  * discussion
-    * [Design - Part 3](/assets/docs/2016/discussion/422-design-part3.pdf)
-
-##### Week 8 - 21st October 2016
-
-  * [course](/assets/docs/2016/comp422-week8.pdf)
-  * discussion
-    * [Design - Part 2](/assets/docs/2016/discussion/422-design-part2.pdf)
-
-##### Week 7 - 14th October 2016
-
-  * discussion
-    * [Design - Part 1](/assets/docs/2016/discussion/422-design-part1.pdf)
-
-##### Week 5 - 30th September 2016
-
-  * [course](/assets/docs/2016/comp422-week5.pdf)
-  * extras
-    * [Design and Mockups](/assets/docs/2016/extras/design-mockups.pdf)
-    * [Designing our app](/assets/docs/2016/extras/design-our-app.pdf)
--->
-
-<!--
-
-##### Week 15 - 8th December 2017
-
-  * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-
-##### Week 14 - 1st December 2017
-
-  * [course](/assets/docs/2017/Comp422-week14.pdf)
-  * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-
-
-##### Week 13 - 24th November 2017
-
-  * N/A
-
-##### Week 12 - 17th November 2017
-
-  * [course](/assets/docs/2017/Comp422-week12.pdf)
-  * [final report outline](/assets/docs/2017/Comp422-FinalReportOutline-2017.pdf)
-
--->
-
 ##### Week 15 - 6th December 2018
 
 * extras - various
@@ -246,3 +169,4 @@ This material will be updated on a weekly basis.
     * [Cordova Install and Setup](/assets/docs/2018/extras/cordova-install-setup.pdf)
     * [Android Platform Guide](/assets/docs/2018/extras/android-platform-guide.pdf)
     * [iOS Platform Guide](/assets/docs/2018/extras/ios-platform-guide.pdf)
+-->
