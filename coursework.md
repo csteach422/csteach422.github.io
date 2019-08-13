@@ -140,7 +140,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * due Tuesday 3rd December 2019 @ 2.30pm
   * due Thursday 5th December 2019 @ 2.30pm
 * final team report
-  * due Thursday 12th December 2019
+  * due Saturday 14th December 2019
 
 #### Grading
 

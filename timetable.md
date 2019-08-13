@@ -37,7 +37,7 @@ This class will meet at the following time and place,
 	* 3rd December 2019 @ 2.30pm
 	* 5th December 2019 @ 2.30pm
 * Exam week: 9th December to 14th December 2019
-	* Final assessment due on 12th December 2019
+	* Final assessment due on 14th December 2019
 
 #### Coursework Schedule
 
@@ -51,4 +51,4 @@ This class will meet at the following time and place,
   * due Tuesday 3rd December 2019 @ 2.30pm
   * due Thursday 5th December 2019 @ 2.30pm
 * final team report
-  * due Thursday 12th December 2019
+  * due Saturday 14th December 2019
