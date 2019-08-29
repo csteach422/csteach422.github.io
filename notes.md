@@ -161,12 +161,15 @@ This material will be updated on a weekly basis.
     * [html - basics](/assets/docs/2018/extras/html-basics.pdf)
     * [html - DOM intro](/assets/docs/2018/extras/html-dom-intro.pdf)
     * [js - intro](/assets/docs/2018/extras/js-intro.pdf)
+    * -->
 
-##### Week 1 - 30th August 2018
+##### Week 1 - 29th August 2019
 
-  * [course](/assets/docs/2018/comp422-week1.pdf)
+  * [course](/assets/docs/2019/comp422-week1.pdf)
   * extras
-    * [Cordova Install and Setup](/assets/docs/2018/extras/cordova-install-setup.pdf)
-    * [Android Platform Guide](/assets/docs/2018/extras/android-platform-guide.pdf)
-    * [iOS Platform Guide](/assets/docs/2018/extras/ios-platform-guide.pdf)
--->
+    * [Cordova - Intro](/assets/docs/extras/cordova-intro.pdf)
+    * [Cordova Install and Setup](/assets/docs/extras/cordova-install-setup.pdf)
+    * [Cordova Windows 10 Android SDK Setup](/assets/docs/extras/cordova-win10-androidsdk-setup.pdf)
+    * [Android Platform Guide](/assets/docs/extras/android-platform-guide.pdf)
+    * [iOS Platform Guide](/assets/docs/extras/ios-platform-guide.pdf)
+    * [Git Basics](/assets/docs/extras/git-basics.pdf)

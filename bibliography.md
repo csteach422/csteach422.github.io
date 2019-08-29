@@ -175,8 +175,9 @@ There is no specific textbook for this course.
   * [Events](https://cordova.apache.org/docs/en/latest/cordova/events/events.html)
   * [File plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
   * [Media plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media/)
+-->
 
-##### Week 1 - 30th August 2018
+##### Week 1 - 29th August 2019
 
 * [Android API](https://github.com/apache/cordova-android)
 * [Android SDK Manager](https://developer.android.com/studio/command-line/sdkmanager)
@@ -184,8 +185,8 @@ There is no specific textbook for this course.
 * [Apache Cordova Documentation - Platform Support](https://cordova.apache.org/docs/en/latest/guide/support/index.html)
 * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&query=cordova)
 * Carmody, Tim., *Fighting Words: Defining "Mobile" and "Computer"* Wired. 11.08.2010. [http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/](http://www.wired.com/2010/11/fighting-words-defining-mobile-and-computer/)
+* [Chocolatey - Package manager for Windows](https://chocolatey.org/)
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 * [iOS API](https://github.com/apache/cordova-ios)
 * [Node.js](https://nodejs.org/en/)
 * [Git](http://git-scm.com/)
--->

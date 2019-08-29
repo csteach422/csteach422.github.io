@@ -364,24 +364,32 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your weekend.
+-->
 
-##### Week 1 - 30th August 2018
+##### Week 1 - 29th August 2019
 
-* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra documents,
+	* [Cordova - Intro](/assets/docs/extras/cordova-intro.pdf)
+	* [Cordova Install and Setup](/assets/docs/extras/cordova-install-setup.pdf)
+	* [Cordova Windows 10 Android SDK Setup](/assets/docs/extras/cordova-win10-androidsdk-setup.pdf)
+  * [Android Platform Guide](/assets/docs/extras/android-platform-guide.pdf)
+  * [iOS Platform Guide](/assets/docs/extras/ios-platform-guide.pdf)
+  * [Git Basics](/assets/docs/extras/git-basics.pdf)
 * Begin to review the following resources and material
   * [Apache Cordova](https://cordova.apache.org/)
-    * [Apache Cordova API](http://docs.cordova.io)
-    * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&q=cordova&type=&language=)
-* Relative to your experience with HTML, CSS, and JavaScript, please review the following tutorials
+  * [Apache Cordova API](http://docs.cordova.io)
+  * [Apache Cordova GitHub](https://github.com/apache?utf8=%E2%9C%93&q=cordova&type=&language=)
+* Relative to your experience with HTML, CSS, and JavaScript, please review the following initial tutorials
   * [HTML](http://www.w3schools.com/html/default.asp)
   * [CSS](http://www.w3schools.com/css/default.asp)
   * [JS](http://www.w3schools.com/js/default.asp)
 * Please ensure you have a working Apache Cordova development environment installed on your local machine
-  * follow instructions in this week's [course notes](/assets/docs/2018/comp422-week1.pdf) for further details or consult the following extra documents,
-    * [Cordova Install and Setup](/assets/docs/2018/extras/cordova-install-setup.pdf)
-    * [Android Platform Guide](/assets/docs/2018/extras/android-platform-guide.pdf)
-    * [iOS Platform Guide](/assets/docs/2018/extras/ios-platform-guide.pdf)
-* Add your initial Project details to the course's Trello group on the board [Week 1 - Project Detais](https://trello.com/b/044XRD8x/week-1-project-details)
+  * follow instructions in this week's [course notes](/assets/docs/2019/comp422-week1.pdf) for further details or consult the following extra documents,
+    * [Cordova Install and Setup](/assets/docs/extras/cordova-install-setup.pdf)
+    * [Cordova Windows 10 Android SDK Setup](/assets/docs/extras/cordova-win10-androidsdk-setup.pdf)
+    * [Android Platform Guide](/assets/docs/extras/android-platform-guide.pdf)
+    * [iOS Platform Guide](/assets/docs/extras/ios-platform-guide.pdf)
+* Add your initial **Project details** to the course's Trello group on the board [Week 1 - Project Detais](https://trello.com/b/LlMEqogH/week-1-project-details)
     * project name
     * the full name of each team member
     * any ideas or concepts for your project design, e.g.
@@ -390,20 +398,24 @@ Enjoy your weekend.
       * examples of mobile apps or sites that are similar or might be considered inspirational
       * list any other general resources consulted
 
-The course's Trello group is available at the following URL,
+##### Trello group
+I've now created a Trello group for this course, which is available at the following URL,
 
-* [COMP 422 - Fall 2018 @ LUC](https://trello.com/csteach422)
-  * https://trello.com/csteach422
+  * [COMP 322/422 - Fall 2019 @ LUC](https://trello.com/csteach422)
 
-**n.b.** I'll send an invite for this Trello group to your registered LUC email address. If you do not currently have a Trello username, you'll need to register at the following URL,
+##### Slack group
+I've also created a Slack group for this course, which is called **COMP 322/422 - Fall 2019 @ LUC**.
 
-* Trello - [Signup](https://trello.com/signup)
-
-If you have not already joined the course's Slack group, please use the following invite link,
-
-  * [Slack invite](https://join.slack.com/t/csteach422-2018/shared_invite/enQtNDI1MzQwMDk4MzU4LWQ1YTEwOTI1ZWFhMmEwZmRlNWEyMjBjZTg3OTQwYjAwODAzN2QxN2I5ODJkYzM5YjMxZDI2YjcwZDhkMzAzMWE)
+###### Extras
+* Review the following online Git tutorials (if necessary)
+  * [Getting Started - Installing Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  * [Getting Started - First-time Git Setup](http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+  * [Getting Started - Getting Help](http://git-scm.com/book/en/v2/Getting-Started-Getting-Help)
+  * [Git Basics - Getting a Git Repository](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+  * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+  * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+  * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 
 Any questions, please let me know.
 
-Enjoy your weekend.
--->
+Enjoy your week.

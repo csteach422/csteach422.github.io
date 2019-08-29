@@ -22,11 +22,6 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
-#### Articles / Papers
-
-*
-
 #### Documentation, Guides...
 
 * [Android API](https://github.com/apache/cordova-android)
@@ -35,7 +30,8 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova Documentation - Platform Support](https://cordova.apache.org/docs/en/latest/guide/support/index.html)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
-* [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
+  
+<!-- * [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
@@ -46,9 +42,9 @@ If you have any suggestions for additions to this section of the site, please fe
 * [MDN - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)
-* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
+* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/) -->
 
-##### UI Frameworks and Libraries
+<!-- ##### UI Frameworks and Libraries
 
 * [Bootstrap](http://getbootstrap.com)
 * [Ionic](http://ionicframework.com/)
@@ -60,7 +56,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Ratchet](http://goratchet.com/)
 * [Sencha Touch](https://www.sencha.com/products/touch/#overview)
 
-**NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
+**NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite. -->
 
 #### Mockup and Prototype Tools - a few examples
 
@@ -84,20 +80,21 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
 * [Axios JS library](https://www.npmjs.com/package/axios)
 * [Fastlane tools](https://fastlane.tools/)
-* [Firebase](https://firebase.google.com/)
-* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 * [Genymotion](https://www.genymotion.com/)
 * [Git](http://git-scm.com/)
 * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
 * [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Microsoft's AppCenter](https://appcenter.ms/)
 * [Node.js](https://nodejs.org/en/)
-* [React](https://reactjs.org/)
+* [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
+
+<!-- * [Firebase](https://firebase.google.com/)
+* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart) -->
+<!-- * [React](https://reactjs.org/)
 * [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 * [React Native](https://facebook.github.io/react-native/)
-* [React Navigation](https://www.npmjs.com/package/react-navigation)
-* [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
-* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
+* [React Navigation](https://www.npmjs.com/package/react-navigation) -->
+<!-- * [Yarn - Firebase](https://yarnpkg.com/en/package/firebase) -->
 
 ##### Text Editors (examples)
 
@@ -105,24 +102,25 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Sublime Text](https://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-#### Various
+<!-- #### Various
 
 * [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) -->
 
 #### Videos
 
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
-* Beginning Graphic Design
+* iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
+
+<!-- * Beginning Graphic Design
   * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
   * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
 * Google Prototyping Series
   * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
-  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
-* iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
+  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI) -->
 
-#### Websites
+<!-- #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * [Colour](https://robots.thoughtbot.com/color)
@@ -133,7 +131,6 @@ If you have any suggestions for additions to this section of the site, please fe
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
-  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html) -->
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
--->
