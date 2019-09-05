@@ -340,31 +340,35 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 2 - 6th September 2018
+##### Week 2 - 5th September 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - Cordova related
-    * [Cordova CLI Useful Commands](/assets/docs/2018/extras/cordova-cli-useful-commands.pdf)
+    * [Cordova app - architecture](/assets/docs/extras/cordova-app-architecture.pdf)
+    * [Cordova app - intro](/assets/docs/extras/cordova-app-intro.pdf)
+    * [Cordova app - plugins](/assets/docs/extras/cordova-app-plugins.pdf)
+    * [Cordova app - splashscreens and icons](/assets/docs/extras/cordova-app-splashscreen-icon.pdf)
+    * [Cordova CLI - Useful Commands](/assets/docs/extras/cordova-cli-useful-commands.pdf)
   * extras - www related
-    * [css - intro](/assets/docs/2018/extras/css-intro.pdf)
-    * [css - basics](/assets/docs/2018/extras/css-basics.pdf)
-    * [html - intro](/assets/docs/2018/extras/html-intro.pdf)
-    * [html - basics](/assets/docs/2018/extras/html-basics.pdf)
-    * [html - DOM intro](/assets/docs/2018/extras/html-dom-intro.pdf)
-    * [js - intro](/assets/docs/2018/extras/js-intro.pdf)
+    * [css - intro](/assets/docs/extras/css-intro.pdf)
+    * [css - basics](/assets/docs/extras/css-basics.pdf)
+    * [html - intro](/assets/docs/extras/html-intro.pdf)
+    * [html - basics](/assets/docs/extras/html-basics.pdf)
+    * [html - DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+    * [js - intro](/assets/docs/extras/js-intro.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Create a basic project template for Apache Cordova and test with a local emulator or connected mobile device
   * test basic Cordova `events` and usage
   * test basic plugin usage, e.g. media, camera &c.
-  * details and instructions are included in this week's course [notes](/assets/docs/2018/comp422-week2.pdf)
+  * details and instructions are included in this week's course [notes](/assets/docs/2019/comp422-week2.pdf)
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
-  * [Week 1 - Project Details](https://trello.com/b/044XRD8x/week-1-project-details)
+  * [Week 1 - Project Details](https://trello.com/b/LlMEqogH/week-1-project-details)
 
 Any questions, please let me know.
 
-Enjoy your weekend.
--->
+Enjoy your week.
 
 ##### Week 1 - 29th August 2019
 

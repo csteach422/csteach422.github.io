@@ -148,20 +148,24 @@ This material will be updated on a weekly basis.
     * [html5 - intro](/assets/docs/2018/extras/html5-intro.pdf)
     * [js - core](/assets/docs/2018/extras/js-core.pdf)
     * [js - logic](/assets/docs/2018/extras/js-logic.pdf)
+-->
 
-##### Week 2 - 6th September 2018
+##### Week 2 - 5th September 2019
 
-  * [course](/assets/docs/2018/comp422-week2.pdf)
+  * [course](/assets/docs/2019/comp422-week2.pdf)
   * extras - Cordova related
-    * [Cordova CLI Useful Commands](/assets/docs/2018/extras/cordova-cli-useful-commands.pdf)
+    * [Cordova app - architecture](/assets/docs/extras/cordova-app-architecture.pdf)
+    * [Cordova app - intro](/assets/docs/extras/cordova-app-intro.pdf)
+    * [Cordova app - plugins](/assets/docs/extras/cordova-app-plugins.pdf)
+    * [Cordova app - splashscreens and icons](/assets/docs/extras/cordova-app-splashscreen-icon.pdf)
+    * [Cordova CLI - Useful Commands](/assets/docs/extras/cordova-cli-useful-commands.pdf)
   * extras - www related
-    * [css - intro](/assets/docs/2018/extras/css-intro.pdf)
-    * [css - basics](/assets/docs/2018/extras/css-basics.pdf)
-    * [html - intro](/assets/docs/2018/extras/html-intro.pdf)
-    * [html - basics](/assets/docs/2018/extras/html-basics.pdf)
-    * [html - DOM intro](/assets/docs/2018/extras/html-dom-intro.pdf)
-    * [js - intro](/assets/docs/2018/extras/js-intro.pdf)
-    * -->
+    * [css - intro](/assets/docs/extras/css-intro.pdf)
+    * [css - basics](/assets/docs/extras/css-basics.pdf)
+    * [html - intro](/assets/docs/extras/html-intro.pdf)
+    * [html - basics](/assets/docs/extras/html-basics.pdf)
+    * [html - DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+    * [js - intro](/assets/docs/extras/js-intro.pdf)
 
 ##### Week 1 - 29th August 2019
 

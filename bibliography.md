@@ -167,15 +167,15 @@ There is no specific textbook for this course.
 * jQuery Mobile
   * [API documentation](http://api.jquerymobile.com/)
   * [Browser Support](https://jQuerymobile.com/browser-support/1.4/)
+-->
 
-##### Week 2 - 6th September 2018
+##### Week 2 - 5th September 2019
 
 * Cordova Doc
   * [deviceready](https://cordova.apache.org/docs/en/latest/cordova/events/events.html#deviceready)
   * [Events](https://cordova.apache.org/docs/en/latest/cordova/events/events.html)
   * [File plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
   * [Media plugin](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media/)
--->
 
 ##### Week 1 - 29th August 2019
 
