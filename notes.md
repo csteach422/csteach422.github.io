@@ -136,19 +136,19 @@ This material will be updated on a weekly basis.
     * [Design and Interface - Intro](/assets/docs/2018/extras/design-interface-intro.pdf)
   * extras - html5
     * [html5 - extra](/assets/docs/2018/extras/html5-extra.pdf)
-
-##### Week 3 - 13th September 2018
-
-  * [course](/assets/docs/2018/comp422-week3.pdf)
-  * extras - design
-    * [Design and Mockups](/assets/docs/2018/extras/design-mockups.pdf)
-  * extras - www related
-    * [css - box model](/assets/docs/2018/extras/css-box-model.pdf)
-    * [css - html5](/assets/docs/2018/extras/css-html5.pdf)
-    * [html5 - intro](/assets/docs/2018/extras/html5-intro.pdf)
-    * [js - core](/assets/docs/2018/extras/js-core.pdf)
-    * [js - logic](/assets/docs/2018/extras/js-logic.pdf)
 -->
+
+##### Week 3 - 12th September 2019
+
+  * [course](/assets/docs/2019/comp422-week3.pdf)
+  * extras - design
+    * [Design and Mockups](/assets/docs/extras/design-mockups.pdf)
+  * extras - www related
+    * [css - box model](/assets/docs/extras/css-box-model.pdf)
+    * [css - html5](/assets/docs/extras/css-html5.pdf)
+    * [html5 - intro](/assets/docs/extras/html5-intro.pdf)
+    * [js - core](/assets/docs/extras/js-core.pdf)
+    * [js - logic](/assets/docs/extras/js-logic.pdf)
 
 ##### Week 2 - 5th September 2019
 

@@ -24,29 +24,31 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation, Guides...
 
+* Amazon Devices
+	* [hybrid apps overview](https://developer.amazon.com/docs/fire-tv/hybrid-apps-overview.html)
+	* [development & testing](https://developer.amazon.com/docs/fire-tablets/build-and-test-your-hybrid-app.html)
 * [Android API](https://github.com/apache/cordova-android)
 * [Android Platform Guide](https://cordova.apache.org/docs/en/8.x/guide/platforms/android/index.html)
 * [Android SDK Manager](https://developer.android.com/studio/command-line/sdkmanager)
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova Documentation - Platform Support](https://cordova.apache.org/docs/en/latest/guide/support/index.html)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
+* [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+* [jQuery Mobile API](http://api.jquerymobile.com/)
+* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
   
 <!-- * [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
-* [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
-* [jQuery Mobile API](http://api.jquerymobile.com/)
 * [MDN - Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 * [MDN - Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [MDN - Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 * [MDN - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [React](https://reactjs.org/)
-* [React Native](https://facebook.github.io/react-native/)
-* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/) -->
+* [React Native](https://facebook.github.io/react-native/)-->
 
 <!-- ##### UI Frameworks and Libraries
 
-* [Bootstrap](http://getbootstrap.com)
 * [Ionic](http://ionicframework.com/)
 * [jQuery Mobile](http://jquerymobile.com/)
 * OnsenUI
@@ -54,9 +56,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
   * [Theme Roller](http://components.onsen.io/)
 * [Ratchet](http://goratchet.com/)
-* [Sencha Touch](https://www.sencha.com/products/touch/#overview)
+* [Sencha Touch](https://www.sencha.com/products/touch/#overview) -->
 
-**NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite. -->
+**NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
 #### Mockup and Prototype Tools - a few examples
 

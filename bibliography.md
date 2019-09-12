@@ -152,8 +152,9 @@ There is no specific textbook for this course.
   * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
 * MDN
   * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+-->
 
-##### Week 3 - 13th September 2018
+##### Week 3 - 12th September 2019
 
 * Cordova API
   * [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
@@ -167,7 +168,9 @@ There is no specific textbook for this course.
 * jQuery Mobile
   * [API documentation](http://api.jquerymobile.com/)
   * [Browser Support](https://jQuerymobile.com/browser-support/1.4/)
--->
+* Various
+	* [Amazon Devices - hybrid apps overview](https://developer.amazon.com/docs/fire-tv/hybrid-apps-overview.html)
+	* [Amazon Devices - hybrid development & testing](https://developer.amazon.com/docs/fire-tablets/build-and-test-your-hybrid-app.html)
 
 ##### Week 2 - 5th September 2019
 

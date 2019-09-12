@@ -309,23 +309,24 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 3 - 13th September 2018
+##### Week 3 - 12th September 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - design
-    * [Design and Mockups](/assets/docs/2018/extras/design-mockups.pdf)
+    * [Design and Mockups](/assets/docs/extras/design-mockups.pdf)
   * extras - www related
-    * [css - box model](/assets/docs/2018/extras/css-box-model.pdf)
-    * [css - html5](/assets/docs/2018/extras/css-html5.pdf)
-    * [html5 - intro](/assets/docs/2018/extras/html5-intro.pdf)
-    * [js - core](/assets/docs/2018/extras/js-core.pdf)
-    * [js - logic](/assets/docs/2018/extras/js-logic.pdf)
+    * [css - box model](/assets/docs/extras/css-box-model.pdf)
+    * [css - html5](/assets/docs/extras/css-html5.pdf)
+    * [html5 - intro](/assets/docs/extras/html5-intro.pdf)
+    * [js - core](/assets/docs/extras/js-core.pdf)
+    * [js - logic](/assets/docs/extras/js-logic.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Please create a GitHub account for your project group
   * create a new repository for `source` code & any other project material or notes
   * add the GitHub details for your project to the appropriate group list on Trello,
-    * [Week 1 - Project Details](https://trello.com/b/044XRD8x/week-1-project-details)
+    * [Week 1 - Project Details](https://trello.com/b/LlMEqogH/week-1-project-details)
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 3](https://github.com/csteach422/source/tree/master/week3)
 * Please start to outline the design and structure of your project's application
@@ -334,13 +335,12 @@ Enjoy your week.
     * how will this interaction and feedback affect the application's state
       * ie: will a user touching a button require an update in rendered content, views, options, read or write data...
   * Please add this information, and associated mockup images or drawings, to this week's board on the course' Trello group,
-    * [Week 3 - Design and Structure](https://trello.com/b/nqwPtpIr/week-3-design-structure)
+    * [Week 3 - Design and Structure](https://trello.com/b/Z1rozd49/week-3-design-structure)
     * I've added initial instructions to this board
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 2 - 5th September 2019
 
