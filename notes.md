@@ -88,8 +88,7 @@ This material will be updated on a weekly basis.
     * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
   * extras - React Native
     * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
-  * extras - UI related
-    * [CSS - Flexbox](/assets/docs/2018/extras/css-flexbox-guide.pdf)
+
 
 ##### Week 8 - 18th October 2018
 
@@ -128,15 +127,19 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp422-week5.pdf)
   * extras - js
     * [js - json](/assets/docs/2018/extras/js-json.pdf)
-
-##### Week 4 - 20th September 2018
-
-  * [course](/assets/docs/2018/comp422-week4.pdf)
-  * extras - design
-    * [Design and Interface - Intro](/assets/docs/2018/extras/design-interface-intro.pdf)
-  * extras - html5
-    * [html5 - extra](/assets/docs/2018/extras/html5-extra.pdf)
 -->
+
+##### Week 4 - 19th September 2019
+
+  * [course](/assets/docs/2019/comp422-week4.pdf)
+  * extras - design
+    * [Design and Interface - Intro](/assets/docs/extras/design-interface-intro.pdf)
+  * extras - html5
+    * [HTML5 - extra](/assets/docs/extras/html5-extra.pdf)
+  * extras - UI related
+    * [CSS - Flexbox](/assets/docs/extras/css-flexbox-guide.pdf)
+    * [CSS - Grid](/assets/docs/extras/css-grid.pdf)
+    * [CSS - MDN Grid Guide](/assets/docs/extras/mdn-css-grid-basics.pdf)
 
 ##### Week 3 - 12th September 2019
 
@@ -144,11 +147,11 @@ This material will be updated on a weekly basis.
   * extras - design
     * [Design and Mockups](/assets/docs/extras/design-mockups.pdf)
   * extras - www related
-    * [css - box model](/assets/docs/extras/css-box-model.pdf)
-    * [css - html5](/assets/docs/extras/css-html5.pdf)
-    * [html5 - intro](/assets/docs/extras/html5-intro.pdf)
-    * [js - core](/assets/docs/extras/js-core.pdf)
-    * [js - logic](/assets/docs/extras/js-logic.pdf)
+    * [CSS - box model](/assets/docs/extras/css-box-model.pdf)
+    * [CSS - HTML5](/assets/docs/extras/css-html5.pdf)
+    * [HTML5 - intro](/assets/docs/extras/html5-intro.pdf)
+    * [JS - core](/assets/docs/extras/js-core.pdf)
+    * [JS - logic](/assets/docs/extras/js-logic.pdf)
 
 ##### Week 2 - 5th September 2019
 
@@ -160,12 +163,12 @@ This material will be updated on a weekly basis.
     * [Cordova app - splashscreens and icons](/assets/docs/extras/cordova-app-splashscreen-icon.pdf)
     * [Cordova CLI - Useful Commands](/assets/docs/extras/cordova-cli-useful-commands.pdf)
   * extras - www related
-    * [css - intro](/assets/docs/extras/css-intro.pdf)
-    * [css - basics](/assets/docs/extras/css-basics.pdf)
-    * [html - intro](/assets/docs/extras/html-intro.pdf)
-    * [html - basics](/assets/docs/extras/html-basics.pdf)
-    * [html - DOM intro](/assets/docs/extras/html-dom-intro.pdf)
-    * [js - intro](/assets/docs/extras/js-intro.pdf)
+    * [CSS - intro](/assets/docs/extras/css-intro.pdf)
+    * [CSS - basics](/assets/docs/extras/css-basics.pdf)
+    * [HTML - intro](/assets/docs/extras/html-intro.pdf)
+    * [HTML - basics](/assets/docs/extras/html-basics.pdf)
+    * [HTML - DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+    * [JS - intro](/assets/docs/extras/js-intro.pdf)
 
 ##### Week 1 - 29th August 2019
 

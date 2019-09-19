@@ -138,21 +138,17 @@ There is no specific textbook for this course.
   * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
 * MDN
   * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+-->
 
-##### Week 4 - 20th September 2018
+##### Week 4 - 19th September 2019
 
 * Aaron, Marcus. *Graphic Design for Electronic Documents and User Interfaces*. ACM Press. 1992.
 * Cordova API
   * [plugin - camera](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/index.html)
-  * [plugin - file](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
-  * [plugin - geolocation](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-geolocation/index.html)
-* Cordova Guide
-  * [app templates](https://cordova.apache.org/docs/en/latest/guide/cli/template.html)
 * GitHub
   * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
 * MDN
   * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
--->
 
 ##### Week 3 - 12th September 2019
 
@@ -161,8 +157,11 @@ There is no specific textbook for this course.
   * [plugins](http://cordova.apache.org/plugins/)
   * [plugin - device](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-device/index.html)
   * [plugin - file](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/index.html)
+  * [plugin - geolocation](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-geolocation/index.html)
   * [plugin - media](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media/)
   * [plugin -  Splashscreen](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-splashscreen/)
+* * Cordova Guide
+  * [app templates](https://cordova.apache.org/docs/en/latest/guide/cli/template.html)
 * HTML5
   * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * jQuery Mobile

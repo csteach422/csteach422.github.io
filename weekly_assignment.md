@@ -290,26 +290,30 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 4 - 20th September 2018
+#### Week 4 - 19th September 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - design
-    * [Design and Interface - Intro](/assets/docs/2018/extras/design-interface-intro.pdf)
-  * extras - www related
-    * [html5 - extra](/assets/docs/2018/extras/html5-extra.pdf)
+    * [Design and Interface - Intro](/assets/docs/extras/design-interface-intro.pdf)
+  * extras - html5
+    * [HTML5 - extra](/assets/docs/extras/html5-extra.pdf)
+  * extras - UI related
+    * [CSS - Flexbox](/assets/docs/extras/css-flexbox-guide.pdf)
+    * [CSS - Grid](/assets/docs/extras/css-grid.pdf)
+    * [CSS - MDN Grid Guide](/assets/docs/extras/mdn-css-grid-basics.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach422/source/tree/master/week4)
 * Please prepare your first presentation and demo for the start of next week's class
   * further details may be found on the following pages,
     * [Course Website - Coursework](http://csteach422.github.io/coursework/#assessment2)
-    * [Course Notes - Week 1 - Pages 9 & 10](http://csteach422.github.io/assets/docs/2018/comp422-week1.pdf)
+    * [Course Notes - Week 1 - Pages 9 & 10](http://csteach422.github.io/assets/docs/2019/comp422-week1.pdf)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 3 - 12th September 2019
 
@@ -317,11 +321,11 @@ Enjoy your week.
   * extras - design
     * [Design and Mockups](/assets/docs/extras/design-mockups.pdf)
   * extras - www related
-    * [css - box model](/assets/docs/extras/css-box-model.pdf)
-    * [css - html5](/assets/docs/extras/css-html5.pdf)
-    * [html5 - intro](/assets/docs/extras/html5-intro.pdf)
-    * [js - core](/assets/docs/extras/js-core.pdf)
-    * [js - logic](/assets/docs/extras/js-logic.pdf)
+    * [CSS - box model](/assets/docs/extras/css-box-model.pdf)
+    * [CSS - html5](/assets/docs/extras/css-html5.pdf)
+    * [HTML5 - intro](/assets/docs/extras/html5-intro.pdf)
+    * [JS - core](/assets/docs/extras/js-core.pdf)
+    * [JS - logic](/assets/docs/extras/js-logic.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Please create a GitHub account for your project group
   * create a new repository for `source` code & any other project material or notes
@@ -352,12 +356,12 @@ Enjoy your week.
     * [Cordova app - splashscreens and icons](/assets/docs/extras/cordova-app-splashscreen-icon.pdf)
     * [Cordova CLI - Useful Commands](/assets/docs/extras/cordova-cli-useful-commands.pdf)
   * extras - www related
-    * [css - intro](/assets/docs/extras/css-intro.pdf)
-    * [css - basics](/assets/docs/extras/css-basics.pdf)
-    * [html - intro](/assets/docs/extras/html-intro.pdf)
-    * [html - basics](/assets/docs/extras/html-basics.pdf)
-    * [html - DOM intro](/assets/docs/extras/html-dom-intro.pdf)
-    * [js - intro](/assets/docs/extras/js-intro.pdf)
+    * [CSS - intro](/assets/docs/extras/css-intro.pdf)
+    * [CSS - basics](/assets/docs/extras/css-basics.pdf)
+    * [HTML - intro](/assets/docs/extras/html-intro.pdf)
+    * [HTML - basics](/assets/docs/extras/html-basics.pdf)
+    * [HTML - DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+    * [JS - intro](/assets/docs/extras/js-intro.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Create a basic project template for Apache Cordova and test with a local emulator or connected mobile device
   * test basic Cordova `events` and usage

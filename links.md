@@ -35,19 +35,19 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
+* [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
   
 <!-- * [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [MDN - Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 * [MDN - Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
-* [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [MDN - Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 * [MDN - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)-->
 
-<!-- ##### UI Frameworks and Libraries
+##### UI Frameworks and Libraries
 
 * [Ionic](http://ionicframework.com/)
 * [jQuery Mobile](http://jquerymobile.com/)
@@ -56,7 +56,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
   * [Theme Roller](http://components.onsen.io/)
 * [Ratchet](http://goratchet.com/)
-* [Sencha Touch](https://www.sencha.com/products/touch/#overview) -->
+* [Sencha Touch](https://www.sencha.com/products/touch/#overview)
 
 **NB:** there are many other options available, simply search online for mobile frameworks and choose your favourite.
 
