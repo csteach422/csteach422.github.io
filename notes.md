@@ -122,12 +122,14 @@ This material will be updated on a weekly basis.
     * [observer](/assets/docs/2018/extras/observer-pattern.pdf)
     * [pub/sub](/assets/docs/2018/extras/pubsub-pattern.pdf)
 
-##### Week 5 - 27th September 2018
-
-  * [course](/assets/docs/2018/comp422-week5.pdf)
+* [course](/assets/docs/2019/comp422-week5.pdf)
   * extras - js
-    * [js - json](/assets/docs/2018/extras/js-json.pdf)
+    * [JS - JSON](/assets/docs/extras/js-json.pdf)
 -->
+
+##### Week 5 - 26th September 2019
+
+  * N/A - Presentations
 
 ##### Week 4 - 19th September 2019
 

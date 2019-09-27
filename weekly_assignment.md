@@ -253,44 +253,55 @@ Enjoy your week.
   * Please add this information to this week's board on the course' Trello group,
     * [Week 6 - Patterns & Structure](https://trello.com/b/wrK2uEMt/week-6-patterns-structure)
 
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 5 - 27th September 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - www related
-    * [js - json](/assets/docs/2018/extras/js-json.pdf)
+    * [JS - JSON](/assets/docs/extras/js-json.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 5](https://github.com/csteach422/source/tree/master/week5)
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Events App](https://goo.gl/forms/56S4kq1mMeBbjn0J3)
-  * [Group 2 - Chirply](https://goo.gl/forms/5AbKKR7zYMpZGsoh1)
-  * [Group 3 - Spark Dating](https://goo.gl/forms/zf9wwdxlwNrojV1Z2)
-  * [Group 4 - Rendezvous](https://goo.gl/forms/a3ybzrienCpRP2Dy1)
-  * [Group 5 - Going Out: Bar Hopper](https://goo.gl/forms/tsZNdhdbz32xZ8bd2)
-  * [Group 6 - Game](https://goo.gl/forms/DnyaxyubxclaF6Os2)
-* Complete these peer review forms by **Thursday 4th October 2018** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
-* Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 5 - Presentation Files](https://trello.com/b/MKLmYoWr/week-5-presentation-files)
-  * Please add these files as soon as possible, and by **Thursday 4th October 2018** at the latest
-  * instructions are included as a list on the above board
-* Complete the following Trello board,
-  * [Week 5 - Project Contributions](https://trello.com/b/nx73fbwB/week-5-project-contributions)
-  * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Thursday 4th October 2018** at the latest
-* please contribute to this week's class discussion on Slack channel **#discussion-part1**
-  * further details can be found in the following PDF
-    * [Design - Part 1](/assets/docs/2018/discussion/422-design-part1.pdf)
 
 Any questions, please let me know.
 
 Enjoy your week.
 -->
+
+#### Week 5 - 26th September 2019
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Inferno](https://forms.gle/Xi18h5War6dumgcS7)
+  * [Group 2 - Nursing Residency](https://forms.gle/QjBVTXhzBVHp6AHv9)
+  * [Group 3 - 3D in 2D Game](https://forms.gle/yG4NVRft5SFsbX2aA)
+  * [Group 4 - ZipPop](https://forms.gle/ZvuQ8hrRyrwPGpji8)
+  * [Group 5 - ShapeShifter](https://forms.gle/jvhaCC98bkzywnqBA)
+  * [Group 6 - Money Helper](https://forms.gle/KT28Zm9UjZaecLbd9)
+  * [Group 7 - CTA Tracker](https://forms.gle/t9xACKoHLDHoo3ec8)
+  * [Group 8 - Red Kitchen](https://forms.gle/k4LLTt5zxAd7erHv6)
+  * [Group 9 - Audio Blender](https://forms.gle/zujogFQF2xJtWmUq6)
+  * [Group 10 - Card Vision](https://forms.gle/wWx6vrGEaVXJwayY9)
+  * [Group 11 - Today in History](https://forms.gle/tgH5Djrh1hsy5KSo8)
+  * [Group 12 - Bespoke Beauty](https://forms.gle/U8jNpRKo7AxMZGzg6)
+  * [Group 13 - Double Tap](https://forms.gle/a6RsFEQvNtT115ueA)
+  * [Group 14 - Golf Course Finder](https://forms.gle/siRpbguRcvQ7xLsDA)
+  <!-- * [Group 15 - ](https://forms.gle/w6BHhdDatmnKUGaSA) -->
+* Complete these peer review forms by **Thursday 3rd October 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/Z9DEssfZ/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Thursday 3rd October 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/YBHtqwvx/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Thursday 3rd October 2019** at the latest
+* please contribute to this week's class discussion on Slack channel **#discussion-part1**
+  * further details can be found in the following PDF
+    * [Design - Part 1](/assets/docs/2019/discussion/422-design-part1.pdf)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 4 - 19th September 2019
 

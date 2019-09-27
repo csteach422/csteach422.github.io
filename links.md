@@ -34,12 +34,13 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova Documentation - Platform Support](https://cordova.apache.org/docs/en/latest/guide/support/index.html)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
+* [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
   
 <!-- * [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
-* [Ionic Docs](http://ionicframework.com/docs/)
+* 
 * [MDN - Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 * [MDN - Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
 * [MDN - Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
@@ -113,13 +114,14 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
+* Google Prototyping Series
+  * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
+  * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
 
 <!-- * Beginning Graphic Design
   * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
   * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
-* Google Prototyping Series
-  * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
-  * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+* 
   * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI) -->
 
 <!-- #### Websites
