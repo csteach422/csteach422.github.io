@@ -215,8 +215,9 @@ Enjoy your week.
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - Cordova
     * [custom plugins](/assets/docs/2018/extras/cordova-custom-plugins-notes.pdf)
-  * extras - js
-    * [generators & promises](/assets/docs/2018/extras/js-generators-promises.pdf)
+  * extras - js patterns
+    * [observer](/assets/docs/extras/observer-pattern.pdf)
+    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
   * extras - React Native
     * [Install for OS X](/assets/docs/2018/extras/react-native-install-osx.pdf)
     * [Install for Windows 10](/assets/docs/2018/extras/react-native-install-windows.pdf)
@@ -233,38 +234,31 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 6 - 4th October 2018
+#### Week 6 - 3rd October 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - design
-    * [Design our App](/assets/docs/2018/extras/design-our-app.pdf)
-  * extras - patterns
-    * [observer](/assets/docs/2018/extras/observer-pattern.pdf)
-    * [pub/sub](/assets/docs/2018/extras/pubsub-pattern.pdf)
+    * [Design our App](/assets/docs/extras/design-our-app.pdf)
+  * extras - js
+    * [generators & promises](/assets/docs/extras/js-generators-promises.pdf)
+    * [JSON](/assets/docs/extras/js-json.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 6](https://github.com/csteach422/source/tree/master/week6)
+  * [Source - Extras](https://github.com/csteach422/source/tree/master/extras)
 * Please start to outline the design and structure of your project's application
   * briefly outline any initial patterns you've considered for the structure of this app
   * define your app's views
     * views can include content pages/screens, dialogs, overlays, admin/account screens...
     * e.g. consider a given user path or flow through the app
   * Please add this information to this week's board on the course' Trello group,
-    * [Week 6 - Patterns & Structure](https://trello.com/b/wrK2uEMt/week-6-patterns-structure)
-
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * extras - www related
-    * [JS - JSON](/assets/docs/extras/js-json.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review and test the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 5](https://github.com/csteach422/source/tree/master/week5)
+    * [Week 6 - Patterns & Structure](https://trello.com/b/edILjIeg/week-6-patterns-structure)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 5 - 26th September 2019
 

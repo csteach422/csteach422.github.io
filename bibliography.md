@@ -115,28 +115,27 @@ There is no specific textbook for this course.
   * [Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
   * [Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
   * [Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+* JavaScript
+	* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+	* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * OnsenUI
   * [OnsenUI v2](https://onsen.io/)
   * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
   * [Theme Roller](http://components.onsen.io/)
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
+-->
 
-##### Week 6 - 4th October 2018
-
-* MDN
-  * [Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
-  * [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
-* W3
-  * [Web storage specification](http://www.w3.org/TR/webstorage/)
+##### Week 6 - 3rd October 2019
 
 * GitHub
   * [cordova-plugin-indexeddb](https://www.npmjs.com/package/cordova-plugin-indexeddb)
   * [cordova-plugin-websql](https://github.com/msopentech/cordova-plugin-websql/)
 * MDN
   * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
--->
+  * [JavaScript - Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+  * [JavaScript - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* W3
+  * [Web storage specification](http://www.w3.org/TR/webstorage/)
 
 ##### Week 5 - 26th September 2019
 

@@ -37,14 +37,13 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* [MDN - JavaScript Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+* [MDN - JavaScript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
   
 <!-- * [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
-* 
 * [MDN - Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 * [MDN - Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
-* [MDN - Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
-* [MDN - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [React](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)-->
 
@@ -107,8 +106,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
 <!-- #### Various
 
-* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) -->
+* [JavaScript - Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+* [JavaScript - Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) -->
 
 #### Videos
 

@@ -107,25 +107,24 @@ This material will be updated on a weekly basis.
     * [custom plugins](/assets/docs/2018/extras/cordova-custom-plugins-notes.pdf)
   * extras - js
     * [generators & promises](/assets/docs/2018/extras/js-generators-promises.pdf)
+
+extras - patterns
+    * [observer](/assets/docs/extras/observer-pattern.pdf)
+    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
   * extras - React Native
     * [Install for OS X](/assets/docs/2018/extras/react-native-install-osx.pdf)
     * [Install for Windows 10](/assets/docs/2018/extras/react-native-install-windows.pdf)
     * [Basics - Intro](/assets/docs/2018/extras/react-native-basics-intro.pdf)
-
-
-##### Week 6 - 4th October 2018
-
-  * [course](/assets/docs/2018/comp422-week6.pdf)
-  * extras - design
-    * [Design our App](/assets/docs/2018/extras/design-our-app.pdf)
-  * extras - patterns
-    * [observer](/assets/docs/2018/extras/observer-pattern.pdf)
-    * [pub/sub](/assets/docs/2018/extras/pubsub-pattern.pdf)
-
-* [course](/assets/docs/2019/comp422-week5.pdf)
-  * extras - js
-    * [JS - JSON](/assets/docs/extras/js-json.pdf)
 -->
+
+##### Week 6 - 3rd October 2019
+
+  * [course](/assets/docs/2019/comp422-week6.pdf)
+  * extras - design
+    * [Design our App](/assets/docs/extras/design-our-app.pdf)
+  * extras - js
+    * [generators & promises](/assets/docs/extras/js-generators-promises.pdf)
+    * [JSON](/assets/docs/extras/js-json.pdf)
 
 ##### Week 5 - 26th September 2019
 
