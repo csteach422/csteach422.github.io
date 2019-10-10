@@ -205,23 +205,24 @@ Enjoy your week.
   * [Week 8 - DEV Week prep](https://trello.com/b/Uzv4gWga/week-8-dev-week-prep)
   * I've added instructions on this board.
 
+extras - js patterns
+    * [observer](/assets/docs/extras/observer-pattern.pdf)
+    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
+
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-
-#### Week 7 - 11th October 2018
+#### Week 7 - 10th October 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - Cordova
-    * [custom plugins](/assets/docs/2018/extras/cordova-custom-plugins-notes.pdf)
-  * extras - js patterns
-    * [observer](/assets/docs/extras/observer-pattern.pdf)
-    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
+    * [custom plugins](/assets/docs/extras/cordova-custom-plugins-notes.pdf)
   * extras - React Native
-    * [Install for OS X](/assets/docs/2018/extras/react-native-install-osx.pdf)
-    * [Install for Windows 10](/assets/docs/2018/extras/react-native-install-windows.pdf)
-    * [Basics - Intro](/assets/docs/2018/extras/react-native-basics-intro.pdf)
+    * [Install for OS X](/assets/docs/extras/react-native-install-osx.pdf)
+    * [Install for Windows 10](/assets/docs/extras/react-native-install-windows.pdf)
+    * [Basics - Intro](/assets/docs/extras/react-native-basics-intro.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 7](https://github.com/csteach422/source/tree/master/week7)
@@ -229,12 +230,11 @@ Enjoy your week.
   * ensure you have a working React Native development environment installed on your local machine
 * please contribute to this week's class discussion on Slack channel `#discussion-part2`
   * further details can be found in the following PDF
-  * [Design - Part 2](/assets/docs/2018/discussion/422-design-part2.pdf)
+  * [Design - Part 2](/assets/docs/2019/discussion/422-design-part2.pdf)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 6 - 3rd October 2019
 

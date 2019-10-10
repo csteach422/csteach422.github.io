@@ -95,27 +95,27 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp422-week8.pdf)
   * extras - Cordova
     * [extras & options](/assets/docs/2018/extras/cordova-extras-notes.pdf)
+
+ extras - patterns
+    * [observer](/assets/docs/extras/observer-pattern.pdf)
+    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
   * extras - React Native
     * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
     * [Basics - Props](/assets/docs/2018/extras/react-native-basics-props.pdf)
     * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
-
-##### Week 7 - 11th October 2018
-
-  * [course](/assets/docs/2018/comp422-week7.pdf)
-  * extras - Cordova
-    * [custom plugins](/assets/docs/2018/extras/cordova-custom-plugins-notes.pdf)
-  * extras - js
-    * [generators & promises](/assets/docs/2018/extras/js-generators-promises.pdf)
-
-extras - patterns
-    * [observer](/assets/docs/extras/observer-pattern.pdf)
-    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
-  * extras - React Native
-    * [Install for OS X](/assets/docs/2018/extras/react-native-install-osx.pdf)
-    * [Install for Windows 10](/assets/docs/2018/extras/react-native-install-windows.pdf)
-    * [Basics - Intro](/assets/docs/2018/extras/react-native-basics-intro.pdf)
 -->
+
+##### Week 7 - 10th October 2019
+
+  * [course](/assets/docs/2019/comp422-week7.pdf)
+  * extras - Cordova
+    * [custom plugins](/assets/docs/extras/cordova-custom-plugins-notes.pdf)
+  * extras - js
+    * [generators & promises](/assets/docs/extras/js-generators-promises.pdf)
+  * extras - React Native
+    * [Install for OS X](/assets/docs/extras/react-native-install-osx.pdf)
+    * [Install for Windows 10](/assets/docs/extras/react-native-install-windows.pdf)
+    * [Basics - Intro](/assets/docs/extras/react-native-basics-intro.pdf)
 
 ##### Week 6 - 3rd October 2019
 

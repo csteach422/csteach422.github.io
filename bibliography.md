@@ -96,13 +96,16 @@ There is no specific textbook for this course.
 * Cordova
 	* [OnsenUI - JavaScript Reference](https://onsen.io/v2/docs/js.html)
 	* [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
-
+JavaScript
+	* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+	* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * React Native
 	* [React](https://reactjs.org/)
 	* [React Native](https://facebook.github.io/react-native/)
 	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+-->
 
-##### Week 7 - 11th October 2018
+##### Week 7 - 10th October 2019
 
 * Cordova API
 	* [Plugin Development Guide](http://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html)
@@ -115,15 +118,11 @@ There is no specific textbook for this course.
   * [Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
   * [Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
   * [Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
-* JavaScript
-	* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-	* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * OnsenUI
   * [OnsenUI v2](https://onsen.io/)
   * [JavaScript Reference](https://onsen.io/v2/docs/js.html)
   * [Theme Roller](http://components.onsen.io/)
 * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
--->
 
 ##### Week 6 - 3rd October 2019
 

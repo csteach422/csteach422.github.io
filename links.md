@@ -33,19 +33,18 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Cordova Documentation & Guide](http://cordova.apache.org/docs/en/latest/)
 * [Apache Cordova Documentation - Platform Support](https://cordova.apache.org/docs/en/latest/guide/support/index.html)
 * [Apache Cordova and Visual Studio Tools](https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/)
+* [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
 * [HTML5 File API](http://www.w3.org/TR/FileAPI/)
 * [Ionic Docs](http://ionicframework.com/docs/)
 * [jQuery Mobile API](http://api.jquerymobile.com/)
+* [MDN - Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+* [MDN - Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
 * [MDN - IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [MDN - JavaScript Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 * [MDN - JavaScript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
-  
-<!-- * [Google Dev - Async functions](https://developers.google.com/web/fundamentals/primers/async-functions)
-* [MDN - Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-* [MDN - Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
 * [React](https://reactjs.org/)
-* [React Native](https://facebook.github.io/react-native/)-->
+* [React Native](https://facebook.github.io/react-native/)
+* [W3 - Web storage specification](http://www.w3.org/TR/webstorage/)
 
 ##### UI Frameworks and Libraries
 
@@ -88,13 +87,14 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Java - JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Microsoft's AppCenter](https://appcenter.ms/)
 * [Node.js](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [React Native](https://facebook.github.io/react-native/)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
 <!-- * [Firebase](https://firebase.google.com/)
 * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart) -->
-<!-- * [React](https://reactjs.org/)
+<!--
 * [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
-* [React Native](https://facebook.github.io/react-native/)
 * [React Navigation](https://www.npmjs.com/package/react-navigation) -->
 <!-- * [Yarn - Firebase](https://yarnpkg.com/en/package/firebase) -->
 
@@ -112,15 +112,16 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Videos
 
 * Android One - [YouTube](https://www.youtube.com/watch?v=X7UPR9z3OV8)
+* Beginning Graphic Design
+  * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+  * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
 * iPad isn't mobile - [YouTube](https://www.youtube.com/watch?v=oYuUP6-xotw)
 * Google Prototyping Series
   * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
 
-<!-- * Beginning Graphic Design
-  * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
-  * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
-* 
+<!-- *
+*  google prototyping series
   * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI) -->
 
 <!-- #### Websites
