@@ -90,20 +90,19 @@ There is no specific textbook for this course.
 * React Native
 	* [MDN - super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 	* [React Native - Layout Props](https://facebook.github.io/react-native/docs/layout-props.html)
+-->
 
-##### Week 8 - 18th October 2018
+##### Week 8 - 17th October 2019
 
 * Cordova
 	* [OnsenUI - JavaScript Reference](https://onsen.io/v2/docs/js.html)
 	* [Whitelist plugin](https://github.com/apache/cordova-plugin-whitelist)
-JavaScript
+* JavaScript
 	* [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
 	* [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * React Native
 	* [React](https://reactjs.org/)
 	* [React Native](https://facebook.github.io/react-native/)
-	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
--->
 
 ##### Week 7 - 10th October 2019
 

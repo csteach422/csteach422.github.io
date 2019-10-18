@@ -104,10 +104,10 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Sublime Text](https://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-<!-- #### Various
+#### Various
 
 * [JavaScript - Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-* [JavaScript - Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) -->
+* [JavaScript - Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 
 #### Videos
 

@@ -89,40 +89,42 @@ This material will be updated on a weekly basis.
   * extras - React Native
     * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
 
+ extras - React Native
+    * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
+    * [Basics - Intro](/assets/docs/extras/react-native-basics-intro.pdf)
+    * [Basics - Props](/assets/docs/2018/extras/react-native-basics-props.pdf)
+    * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
+-->
 
 ##### Week 8 - 18th October 2018
 
   * [course](/assets/docs/2018/comp422-week8.pdf)
   * extras - Cordova
-    * [extras & options](/assets/docs/2018/extras/cordova-extras-notes.pdf)
-
- extras - patterns
+    * [extras & options](/assets/docs/extras/cordova-extras-notes.pdf)
+  * extras - JS patterns
     * [observer](/assets/docs/extras/observer-pattern.pdf)
     * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
   * extras - React Native
-    * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
-    * [Basics - Props](/assets/docs/2018/extras/react-native-basics-props.pdf)
-    * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
--->
+    * [Basics - Intro](/assets/docs/extras/react-native-basics-intro.pdf)
+    * [Basics - Props](/assets/docs/extras/react-native-basics-props.pdf)
 
 ##### Week 7 - 10th October 2019
 
   * [course](/assets/docs/2019/comp422-week7.pdf)
   * extras - Cordova
     * [custom plugins](/assets/docs/extras/cordova-custom-plugins-notes.pdf)
-  * extras - js
+  * extras - JS
     * [generators & promises](/assets/docs/extras/js-generators-promises.pdf)
   * extras - React Native
     * [Install for OS X](/assets/docs/extras/react-native-install-osx.pdf)
     * [Install for Windows 10](/assets/docs/extras/react-native-install-windows.pdf)
-    * [Basics - Intro](/assets/docs/extras/react-native-basics-intro.pdf)
 
 ##### Week 6 - 3rd October 2019
 
   * [course](/assets/docs/2019/comp422-week6.pdf)
   * extras - design
     * [Design our App](/assets/docs/extras/design-our-app.pdf)
-  * extras - js
+  * extras - JS
     * [generators & promises](/assets/docs/extras/js-generators-promises.pdf)
     * [JSON](/assets/docs/extras/js-json.pdf)
 
@@ -135,7 +137,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2019/comp422-week4.pdf)
   * extras - design
     * [Design and Interface - Intro](/assets/docs/extras/design-interface-intro.pdf)
-  * extras - html5
+  * extras - HTML5
     * [HTML5 - extra](/assets/docs/extras/html5-extra.pdf)
   * extras - UI related
     * [CSS - Flexbox](/assets/docs/extras/css-flexbox-guide.pdf)
@@ -147,7 +149,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2019/comp422-week3.pdf)
   * extras - design
     * [Design and Mockups](/assets/docs/extras/design-mockups.pdf)
-  * extras - www related
+  * extras - WWW related
     * [CSS - box model](/assets/docs/extras/css-box-model.pdf)
     * [CSS - HTML5](/assets/docs/extras/css-html5.pdf)
     * [HTML5 - intro](/assets/docs/extras/html5-intro.pdf)
@@ -163,7 +165,7 @@ This material will be updated on a weekly basis.
     * [Cordova app - plugins](/assets/docs/extras/cordova-app-plugins.pdf)
     * [Cordova app - splashscreens and icons](/assets/docs/extras/cordova-app-splashscreen-icon.pdf)
     * [Cordova CLI - Useful Commands](/assets/docs/extras/cordova-cli-useful-commands.pdf)
-  * extras - www related
+  * extras - WWW related
     * [CSS - intro](/assets/docs/extras/css-intro.pdf)
     * [CSS - basics](/assets/docs/extras/css-basics.pdf)
     * [HTML - intro](/assets/docs/extras/html-intro.pdf)

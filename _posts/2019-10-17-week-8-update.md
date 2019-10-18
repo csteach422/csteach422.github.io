@@ -1,5 +1,5 @@
 ---
-title: Week 7 update and assignment
+title: Week 8 update and assignment
 author: ancientlives
 layout: post-vertical
 
@@ -9,13 +9,13 @@ categories:
 tags: general news
 year: 2019
 month: 10
-day: 10
+day: 17
 published: true
-summary: site updated and week 7 assignment
-menu: week7-update
+summary: site updated and week 8 assignment
+menu: week8-update
 ---
 
-The course website has now been updated for this week's class, week 7.
+The course website has now been updated for this week's class, week 8.
 
 Updates include the following,
 

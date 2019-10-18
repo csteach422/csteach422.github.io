@@ -185,16 +185,19 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 8 - 18th October 2018
+#### Week 8 - 17th October 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - Cordova
-    * [extras & options](/assets/docs/2018/extras/cordova-extras-notes.pdf)
+    * [extras & options](/assets/docs/extras/cordova-extras-notes.pdf)
+  * extras - js patterns
+    * [observer](/assets/docs/extras/observer-pattern.pdf)
+    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
   * extras - React Native
-    * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
-    * [Basics - Props](/assets/docs/2018/extras/react-native-basics-props.pdf)
-    * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
+    * [Basics - Intro](/assets/docs/extras/react-native-basics-intro.pdf)
+    * [Basics - Props](/assets/docs/extras/react-native-basics-props.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 8](https://github.com/csteach422/source/tree/master/week8)
@@ -202,17 +205,12 @@ Enjoy your week.
   * ensure you have a working React Native test application
   * test the above initial code examples
 * Please add updates on your group's project development to the course's Trello group,
-  * [Week 8 - DEV Week prep](https://trello.com/b/Uzv4gWga/week-8-dev-week-prep)
+  * [Week 8 - DEV Week prep](https://trello.com/b/qvg4G9tc/week-8-dev-week-prep)
   * I've added instructions on this board.
-
-extras - js patterns
-    * [observer](/assets/docs/extras/observer-pattern.pdf)
-    * [pub/sub](/assets/docs/extras/pubsub-pattern.pdf)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 7 - 10th October 2019
 
