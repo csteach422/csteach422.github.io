@@ -78,7 +78,8 @@ There is no specific textbook for this course.
 * [React JS - `componentDidUpdate`](https://reactjs.org/docs/react-component.html#componentdidupdate)
 * [React JS - `shouldComponentUpdate`](https://reactjs.org/docs/react-component.html#shouldcomponentupdate)
 
-##### Week 9 - 25th October 2018
+
+##### Week 9 - 24th October 2019
 
 * Cordova API docs
 	* [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
@@ -86,7 +87,6 @@ There is no specific textbook for this course.
 	* [Hooks](https://cordova.apache.org/docs/en/latest/guide/appdev/hooks/index.html)
 	* [Merges](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html#merges)
 	* [Network Information](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-network-information/index.html)
-
 * React Native
 	* [MDN - super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 	* [React Native - Layout Props](https://facebook.github.io/react-native/docs/layout-props.html)

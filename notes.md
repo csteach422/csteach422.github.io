@@ -74,7 +74,7 @@ This material will be updated on a weekly basis.
 	  * [JS - Google APIs overview](/assets/docs/2018/extras/google-apis-overview.pdf)
 	  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/2018/extras/oauth-google-api.pdf)
 
-##### Week 9 - 25th October 2018
+##### Week 9 - 24th October 2019
 
   * [course](/assets/docs/2018/comp422-week9.pdf)
   * extras - Cordova
@@ -87,18 +87,14 @@ This material will be updated on a weekly basis.
   * extras - data stores
     * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
   * extras - React Native
-    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
-
- extras - React Native
     * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
-    * [Basics - Intro](/assets/docs/extras/react-native-basics-intro.pdf)
-    * [Basics - Props](/assets/docs/2018/extras/react-native-basics-props.pdf)
+    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
     * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
 -->
 
-##### Week 8 - 18th October 2018
+##### Week 8 - 17th October 2019
 
-  * [course](/assets/docs/2018/comp422-week8.pdf)
+  * [course](/assets/docs/2019/comp422-week8.pdf)
   * extras - Cordova
     * [extras & options](/assets/docs/extras/cordova-extras-notes.pdf)
   * extras - JS patterns

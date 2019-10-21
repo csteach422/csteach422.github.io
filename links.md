@@ -88,13 +88,13 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Microsoft's AppCenter](https://appcenter.ms/)
 * [Node.js](https://nodejs.org/en/)
 * [React](https://reactjs.org/)
+* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 * [React Native](https://facebook.github.io/react-native/)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
 
 <!-- * [Firebase](https://firebase.google.com/)
 * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart) -->
 <!--
-* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 * [React Navigation](https://www.npmjs.com/package/react-navigation) -->
 <!-- * [Yarn - Firebase](https://yarnpkg.com/en/package/firebase) -->
 
@@ -119,10 +119,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * Google Prototyping Series
   * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
-
-<!-- *
-*  google prototyping series
-  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI) -->
+  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
 
 <!-- #### Websites
 
