@@ -73,24 +73,26 @@ This material will be updated on a weekly basis.
   * extras - general
 	  * [JS - Google APIs overview](/assets/docs/2018/extras/google-apis-overview.pdf)
 	  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/2018/extras/oauth-google-api.pdf)
+-->
 
 ##### Week 9 - 24th October 2019
 
-  * [course](/assets/docs/2018/comp422-week9.pdf)
+  * [course](/assets/docs/2019/comp422-week9.pdf)
   * extras - Cordova
-    * [App - Intro](/assets/docs/2018/extras/cordova-app-intro.pdf)
-    * [App - Basic Dev](/assets/docs/2018/extras/cordova-app-basic-dev.pdf)
-    * [App - Architecture](/assets/docs/2018/extras/cordova-app-architecture.pdf)
-    * [App - Blue Print](/assets/docs/2018/extras/cordova-app-blueprint.pdf)
-    * [App - Plugins](/assets/docs/2018/extras/cordova-app-plugins.pdf)
-    * [App - Splashscreen & Icon](/assets/docs/2018/extras/cordova-app-splashscreen-icon.pdf)
+    * [App - Intro](/assets/docs/extras/cordova-app-intro.pdf)
+    * [App - Basic Dev](/assets/docs/extras/cordova-app-basic-dev.pdf)
+    * [App - Architecture](/assets/docs/extras/cordova-app-architecture.pdf)
+    * [App - Blue Print](/assets/docs/extras/cordova-app-blueprint.pdf)
+    * [App - Plugins](/assets/docs/extras/cordova-app-plugins.pdf)
+    * [App - Splashscreen & Icon](/assets/docs/extras/cordova-app-splashscreen-icon.pdf)
   * extras - data stores
-    * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
+    * [Firebase - Setup & Usage](/assets/docs/extras/ds-firebase-guide.pdf)
   * extras - React Native
-    * [Basics - Flex](/assets/docs/2018/extras/react-native-basics-flex.pdf)
-    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
-    * [Basics - Style](/assets/docs/2018/extras/react-native-basics-style.pdf)
--->
+    * [Basics - Flex](/assets/docs/extras/react-native-basics-flex.pdf)
+    * [Basics - State](/assets/docs/extras/react-native-basics-state.pdf)
+    * [Basics - Style](/assets/docs/extras/react-native-basics-style.pdf)
+  * extras - UI related
+    * [CSS - Flexbox](/assets/docs/extras/css-flexbox-guide.pdf)
 
 ##### Week 8 - 17th October 2019
 

@@ -77,7 +77,7 @@ There is no specific textbook for this course.
 * [React JS - Component Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 * [React JS - `componentDidUpdate`](https://reactjs.org/docs/react-component.html#componentdidupdate)
 * [React JS - `shouldComponentUpdate`](https://reactjs.org/docs/react-component.html#shouldcomponentupdate)
-
+-->
 
 ##### Week 9 - 24th October 2019
 
@@ -90,7 +90,6 @@ There is no specific textbook for this course.
 * React Native
 	* [MDN - super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 	* [React Native - Layout Props](https://facebook.github.io/react-native/docs/layout-props.html)
--->
 
 ##### Week 8 - 17th October 2019
 

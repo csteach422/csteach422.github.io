@@ -159,33 +159,36 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 9 - 25th October 2018
+#### Week 9 - 24th October 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - Cordova
-    * [App - Intro](/assets/docs/2018/extras/cordova-app-intro.pdf)
-    * [App - Basic Dev](/assets/docs/2018/extras/cordova-app-basic-dev.pdf)
-    * [App - Architecture](/assets/docs/2018/extras/cordova-app-architecture.pdf)
-    * [App - Blue Print](/assets/docs/2018/extras/cordova-app-blueprint.pdf)
-    * [App - Plugins](/assets/docs/2018/extras/cordova-app-plugins.pdf)
-    * [App - Splashscreen & Icon](/assets/docs/2018/extras/cordova-app-splashscreen-icon.pdf)
+    * [App - Intro](/assets/docs/extras/cordova-app-intro.pdf)
+    * [App - Basic Dev](/assets/docs/extras/cordova-app-basic-dev.pdf)
+    * [App - Architecture](/assets/docs/extras/cordova-app-architecture.pdf)
+    * [App - Blue Print](/assets/docs/extras/cordova-app-blueprint.pdf)
+    * [App - Plugins](/assets/docs/extras/cordova-app-plugins.pdf)
+    * [App - Splashscreen & Icon](/assets/docs/extras/cordova-app-splashscreen-icon.pdf)
+  * extras - data stores
+    * [Firebase - Setup & Usage](/assets/docs/extras/ds-firebase-guide.pdf)
   * extras - React Native
-    * [Basics - State](/assets/docs/2018/extras/react-native-basics-state.pdf)
-    * [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
+    * [Basics - Flex](/assets/docs/extras/react-native-basics-flex.pdf)
+    * [Basics - State](/assets/docs/extras/react-native-basics-state.pdf)
+    * [Basics - Style](/assets/docs/extras/react-native-basics-style.pdf)
   * extras - UI related
-    * [CSS - Flexbox](/assets/docs/2018/extras/css-flexbox-guide.pdf)
+    * [CSS - Flexbox](/assets/docs/extras/css-flexbox-guide.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 9](https://github.com/csteach422/source/tree/master/week9)
 * Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2018/comp424-week9.pdf)
+  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2019/comp424-week9.pdf)
   * details are also available in the [Coursework](/coursework/#assessment3) section of this site
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 8 - 17th October 2019
 
