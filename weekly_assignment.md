@@ -121,12 +121,6 @@ Enjoy your week.
   * further details can be found in the following PDF
   * [Design - Part 3](/assets/docs/2018/discussion/422-design-part3.pdf)
 
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 10 - 1st November 2018
-
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - general
 	  * [JS - Google APIs overview](/assets/docs/2018/extras/google-apis-overview.pdf)
@@ -137,29 +131,48 @@ Enjoy your week.
 	  * [Cordova](https://github.com/csteach422/source/tree/master/week10/cordova)
 		  * Notetaker app - part 1 for jQuery Mobile & OnsenUI
 	  * [extras - Cordova & Oauth tests](https://github.com/csteach422/source/tree/master/extras)
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-	* [Group 1 - Game](https://goo.gl/forms/AFDe7lgOYeLBxy7n2)
-	* [Group 2 - Going Out: Bar Hopper](https://goo.gl/forms/9w7TQjWg1DAj41bB3)
-	* [Group 3 - Rendezvous](https://goo.gl/forms/Xp6H9psLfXJt8MNY2)
-	* [Group 4 - Chirply](https://goo.gl/forms/lXis41AXEYF0Tp3m2)
-  * [Group 5 - Events App](https://goo.gl/forms/k1qu8AXnZoMWwnxh1)
-  * [Group 6 - Spark Dating](https://goo.gl/forms/xkADfktkLBVNWf993)
-* Complete these peer review forms by **Thursday 8th November 2018** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
-* Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 10 - Presentation & Dev Files](https://trello.com/b/tFQjG5QO/week-10-presentation-dev-files)
-  * Please add these files as soon as possible, and by **Thursday 8th November 2018** at the latest
-  * instructions are included as a list on the above board
-* Complete the following Trello board,
-  * [Week 10 - Project Contributions](https://trello.com/b/3NMCPg1i/week-10-project-contributions)
-  * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Thursday 8th November 2018** at the latest
 
 Any questions, please let me know.
 
 Enjoy your week.
+
+	* [Group 8 - ](https://forms.gle/4x3QWaSjQ7xoW5JZ6)
+	* [Group 9 - ](https://forms.gle/NLgNJcNxMvXVHo517)
+	* [Group 10 - ](https://forms.gle/SDoVcMDbs43GBsYV8)
+  * [Group 11 - ](https://forms.gle/nLj9jpEx5dXjCNLaA)
+  * [Group 12 - ](https://forms.gle/ddm1537ZK195FzAC9)
+	* [Group 13 - ](https://forms.gle/cw9vYMZ74kXEkGHXA)
+  * [Group 14 - ](https://forms.gle/nfUTdZr8jTkXsUFw7)
+  * [Group 15 - ](https://forms.gle/aqnS3rqYgQjrGkKA6) 
+
 -->
+
+#### Week 10 - 29th October 2019
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+	* [Group 1 - Double Tap](https://forms.gle/npSLdhWpshyUvoGx9)
+	* [Group 2 - Veggie](https://forms.gle/zSctvozr8uFFHGtx5)
+	* [Group 3 - Bespoke Beauty](https://forms.gle/v387ek7Cp6jJiw3B8)
+	* [Group 4 - Card Vision](https://forms.gle/E45pzAKC6sHBxoX88)
+  * [Group 5 - CTA Tracker](https://forms.gle/5Ysce1RNVa1c6vWw9)
+  * [Group 6 - Money Helper](https://forms.gle/2sG8YzCmLAfvBvEQ8)
+  * [Group 7 - Shape Shifter](https://forms.gle/ZsNYX5RDddN4ENGXA)
+* Complete these peer review forms by **Thursday 7th November 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/IcGwzaal/week-10-presentation-dev-files)
+  * Please add these files as soon as possible, and by **Thursday 7th November 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/qUUbCKoe/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Thursday 7th November 2019** at the latest
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 9 - 24th October 2019
 
@@ -281,6 +294,7 @@ Enjoy your week.
   <!-- * [Group 15 - ](https://forms.gle/w6BHhdDatmnKUGaSA) -->
 * Complete these peer review forms by **Thursday 3rd October 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
 * You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Please add your presentation files, notes, &c. to the following board on Trello,
   * [Week 5 - Presentation Files](https://trello.com/b/Z9DEssfZ/week-5-presentation-files)

@@ -79,6 +79,10 @@ There is no specific textbook for this course.
 * [React JS - `shouldComponentUpdate`](https://reactjs.org/docs/react-component.html#shouldcomponentupdate)
 -->
 
+##### Week 10 - 31st October 2019
+
+* N/A - Presentations
+
 ##### Week 9 - 24th October 2019
 
 * Cordova API docs

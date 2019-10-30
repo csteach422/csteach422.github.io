@@ -75,6 +75,10 @@ This material will be updated on a weekly basis.
 	  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/2018/extras/oauth-google-api.pdf)
 -->
 
+##### Week 10 - 31st October 2019
+
+  * N/A - Presentations
+
 ##### Week 9 - 24th October 2019
 
   * [course](/assets/docs/2019/comp422-week9.pdf)
