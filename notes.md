@@ -55,25 +55,21 @@ This material will be updated on a weekly basis.
   * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
 * extras - React Native
 	* [Basics - Working with Maps](/assets/docs/2018/extras/react-native-basics-maps.pdf)
-
-##### Week 11 - 8th November 2018
-
-* [course](/assets/docs/2018/comp422-week11.pdf)
-* extras - design
-	* [Design and Information Architecture](/assets/docs/2018/extras/design-information-architecture.pdf)
-* extras - React Native
-	* [Basics - Lists](/assets/docs/2018/extras/react-native-basics-lists.pdf)
-	* [Basics - Scroll](/assets/docs/2018/extras/react-native-basics-scroll.pdf)
-	* [Basics - Text Input](/assets/docs/2018/extras/react-native-basics-text-input.pdf)
-	* [Basics - Touch](/assets/docs/2018/extras/react-native-basics-touch.pdf)
-
-##### Week 10 - 1st November 2018
-
-  * [course](/assets/docs/2018/comp422-week10.pdf)
-  * extras - general
-	  * [JS - Google APIs overview](/assets/docs/2018/extras/google-apis-overview.pdf)
-	  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/2018/extras/oauth-google-api.pdf)
 -->
+
+<!-- ##### Week 11 - 7th November 2019
+
+* [course](/assets/docs/2019/comp422-week11.pdf)
+* extras - design
+	* [Design and Information Architecture](/assets/docs/extras/design-information-architecture.pdf)
+* extras - React Native
+	* [Basics - Lists](/assets/docs/extras/react-native-basics-lists.pdf)
+	* [Basics - Scroll](/assets/docs/extras/react-native-basics-scroll.pdf)
+	* [Basics - Text Input](/assets/docs/extras/react-native-basics-text-input.pdf)
+	* [Basics - Touch](/assets/docs/extras/react-native-basics-touch.pdf)
+* extras - general
+  * [JS - Google APIs overview](/assets/docs/extras/google-apis-overview.pdf)
+  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/extras/oauth-google-api.pdf) -->
 
 ##### Week 10 - 31st October 2019
 

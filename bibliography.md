@@ -65,19 +65,16 @@ There is no specific textbook for this course.
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
 	* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
 	* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
+-->
 
-##### Week 11 - 8th November 2018
+##### Week 11 - 7th November 2019
 
 * [React Navigation](https://www.npmjs.com/package/react-navigation)
 * [React Native - Layout Props](https://facebook.github.io/react-native/docs/layout-props.html)
 * [React Native - StatusBar](https://facebook.github.io/react-native/docs/statusbar.html)
-
-##### Week 10 - 1st November 2018
-
 * [React JS - Component Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 * [React JS - `componentDidUpdate`](https://reactjs.org/docs/react-component.html#componentdidupdate)
 * [React JS - `shouldComponentUpdate`](https://reactjs.org/docs/react-component.html#shouldcomponentupdate)
--->
 
 ##### Week 10 - 31st October 2019
 
