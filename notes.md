@@ -55,21 +55,26 @@ This material will be updated on a weekly basis.
   * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
 * extras - React Native
 	* [Basics - Working with Maps](/assets/docs/2018/extras/react-native-basics-maps.pdf)
+
+extras - React Native
+	* [Basics - Lists](/assets/docs/extras/react-native-basics-lists.pdf)
+	* [Basics - Scroll](/assets/docs/extras/react-native-basics-scroll.pdf)
+	* [Basics - State](/assets/docs/extras/react-native-basics-state.pdf)
+	* [Basics - Text Input](/assets/docs/extras/react-native-basics-text-input.pdf)
+	* [Basics - Touch](/assets/docs/extras/react-native-basics-touch.pdf)
 -->
 
-<!-- ##### Week 11 - 7th November 2019
+##### Week 11 - 7th November 2019
 
 * [course](/assets/docs/2019/comp422-week11.pdf)
 * extras - design
 	* [Design and Information Architecture](/assets/docs/extras/design-information-architecture.pdf)
 * extras - React Native
-	* [Basics - Lists](/assets/docs/extras/react-native-basics-lists.pdf)
-	* [Basics - Scroll](/assets/docs/extras/react-native-basics-scroll.pdf)
-	* [Basics - Text Input](/assets/docs/extras/react-native-basics-text-input.pdf)
+	* [Basics - State](/assets/docs/extras/react-native-basics-state.pdf)
 	* [Basics - Touch](/assets/docs/extras/react-native-basics-touch.pdf)
 * extras - general
   * [JS - Google APIs overview](/assets/docs/extras/google-apis-overview.pdf)
-  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/extras/oauth-google-api.pdf) -->
+  * [JS - OAuth 2.0 with Google APIs overview](/assets/docs/extras/oauth-google-api.pdf)
 
 ##### Week 10 - 31st October 2019
 
@@ -89,7 +94,6 @@ This material will be updated on a weekly basis.
     * [Firebase - Setup & Usage](/assets/docs/extras/ds-firebase-guide.pdf)
   * extras - React Native
     * [Basics - Flex](/assets/docs/extras/react-native-basics-flex.pdf)
-    * [Basics - State](/assets/docs/extras/react-native-basics-state.pdf)
     * [Basics - Style](/assets/docs/extras/react-native-basics-style.pdf)
   * extras - UI related
     * [CSS - Flexbox](/assets/docs/extras/css-flexbox-guide.pdf)

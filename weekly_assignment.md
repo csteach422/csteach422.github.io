@@ -105,13 +105,24 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+* [Group 15 - ](https://forms.gle/aqnS3rqYgQjrGkKA6) 
+
+-->
+
+#### Week 11 - 7th November 2019
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+	* [Group 13 - GetFit](https://forms.gle/cw9vYMZ74kXEkGHXA)
+  * [Group 14 - Audio Blender](https://forms.gle/nfUTdZr8jTkXsUFw7)  
+* Complete these peer review forms by **Thursday 14th November 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
 	* extras - design
 		* [Design and Information Architecture](/assets/docs/extras/design-information-architecture.pdf)
 	* extras - React Native
-		* [Basics - Lists](/assets/docs/extras/react-native-basics-lists.pdf)
-		* [Basics - Scroll](/assets/docs/extras/react-native-basics-scroll.pdf)
-		* [Basics - Text Input](/assets/docs/extras/react-native-basics-text-input.pdf)
+		* [Basics - State](/assets/docs/extras/react-native-basics-state.pdf)
 		* [Basics - Touch](/assets/docs/extras/react-native-basics-touch.pdf)
 	* extras - general
 	  * [JS - Google APIs overview](/assets/docs/extras/google-apis-overview.pdf)
@@ -126,20 +137,6 @@ Enjoy your week.
 * please contribute to this week's class discussion on Slack channel `#discussion-part3`
   * further details can be found in the following PDF
   * [Design - Part 3](/assets/docs/2019/discussion/422-design-part3.pdf)
-
-* [Group 15 - ](https://forms.gle/aqnS3rqYgQjrGkKA6) 
-
--->
-
-#### Week 11 - 5th November 2019
-
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-	* [Group 13 - GetFit](https://forms.gle/cw9vYMZ74kXEkGHXA)
-  * [Group 14 - Audio Blender](https://forms.gle/nfUTdZr8jTkXsUFw7)  
-* Complete these peer review forms by **Thursday 14th November 2019** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-  * do **NOT** complete a review for your own group
-* You may use the **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 
 Any questions, please let me know.
 
