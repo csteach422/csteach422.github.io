@@ -51,21 +51,23 @@ There is no specific textbook for this course.
 	* [React Native Firebase](https://rnfirebase.io/)
 	* [React Navigation](https://reactnavigation.org/)
 * Various
-	* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [MDN - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 	* [NPM - Firebase](https://www.npmjs.com/package/firebase)
 	* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+-->
 
-##### Week 12 - 15th November 2018
+##### Week 12 - 14th November 2019
 
+* React & React Native
+	* [React Native Firebase](https://rnfirebase.io/)
 * Various
 	* [Axios JS library](https://www.npmjs.com/package/axios)
 	* [Firebase](https://firebase.google.com/)
+	* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
 	* [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
 	* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
--->
 
 ##### Week 11 - 7th November 2019
 

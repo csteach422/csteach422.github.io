@@ -81,6 +81,8 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Apache Ripple Simulator - MS Article](https://taco.visualstudio.com/en-us/docs/run-app-ripple-simulator/)
 * [Axios JS library](https://www.npmjs.com/package/axios)
 * [Fastlane tools](https://fastlane.tools/)
+* [Firebase](https://firebase.google.com/)
+* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 * [Genymotion](https://www.genymotion.com/)
 * [Git](http://git-scm.com/)
 * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
@@ -92,11 +94,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * [React Navigation](https://www.npmjs.com/package/react-navigation)
 * [React Native](https://facebook.github.io/react-native/)
 * [Visual Studio Tools for Apache Cordova](https://taco.visualstudio.com/)
-
-<!-- * [Firebase](https://firebase.google.com/)
-* [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart) -->
-
-<!-- * [Yarn - Firebase](https://yarnpkg.com/en/package/firebase) -->
+* [Yarn - Firebase](https://yarnpkg.com/en/package/firebase)
 
 ##### Text Editors (examples)
 
@@ -121,7 +119,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
   * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
 
-<!-- #### Websites
+#### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * [Colour](https://robots.thoughtbot.com/color)
@@ -132,6 +130,6 @@ If you have any suggestions for additions to this section of the site, please fe
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
-  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html) -->
+  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.

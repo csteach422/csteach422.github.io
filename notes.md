@@ -42,27 +42,25 @@ This material will be updated on a weekly basis.
     * [Heroku and Postman](/assets/docs/2018/extras/api-heroku-mongo.pdf)
     * [Node.js API](/assets/docs/2018/extras/node-todos-api.pdf)
     * [Node.js API Testing](/assets/docs/2018/extras/testing-todos-api.pdf)
+-->
 
-##### Week 12 - 15th November 2018
+##### Week 12 - 14th November 2019
 
-* [course](/assets/docs/2018/comp422-week12.pdf)
+* [course](/assets/docs/2019/comp422-week12.pdf)
 * extras - data stores
-  * [Firebase - Setup & Usage](/assets/docs/2018/extras/ds-firebase-guide.pdf)
+  * [Firebase - Setup & Usage](/assets/docs/extras/ds-firebase-guide.pdf)
 * extras - Heroku & Git setup
-  * [Heroku & Git](/assets/docs/2018/extras/git-heroku-setup.pdf)
-  * [Heroku & MongoDB](/assets/docs/2018/extras/heroku-mongodb-setup.pdf)
+  * [Heroku & Git](/assets/docs/extras/git-heroku-setup.pdf)
+  * [Heroku & MongoDB](/assets/docs/extras/heroku-mongodb-setup.pdf)
 * extras - MongoDB & Native Driver
-  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/2018/extras/data-stores-apis.pdf)
+  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/extras/data-stores-apis.pdf)
 * extras - React Native
-	* [Basics - Working with Maps](/assets/docs/2018/extras/react-native-basics-maps.pdf)
-
-extras - React Native
 	* [Basics - Lists](/assets/docs/extras/react-native-basics-lists.pdf)
 	* [Basics - Scroll](/assets/docs/extras/react-native-basics-scroll.pdf)
 	* [Basics - State](/assets/docs/extras/react-native-basics-state.pdf)
 	* [Basics - Text Input](/assets/docs/extras/react-native-basics-text-input.pdf)
 	* [Basics - Touch](/assets/docs/extras/react-native-basics-touch.pdf)
--->
+	* [Basics - Working with Maps](/assets/docs/extras/react-native-basics-maps.pdf)
 
 ##### Week 11 - 7th November 2019
 
