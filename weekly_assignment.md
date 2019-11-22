@@ -37,7 +37,7 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 14 - 27th November 2018
+#### Week 14 - 26th November 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
 	* extras - Modules
@@ -53,30 +53,33 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week
+Enjoy your week, and Thanksgiving holiday.
+-->
 
-#### Week 13 - 20th November 2018
+#### Week 13 - 21st November 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
 	* extras - data stores & authentication
-		* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
+		* [Firebase - Authentication](/assets/docs/extras/ds-firebase-auth-guide.pdf)
 	* extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
-	  * [Heroku and Postman](/assets/docs/2018/extras/api-heroku-mongo.pdf)
-	  * [Node.js API](/assets/docs/2018/extras/node-todos-api.pdf)
-	  * [Node.js API Testing](/assets/docs/2018/extras/testing-todos-api.pdf)
+	  * [Heroku and Postman](/assets/docs/extras/api-heroku-mongo.pdf)
+	  * [Node.js API](/assets/docs/extras/node-todos-api.pdf)
+	  * [Node.js API Testing](/assets/docs/extras/testing-todos-api.pdf)
+  * extras - Systems Management
+    * [Build First](/assets/docs/extras/notes-build-first.pdf)
+    * [Grunt - Basics](/assets/docs/extras/notes-grunt-basics.pdf)
+    * [Systems - Environments and Distributions](/assets/docs/extras/notes-system-env-dist.pdf)
+    * [Webpack - Basics](/assets/docs/extras/notes-webpack-basics.pdf)
+    * [Webpack - Assets](/assets/docs/extras/notes-webpack-assets.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 13](https://github.com/csteach422/source/tree/master/week13)
 * Please continue your team's project development in preparation for the final presentation 
-	* demos and presentation due on 4th/6th December 2018
-
-* extras - data stores & authentication
-		* [Firebase - Authentication](/assets/docs/2018/extras/ds-firebase-auth-guide.pdf)
+	* demos and presentation due on 3rd/5th December 2019
 
 Any questions, please let me know.
 
-Enjoy your week, and Thanksgiving holiday.
--->
+Enjoy your week.
 
 #### Week 12 - 14th November 2019
 

@@ -41,20 +41,23 @@ There is no specific textbook for this course.
 	* [React Navigation](https://reactnavigation.org/)
 	* [React Native Navigation](https://wix.github.io/react-native-navigation/#/)
 	* [React Native Navigation - GitHub](https://github.com/wix/react-native-navigation)
+-->
 
-##### Week 13 - 20th November 2018
+##### Week 13 - 21st November 2019
 
 * Cordova
 	* [Cordova plugin - Firebase Auth](https://www.npmjs.com/package/cordova-plugin-firebase-authentication)
 	* [Cordova, OAuth, & Firebase](https://firebase.google.com/docs/auth/web/cordova)
 * React & React Native
+	* [React DevTools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 	* [React Native Firebase](https://rnfirebase.io/)
 	* [React Navigation](https://reactnavigation.org/)
+	* [React Native Navigation](https://wix.github.io/react-native-navigation/#/)
+	* [React Native Navigation - GitHub](https://github.com/wix/react-native-navigation)
 * Various
 	* [MDN - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 	* [NPM - Firebase](https://www.npmjs.com/package/firebase)
 	* [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
--->
 
 ##### Week 12 - 14th November 2019
 
