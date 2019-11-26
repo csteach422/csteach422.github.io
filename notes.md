@@ -23,16 +23,22 @@ This material will be updated on a weekly basis.
 
 * extras - various
 	* [Final Report Outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
-
-##### Week 14 - 27th November 2018
-
-* [course](/assets/docs/2018/comp422-week14.pdf)
-* extras - Modules
-	* [CommonJS](/assets/docs/2018/extras/notes-commonjs-modules.pdf)
-	* [ES 2015 modules - technical](/assets/docs/2018/extras/notes-es-modules-technical.pdf)
-* extras - various
-	* [Final Report Outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
 -->
+
+##### Week 14 - 26th November 2019
+
+* [course](/assets/docs/2019/comp422-week14.pdf)
+* extras - JS
+	* [Prototype](/assets/docs/extras/js-prototype.pdf)
+	* [Proxy](/assets/docs/extras/notes-js-proxy.pdf)
+* extras - Modules
+	* [CommonJS](/assets/docs/extras/notes-commonjs-modules.pdf)
+	* [ES 2015 modules - usage](/assets/docs/extras/notes-es-modules-usage.pdf)
+	* [ES 2015 modules - technical](/assets/docs/extras/notes-es-modules-technical.pdf)
+* extras - Systems Management
+	* [Grunt - Project Outline](/assets/docs/extras/grunt-project-outline.pdf)
+* extras - various
+	* [Final Report Outline](assets/docs/2019/comp422-final-report-outline-2019.pdf)
 
 ##### Week 13 - 21st November 2019
 

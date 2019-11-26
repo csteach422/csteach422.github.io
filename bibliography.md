@@ -24,8 +24,9 @@ There is no specific textbook for this course.
 ##### Week 15 - 6th December 2018
 
 * N/A
+-->
 
-##### Week 14 - 27th November 2018
+##### Week 14 - 26th November 2019
 
 * Cordova API docs
 	* [config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
@@ -41,7 +42,14 @@ There is no specific textbook for this course.
 	* [React Navigation](https://reactnavigation.org/)
 	* [React Native Navigation](https://wix.github.io/react-native-navigation/#/)
 	* [React Native Navigation - GitHub](https://github.com/wix/react-native-navigation)
--->
+* Various - JS
+	* [MDN - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+	* [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+	* [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+	* [MDN - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+* Various - Tools
+	* [Grunt - JavaScript Task Runner](https://gruntjs.com/)
+	* [Webpack - JS bundler](https://webpack.js.org/)
 
 ##### Week 13 - 21st November 2019
 

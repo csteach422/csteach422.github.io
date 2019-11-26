@@ -36,25 +36,31 @@ summary: weekly assignment for COMP 322/422
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
 #### Week 14 - 26th November 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-	* extras - Modules
-	* [CommonJS](/assets/docs/2018/extras/notes-commonjs-modules.pdf)
-	* [ES 2015 modules - technical](/assets/docs/2018/extras/notes-es-modules-technical.pdf)
-* extras - various
-	* [Final Report Outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
-* * Review this week's [bibliography](/bibliography) links and material
+	* extras - JS
+	  * [Prototype](/assets/docs/extras/js-prototype.pdf)
+	  * [Proxy](/assets/docs/extras/notes-js-proxy.pdf)
+  * extras - Modules
+	  * [CommonJS](/assets/docs/extras/notes-commonjs-modules.pdf)
+	  * [ES 2015 modules - usage](/assets/docs/extras/notes-es-modules-usage.pdf)
+	  * [ES 2015 modules - technical](/assets/docs/extras/notes-es-modules-technical.pdf)
+  * extras - Systems Management
+	  * [Grunt - Project Outline](/assets/docs/extras/grunt-project-outline.pdf)
+  * extras - various
+	  * [Final Report Outline](http://csteach422.github.io/assets/docs/2019/comp422-final-report-outline-2019.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review and test the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 14](https://github.com/csteach422/source/tree/master/week14)
 * Please continue your team's project development in preparation for the final presentation 
-	* demos and presentation due on 4th/6th December 2018
+	* demos and presentation due on 3rd/5th December 2019
 
 Any questions, please let me know.
 
 Enjoy your week, and Thanksgiving holiday.
--->
 
 #### Week 13 - 21st November 2019
 
