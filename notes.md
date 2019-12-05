@@ -18,12 +18,12 @@ This material will be updated on a weekly basis.
 
 ***
 
-<!--
-##### Week 15 - 6th December 2018
+
+##### Week 15 - 5th December 2019
 
 * extras - various
-	* [Final Report Outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
--->
+	* [Final Report Outline](/assets/docs/2019/comp422-final-report-outline-2019.pdf)
+
 
 ##### Week 14 - 26th November 2019
 
@@ -38,7 +38,7 @@ This material will be updated on a weekly basis.
 * extras - Systems Management
 	* [Grunt - Project Outline](/assets/docs/extras/grunt-project-outline.pdf)
 * extras - various
-	* [Final Report Outline](assets/docs/2019/comp422-final-report-outline-2019.pdf)
+	* [Final Report Outline](/assets/docs/2019/comp422-final-report-outline-2019.pdf)
 
 ##### Week 13 - 21st November 2019
 

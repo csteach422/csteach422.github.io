@@ -18,14 +18,14 @@ summary: weekly assignment for COMP 322/422
 
 ***
 
-<!--
-#### Week 15 - 6th December 2018
+
+#### Week 15 - 5th December 2019
 
 * Please complete your group's final project report
   * suggested report length approximately 10 pages
 * Further details can be found in the following outline
-  * [final report outline](http://csteach422.github.io/assets/docs/2018/extras/comp422-final-report-outline-2018.pdf)
-* Report must be submitted by 6.15pm on Satuday 15th December 2018
+  * [final report outline](/assets/docs/2019/comp422-final-report-outline-2019.pdf)
+* Report must be submitted by 6.15pm on Satuday 14th December 2019
    * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP422 - Final Report)
    * OR send as an attachment to a private message on Slack
 * Please share with me a copy of your group's final code. This may include the following options,
@@ -36,7 +36,6 @@ summary: weekly assignment for COMP 322/422
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 14 - 26th November 2019
 
